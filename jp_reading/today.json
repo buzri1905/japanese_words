@@ -1,16 +1,38 @@
 {
   "date": "2026-04-29",
-  "passage": {
+  "recipe": {
     "id": 1,
     "level": "N1",
-    "title": "情報過多の時代",
-    "title_meaning": "정보 과다의 시대",
-    "body": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>では、<ruby>絶<rt>た</rt></ruby>え<ruby>間<rt>ま</rt></ruby>なく<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れ<ruby>込<rt>こ</rt></ruby>んでくる。<ruby>取捨選択<rt>しゅしゃせんたく</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>を<ruby>培<rt>つちか</rt></ruby>わなければ、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>なものを<ruby>見失<rt>みうしな</rt></ruby>ってしまう。",
-    "body_meaning": "현대 사회에서는 끊임없이 정보가 흘러들어온다. 취사선택할 힘을 기르지 않으면 정말 필요한 것을 놓쳐버리고 만다.",
+    "title": "親子丼",
+    "title_meaning": "오야코동 (닭고기 계란 덮밥)",
+    "description": "<ruby>鶏肉<rt>とりにく</rt></ruby>と<ruby>卵<rt>たまご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>代表的<rt>だいひょうてき</rt></ruby>な<ruby>丼物<rt>どんぶりもの</rt></ruby>。",
+    "servings": "2人分",
+    "ingredients": [
+      "<ruby>鶏<rt>とり</rt></ruby>もも<ruby>肉<rt>にく</rt></ruby> 200g",
+      "<ruby>卵<rt>たまご</rt></ruby> 3<ruby>個<rt>こ</rt></ruby>",
+      "<ruby>玉<rt>たま</rt></ruby>ねぎ 1/2<ruby>個<rt>こ</rt></ruby>",
+      "だし<ruby>汁<rt>じる</rt></ruby> 150ml",
+      "<ruby>醤油<rt>しょうゆ</rt></ruby> <ruby>大<rt>おお</rt></ruby>さじ2",
+      "みりん <ruby>大<rt>おお</rt></ruby>さじ2",
+      "<ruby>砂糖<rt>さとう</rt></ruby> <ruby>大<rt>おお</rt></ruby>さじ1",
+      "ご<ruby>飯<rt>はん</rt></ruby> 2<ruby>杯分<rt>はいぶん</rt></ruby>"
+    ],
+    "steps": [
+      "<ruby>玉<rt>たま</rt></ruby>ねぎを<ruby>薄切<rt>うすぎ</rt></ruby>りにし、<ruby>鶏肉<rt>とりにく</rt></ruby>は<ruby>一口大<rt>ひとくちだい</rt></ruby>に<ruby>切<rt>き</rt></ruby>る。",
+      "<ruby>鍋<rt>なべ</rt></ruby>にだし<ruby>汁<rt>じる</rt></ruby>、<ruby>醤油<rt>しょうゆ</rt></ruby>、みりん、<ruby>砂糖<rt>さとう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>煮立<rt>にた</rt></ruby>たせる。",
+      "<ruby>玉<rt>たま</rt></ruby>ねぎと<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>加<rt>くわ</rt></ruby>え、<ruby>中火<rt>ちゅうび</rt></ruby>で5<ruby>分<rt>ふん</rt></ruby>ほど<ruby>煮<rt>に</rt></ruby>る。",
+      "<ruby>溶<rt>と</rt></ruby>き<ruby>卵<rt>たまご</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>し<ruby>入<rt>い</rt></ruby>れ、<ruby>半熟<rt>はんじゅく</rt></ruby>になったら<ruby>火<rt>ひ</rt></ruby>を<ruby>止<rt>と</rt></ruby>める。",
+      "<ruby>温<rt>あたた</rt></ruby>かいご<ruby>飯<rt>はん</rt></ruby>にのせて<ruby>完成<rt>かんせい</rt></ruby>。"
+    ],
     "vocab_notes": [
-      { "word": "絶え間なく", "reading": "たえまなく", "meaning": "끊임없이" },
-      { "word": "取捨選択", "reading": "しゅしゃせんたく", "meaning": "취사선택" },
-      { "word": "見失う", "reading": "みうしなう", "meaning": "놓치다, 잃어버리다" }
+      { "word": "鶏もも肉", "reading": "とりももにく", "meaning": "닭다리살" },
+      { "word": "だし汁", "reading": "だしじる", "meaning": "다시 국물" },
+      { "word": "薄切り", "reading": "うすぎり", "meaning": "얇게 썰기" },
+      { "word": "一口大", "reading": "ひとくちだい", "meaning": "한입 크기" },
+      { "word": "煮立たせる", "reading": "にたたせる", "meaning": "끓어오르게 하다" },
+      { "word": "中火", "reading": "ちゅうび", "meaning": "중간 불" },
+      { "word": "溶き卵", "reading": "ときたまご", "meaning": "풀어놓은 계란" },
+      { "word": "半熟", "reading": "はんじゅく", "meaning": "반숙" }
     ]
   }
 }

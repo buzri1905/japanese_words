@@ -1,0 +1,75 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "level": "N1",
+      "title": "親子丼",
+      "title_meaning": "오야코동 (닭고기 계란 덮밥)",
+      "description": "<ruby>鶏肉<rt>とりにく</rt></ruby>と<ruby>卵<rt>たまご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>代表的<rt>だいひょうてき</rt></ruby>な<ruby>丼物<rt>どんぶりもの</rt></ruby>。",
+      "servings": "2人分",
+      "ingredients": [
+        "<ruby>鶏<rt>とり</rt></ruby>もも<ruby>肉<rt>にく</rt></ruby> 200g",
+        "<ruby>卵<rt>たまご</rt></ruby> 3<ruby>個<rt>こ</rt></ruby>",
+        "<ruby>玉<rt>たま</rt></ruby>ねぎ 1/2<ruby>個<rt>こ</rt></ruby>",
+        "だし<ruby>汁<rt>じる</rt></ruby> 150ml",
+        "<ruby>醤油<rt>しょうゆ</rt></ruby> <ruby>大<rt>おお</rt></ruby>さじ2",
+        "みりん <ruby>大<rt>おお</rt></ruby>さじ2",
+        "<ruby>砂糖<rt>さとう</rt></ruby> <ruby>大<rt>おお</rt></ruby>さじ1",
+        "ご<ruby>飯<rt>はん</rt></ruby> 2<ruby>杯分<rt>はいぶん</rt></ruby>"
+      ],
+      "steps": [
+        "<ruby>玉<rt>たま</rt></ruby>ねぎを<ruby>薄切<rt>うすぎ</rt></ruby>りにし、<ruby>鶏肉<rt>とりにく</rt></ruby>は<ruby>一口大<rt>ひとくちだい</rt></ruby>に<ruby>切<rt>き</rt></ruby>る。",
+        "<ruby>鍋<rt>なべ</rt></ruby>にだし<ruby>汁<rt>じる</rt></ruby>、<ruby>醤油<rt>しょうゆ</rt></ruby>、みりん、<ruby>砂糖<rt>さとう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>煮立<rt>にた</rt></ruby>たせる。",
+        "<ruby>玉<rt>たま</rt></ruby>ねぎと<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>加<rt>くわ</rt></ruby>え、<ruby>中火<rt>ちゅうび</rt></ruby>で5<ruby>分<rt>ふん</rt></ruby>ほど<ruby>煮<rt>に</rt></ruby>る。",
+        "<ruby>溶<rt>と</rt></ruby>き<ruby>卵<rt>たまご</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>し<ruby>入<rt>い</rt></ruby>れ、<ruby>半熟<rt>はんじゅく</rt></ruby>になったら<ruby>火<rt>ひ</rt></ruby>を<ruby>止<rt>と</rt></ruby>める。",
+        "<ruby>温<rt>あたた</rt></ruby>かいご<ruby>飯<rt>はん</rt></ruby>にのせて<ruby>完成<rt>かんせい</rt></ruby>。"
+      ],
+      "vocab_notes": [
+        { "word": "鶏もも肉", "reading": "とりももにく", "meaning": "닭다리살" },
+        { "word": "だし汁", "reading": "だしじる", "meaning": "다시 국물" },
+        { "word": "薄切り", "reading": "うすぎり", "meaning": "얇게 썰기" },
+        { "word": "一口大", "reading": "ひとくちだい", "meaning": "한입 크기" },
+        { "word": "煮立たせる", "reading": "にたたせる", "meaning": "(국물 등을) 끓어오르게 하다" },
+        { "word": "中火", "reading": "ちゅうび", "meaning": "중간 불" },
+        { "word": "溶き卵", "reading": "ときたまご", "meaning": "풀어놓은 계란" },
+        { "word": "半熟", "reading": "はんじゅく", "meaning": "반숙" }
+      ],
+      "used_date": null
+    },
+    {
+      "id": 2,
+      "level": "N1",
+      "title": "卵焼き",
+      "title_meaning": "다마고야키 (계란말이)",
+      "description": "<ruby>朝食<rt>ちょうしょく</rt></ruby>や<ruby>弁当<rt>べんとう</rt></ruby>に<ruby>欠<rt>か</rt></ruby>かせない<ruby>定番<rt>ていばん</rt></ruby>の<ruby>卵<rt>たまご</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>。",
+      "servings": "1人分",
+      "ingredients": [
+        "<ruby>卵<rt>たまご</rt></ruby> 3<ruby>個<rt>こ</rt></ruby>",
+        "だし<ruby>汁<rt>じる</rt></ruby> <ruby>大<rt>おお</rt></ruby>さじ2",
+        "<ruby>醤油<rt>しょうゆ</rt></ruby> <ruby>小<rt>こ</rt></ruby>さじ1",
+        "<ruby>砂糖<rt>さとう</rt></ruby> <ruby>小<rt>こ</rt></ruby>さじ1",
+        "<ruby>塩<rt>しお</rt></ruby> <ruby>少々<rt>しょうしょう</rt></ruby>",
+        "サラダ<ruby>油<rt>あぶら</rt></ruby> <ruby>適量<rt>てきりょう</rt></ruby>"
+      ],
+      "steps": [
+        "ボウルに<ruby>卵<rt>たまご</rt></ruby>を<ruby>割<rt>わ</rt></ruby>り<ruby>入<rt>い</rt></ruby>れ、だし<ruby>汁<rt>じる</rt></ruby>と<ruby>調味料<rt>ちょうみりょう</rt></ruby>を<ruby>加<rt>くわ</rt></ruby>えてよく<ruby>混<rt>ま</rt></ruby>ぜる。",
+        "<ruby>卵焼<rt>たまごや</rt></ruby>き<ruby>器<rt>き</rt></ruby>を<ruby>中火<rt>ちゅうび</rt></ruby>で<ruby>熱<rt>ねっ</rt></ruby>し、<ruby>油<rt>あぶら</rt></ruby>を<ruby>薄<rt>うす</rt></ruby>くひく。",
+        "<ruby>卵液<rt>らんえき</rt></ruby>を1/3ほど<ruby>流<rt>なが</rt></ruby>し<ruby>入<rt>い</rt></ruby>れ、<ruby>半熟<rt>はんじゅく</rt></ruby>になったら<ruby>奥<rt>おく</rt></ruby>から<ruby>手前<rt>てまえ</rt></ruby>に<ruby>巻<rt>ま</rt></ruby>く。",
+        "<ruby>巻<rt>ま</rt></ruby>いた<ruby>卵<rt>たまご</rt></ruby>を<ruby>奥<rt>おく</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>せ、<ruby>再<rt>ふたた</rt></ruby>び<ruby>卵液<rt>らんえき</rt></ruby>を<ruby>流<rt>なが</rt></ruby>し<ruby>入<rt>い</rt></ruby>れて<ruby>巻<rt>ま</rt></ruby>く<ruby>動作<rt>どうさ</rt></ruby>を<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>す。",
+        "<ruby>形<rt>かたち</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>え、<ruby>冷<rt>さ</rt></ruby>ましてから<ruby>切<rt>き</rt></ruby>り<ruby>分<rt>わ</rt></ruby>ける。"
+      ],
+      "vocab_notes": [
+        { "word": "欠かせない", "reading": "かかせない", "meaning": "빼놓을 수 없는" },
+        { "word": "定番", "reading": "ていばん", "meaning": "단골, 기본" },
+        { "word": "適量", "reading": "てきりょう", "meaning": "적당량" },
+        { "word": "卵焼き器", "reading": "たまごやきき", "meaning": "계란말이 전용 팬" },
+        { "word": "卵液", "reading": "らんえき", "meaning": "풀어놓은 계란물" },
+        { "word": "奥", "reading": "おく", "meaning": "안쪽" },
+        { "word": "手前", "reading": "てまえ", "meaning": "앞쪽" },
+        { "word": "整える", "reading": "ととのえる", "meaning": "가다듬다, 모양을 잡다" },
+        { "word": "切り分ける", "reading": "きりわける", "meaning": "잘라 나누다" }
+      ],
+      "used_date": null
+    }
+  ]
+}

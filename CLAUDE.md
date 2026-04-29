@@ -12,8 +12,8 @@ Multi-plugin TRMNL repo. Each subdirectory is one TRMNL private plugin: a `today
 |------|----------|-------|---------|-----------|------------------|
 | `mother_jp/` | Mother (Korean speaker, JLPT beginner) | N5 + N4 | 3 words/day (default 2 N5 + 1 N4) | `vocabulary.json` (`words` array) | `{ date, words: [3] }` |
 | `my_jp/` | User (N1 holder) | **N1** (challenging) | 3 words/day | `vocabulary.json` (`words` array) | `{ date, words: [3] }` |
-| `jp_reading/` | User | N1 short passages | 1 passage/day | `passages.json` (`passages` array) | `{ date, passage: {...} }` |
-| `cn_vocab/` | User | HSK (level TBD — confirm with user when scaling up) | 3 words/day | `vocabulary.json` (`words` array) | `{ date, words: [3] }` |
+| `jp_reading/` | User | N1 (Japanese cooking recipes) | 1 recipe/day | `recipes.json` (`recipes` array) | `{ date, recipe: {...} }` |
+| `cn_vocab/` | User | **HSK 4** (with occasional HSK 3 review) | 3 words/day | `vocabulary.json` (`words` array) | `{ date, words: [3] }` |
 
 ## Schemas
 
@@ -28,13 +28,23 @@ Multi-plugin TRMNL repo. Each subdirectory is one TRMNL private plugin: a `today
 - `example_meaning`: Korean translation of the example.
 - `used_date`: `null` until shown, then `YYYY-MM-DD`.
 
-**Passage entry** (`jp_reading`):
+**Recipe entry** (`jp_reading`):
 ```
-{ id, level, title, title_meaning, body, body_meaning, vocab_notes: [{word,reading,meaning}], used_date }
+{ id, level, title, title_meaning, description, servings,
+  ingredients: ["<ruby>...</ruby>", ...],
+  steps:       ["<ruby>...</ruby>", ...],
+  vocab_notes: [{word,reading,meaning}, ...],
+  used_date }
 ```
-- `body`: Japanese passage with `<ruby>` furigana on every kanji compound.
-- `body_meaning`: Korean full translation.
-- `vocab_notes`: optional small glossary (3–5 items) shown at the bottom of the card.
+- `title`: Japanese dish name (e.g. `親子丼`).
+- `title_meaning`: Korean gloss with English-style transliteration if useful (e.g. `오야코동 (닭고기 계란 덮밥)`).
+- `description`: 1-sentence intro with furigana. Optional but recommended.
+- `servings`: human-readable, e.g. `2人分` / `1人分`.
+- `ingredients`: array of raw Japanese strings, each one ingredient + amount, with `<ruby>` on kanji. No Korean per line.
+- `steps`: array of Japanese instruction sentences with `<ruby>`. Numbered automatically by the template. No Korean per line.
+- `vocab_notes`: 6–10 difficult/cooking-specific terms with Korean meanings. This is the user's lookup strip — pick non-obvious words (avoid `卵` / `水` etc.).
+
+Recipe cadence: **1 recipe/day**. The user is N1 — keep prose natural, don't over-simplify grammar.
 
 `today.json` always omits `used_date` from the entry it surfaces.
 
@@ -49,8 +59,8 @@ Steps (replace `<plugin>/` with the chosen directory):
 3. Pick:
    - `mother_jp`: **3 words**, mix **2 N5 + 1 N4** by default.
    - `my_jp`: **3 N1 words**, prefer variety (different parts of speech, not all nouns).
-   - `cn_vocab`: **3 words** at the user's current HSK band (confirm if unclear).
-   - `jp_reading`: **1 passage**.
+   - `cn_vocab`: **3 words at HSK 4** (with occasional HSK 3 review words sprinkled in).
+   - `jp_reading`: **1 recipe**.
    Avoid consecutive ids unless the bank is exhausted.
 4. In the bank file, set `used_date` to today for the chosen entries. Use `Edit` per unique line — **never `replace_all` on `"used_date": null`**.
 5. Overwrite `<plugin>/today.json` with the new daily payload (drop `used_date` from entries).
