@@ -1,32 +1,32 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "words": [
     {
-      "id": 4,
+      "id": 212,
       "level": "N5",
-      "word": "来る",
-      "reading": "くる",
-      "meaning": "오다",
-      "example": "<ruby>明日<rt>あした</rt></ruby>また<ruby>来<rt>き</rt></ruby>ます。",
-      "example_meaning": "내일 또 오겠습니다."
+      "word": "涼しい",
+      "reading": "すずしい",
+      "meaning": "시원하다",
+      "example": "<ruby>秋<rt>あき</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しいです。",
+      "example_meaning": "가을은 시원합니다."
     },
     {
-      "id": 5,
+      "id": 415,
       "level": "N5",
-      "word": "見る",
-      "reading": "みる",
-      "meaning": "보다",
-      "example": "テレビを<ruby>見<rt>み</rt></ruby>ます。",
-      "example_meaning": "TV를 봅니다."
+      "word": "全然",
+      "reading": "ぜんぜん",
+      "meaning": "전혀",
+      "example": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>分<rt>わ</rt></ruby>かりません。",
+      "example_meaning": "전혀 모르겠습니다."
     },
     {
-      "id": 43,
+      "id": 576,
       "level": "N4",
-      "word": "思う",
-      "reading": "おもう",
-      "meaning": "생각하다",
-      "example": "そう<ruby>思<rt>おも</rt></ruby>います。",
-      "example_meaning": "그렇게 생각합니다."
+      "word": "腕",
+      "reading": "うで",
+      "meaning": "팔",
+      "example": "<ruby>腕<rt>うで</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げてください。",
+      "example_meaning": "팔을 들어 주세요."
     }
   ]
 }
