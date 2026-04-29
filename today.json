@@ -2,31 +2,31 @@
   "date": "2026-04-29",
   "words": [
     {
-      "id": 1,
+      "id": 4,
       "level": "N5",
-      "word": "食べる",
-      "reading": "たべる",
-      "meaning": "먹다",
-      "example": "<ruby>毎朝<rt>まいあさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
-      "example_meaning": "매일 아침 밥을 먹습니다."
+      "word": "来る",
+      "reading": "くる",
+      "meaning": "오다",
+      "example": "<ruby>明日<rt>あした</rt></ruby>また<ruby>来<rt>き</rt></ruby>ます。",
+      "example_meaning": "내일 또 오겠습니다."
     },
     {
-      "id": 2,
+      "id": 5,
       "level": "N5",
-      "word": "飲む",
-      "reading": "のむ",
-      "meaning": "마시다",
-      "example": "<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
-      "example_meaning": "물을 마십니다."
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "보다",
+      "example": "テレビを<ruby>見<rt>み</rt></ruby>ます。",
+      "example_meaning": "TV를 봅니다."
     },
     {
-      "id": 3,
-      "level": "N5",
-      "word": "行く",
-      "reading": "いく",
-      "meaning": "가다",
-      "example": "<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "학교에 갑니다."
+      "id": 43,
+      "level": "N4",
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "생각하다",
+      "example": "そう<ruby>思<rt>おも</rt></ruby>います。",
+      "example_meaning": "그렇게 생각합니다."
     }
   ]
 }
