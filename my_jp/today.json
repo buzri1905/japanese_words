@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-29",
+  "words": [
+    {
+      "id": 1,
+      "level": "N1",
+      "word": "葛藤",
+      "reading": "かっとう",
+      "meaning": "갈등",
+      "example": "<ruby>理想<rt>りそう</rt></ruby>と<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>狭間<rt>はざま</rt></ruby>で<ruby>葛藤<rt>かっとう</rt></ruby>している。",
+      "example_meaning": "이상과 현실 사이에서 갈등하고 있다."
+    },
+    {
+      "id": 2,
+      "level": "N1",
+      "word": "醸し出す",
+      "reading": "かもしだす",
+      "meaning": "자아내다",
+      "example": "<ruby>独特<rt>どくとく</rt></ruby>の<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>醸<rt>かも</rt></ruby>し<ruby>出<rt>だ</rt></ruby>している。",
+      "example_meaning": "독특한 분위기를 자아내고 있다."
+    },
+    {
+      "id": 3,
+      "level": "N1",
+      "word": "培う",
+      "reading": "つちかう",
+      "meaning": "기르다, 배양하다",
+      "example": "<ruby>長年<rt>ながねん</rt></ruby><ruby>培<rt>つちか</rt></ruby>ってきた<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>。",
+      "example_meaning": "오랜 세월 쌓아온 신뢰관계."
+    }
+  ]
+}

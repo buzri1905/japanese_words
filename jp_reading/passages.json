@@ -1,0 +1,32 @@
+{
+  "passages": [
+    {
+      "id": 1,
+      "level": "N1",
+      "title": "情報過多の時代",
+      "title_meaning": "정보 과다의 시대",
+      "body": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>では、<ruby>絶<rt>た</rt></ruby>え<ruby>間<rt>ま</rt></ruby>なく<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れ<ruby>込<rt>こ</rt></ruby>んでくる。<ruby>取捨選択<rt>しゅしゃせんたく</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>を<ruby>培<rt>つちか</rt></ruby>わなければ、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>なものを<ruby>見失<rt>みうしな</rt></ruby>ってしまう。",
+      "body_meaning": "현대 사회에서는 끊임없이 정보가 흘러들어온다. 취사선택할 힘을 기르지 않으면 정말 필요한 것을 놓쳐버리고 만다.",
+      "vocab_notes": [
+        { "word": "絶え間なく", "reading": "たえまなく", "meaning": "끊임없이" },
+        { "word": "取捨選択", "reading": "しゅしゃせんたく", "meaning": "취사선택" },
+        { "word": "見失う", "reading": "みうしなう", "meaning": "놓치다, 잃어버리다" }
+      ],
+      "used_date": null
+    },
+    {
+      "id": 2,
+      "level": "N1",
+      "title": "沈黙の価値",
+      "title_meaning": "침묵의 가치",
+      "body": "<ruby>言葉<rt>ことば</rt></ruby>を<ruby>尽<rt>つ</rt></ruby>くせば<ruby>伝<rt>つた</rt></ruby>わるとは<ruby>限<rt>かぎ</rt></ruby>らない。むしろ、<ruby>沈黙<rt>ちんもく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にこそ、<ruby>互<rt>たが</rt></ruby>いの<ruby>気持<rt>きも</rt></ruby>ちが<ruby>滲<rt>にじ</rt></ruby>み<ruby>出<rt>で</rt></ruby>てくることもある。",
+      "body_meaning": "말을 다한다고 해서 전해진다고는 할 수 없다. 오히려 침묵 속에서야말로 서로의 마음이 배어 나오는 경우도 있다.",
+      "vocab_notes": [
+        { "word": "尽くす", "reading": "つくす", "meaning": "다하다" },
+        { "word": "沈黙", "reading": "ちんもく", "meaning": "침묵" },
+        { "word": "滲み出る", "reading": "にじみでる", "meaning": "배어 나오다" }
+      ],
+      "used_date": null
+    }
+  ]
+}

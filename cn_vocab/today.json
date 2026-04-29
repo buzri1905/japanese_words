@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-29",
+  "words": [
+    {
+      "id": 1,
+      "level": "HSK1",
+      "word": "朋友",
+      "reading": "péngyou",
+      "meaning": "친구",
+      "example": "<ruby>我<rt>wǒ</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>很多<rt>hěn duō</rt></ruby><ruby>朋友<rt>péngyou</rt></ruby>。",
+      "example_meaning": "나는 친구가 많다."
+    },
+    {
+      "id": 2,
+      "level": "HSK1",
+      "word": "学习",
+      "reading": "xuéxí",
+      "meaning": "공부하다",
+      "example": "<ruby>我<rt>wǒ</rt></ruby><ruby>每天<rt>měitiān</rt></ruby><ruby>学习<rt>xuéxí</rt></ruby><ruby>中文<rt>Zhōngwén</rt></ruby>。",
+      "example_meaning": "나는 매일 중국어를 공부한다."
+    },
+    {
+      "id": 3,
+      "level": "HSK3",
+      "word": "努力",
+      "reading": "nǔlì",
+      "meaning": "노력하다",
+      "example": "<ruby>努力<rt>nǔlì</rt></ruby><ruby>工作<rt>gōngzuò</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>重要<rt>zhòngyào</rt></ruby>。",
+      "example_meaning": "열심히 일하는 것은 중요하다."
+    }
+  ]
+}

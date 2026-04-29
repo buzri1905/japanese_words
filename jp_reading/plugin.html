@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://usetrmnl.com/css/latest/plugins.css">
+  <script src="https://usetrmnl.com/js/latest/plugins.js"></script>
+  <style>
+    .stage {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      padding: 14px 32px 6px;
+      box-sizing: border-box;
+      font-family: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", "Apple SD Gothic Neo", sans-serif;
+    }
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      font-size: 14px;
+      letter-spacing: 1px;
+      opacity: 0.7;
+    }
+    .level {
+      font-size: 11px;
+      padding: 1px 6px;
+      border: 1px solid #000;
+      border-radius: 3px;
+      opacity: 1;
+    }
+    .title {
+      font-size: 28px;
+      font-weight: 800;
+      margin-top: 4px;
+      line-height: 1.2;
+    }
+    .title-ko {
+      font-size: 14px;
+      opacity: 0.65;
+      margin-left: 8px;
+      font-weight: 400;
+    }
+    .body {
+      font-size: 22px;
+      line-height: 2.1;
+      margin-top: 10px;
+    }
+    .body ruby rt {
+      font-size: 11px;
+      font-weight: 400;
+    }
+    .body-ko {
+      font-size: 14px;
+      opacity: 0.7;
+      line-height: 1.5;
+      margin-top: 6px;
+    }
+    .notes {
+      margin-top: auto;
+      padding-top: 6px;
+      border-top: 1px solid #000;
+      display: flex;
+      gap: 14px;
+      font-size: 13px;
+      flex-wrap: wrap;
+    }
+    .note {
+      display: flex;
+      gap: 4px;
+      align-items: baseline;
+    }
+    .note .nw { font-weight: 700; }
+    .note .nr { opacity: 0.65; font-size: 11px; }
+    .note .nm { opacity: 0.85; }
+  </style>
+</head>
+<body class="environment trmnl">
+  <div class="screen">
+    <div class="view view--full">
+      <div class="layout">
+        <div class="stage">
+          <div class="header">
+            <span class="level">{{ passage.level }}</span>
+            <span>{{ date }}</span>
+          </div>
+          <div class="title">
+            {{ passage.title }}<span class="title-ko">— {{ passage.title_meaning }}</span>
+          </div>
+          <div class="body">{{ passage.body }}</div>
+          <div class="body-ko">{{ passage.body_meaning }}</div>
+
+          {% if passage.vocab_notes %}
+          <div class="notes">
+            {% for n in passage.vocab_notes %}
+            <span class="note">
+              <span class="nw">{{ n.word }}</span>
+              <span class="nr">{{ n.reading }}</span>
+              <span class="nm">{{ n.meaning }}</span>
+            </span>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      <div class="title_bar">
+        <span class="title">오늘의 일본어 글</span>
+        <span class="instance">짧은 독해</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
