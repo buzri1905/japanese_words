@@ -1,197 +1,187 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="https://usetrmnl.com/css/latest/plugins.css">
-  <script src="https://usetrmnl.com/js/latest/plugins.js"></script>
-  <style>
-    .stage {
-      display: flex;
-      flex-direction: column;
-      height: 100%;
-      padding: 12px 24px 6px;
-      box-sizing: border-box;
-      font-family: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", "Apple SD Gothic Neo", sans-serif;
-    }
-    .head {
-      display: flex;
-      align-items: baseline;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-    .level {
-      font-size: 11px;
-      padding: 1px 6px;
-      border: 1px solid #000;
-      border-radius: 3px;
-    }
-    .title {
-      font-size: 26px;
-      font-weight: 800;
-      line-height: 1;
-    }
-    .title-ko {
-      font-size: 13px;
-      opacity: 0.65;
-    }
-    .servings {
-      font-size: 12px;
-      opacity: 0.7;
-      margin-left: auto;
-    }
-    .date {
-      font-size: 12px;
-      opacity: 0.7;
-      letter-spacing: 1px;
-    }
-    .desc {
-      font-size: 14px;
-      opacity: 0.75;
-      line-height: 1.8;
-      margin-top: 6px;
-    }
-    .desc ruby rt { font-size: 9px; font-weight: 400; }
-    .body {
-      display: flex;
-      gap: 18px;
-      margin-top: 8px;
-      flex: 1;
-      min-height: 0;
-    }
-    .col {
-      display: flex;
-      flex-direction: column;
-    }
-    .col.ingredients { flex: 0 0 36%; }
-    .col.steps { flex: 1; border-left: 1px solid #000; padding-left: 16px; }
-    .col-head {
-      font-size: 13px;
-      font-weight: 800;
-      letter-spacing: 2px;
-      margin-bottom: 4px;
-      padding-bottom: 2px;
-      border-bottom: 1px solid #000;
-    }
-    .ing-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      font-size: 13px;
-      line-height: 1.95;
-    }
-    .ing-list li::before {
-      content: "・ ";
-    }
-    .ing-list ruby rt { font-size: 8px; font-weight: 400; }
-    .step-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      font-size: 13px;
-      line-height: 1.95;
-      counter-reset: step;
-    }
-    .step-list li {
-      padding-left: 22px;
-      position: relative;
-      margin-bottom: 2px;
-    }
-    .step-list li::before {
-      counter-increment: step;
-      content: counter(step);
-      position: absolute;
-      left: 0;
-      top: 0;
-      font-weight: 800;
-      width: 16px;
-      height: 16px;
-      border: 1px solid #000;
-      border-radius: 50%;
-      text-align: center;
-      font-size: 10px;
-      line-height: 16px;
-    }
-    .step-list ruby rt { font-size: 8px; font-weight: 400; }
-    .vocab {
-      border-top: 1px solid #000;
-      padding-top: 5px;
-      margin-top: 6px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 4px 14px;
-      font-size: 11px;
-    }
-    .vocab-head {
-      font-size: 10px;
-      font-weight: 800;
-      letter-spacing: 2px;
-      opacity: 0.6;
-      margin-right: 4px;
-    }
-    .v {
-      display: inline-flex;
-      gap: 3px;
-      align-items: baseline;
-      white-space: nowrap;
-    }
-    .v .vw { font-weight: 700; }
-    .v .vr { opacity: 0.6; font-size: 9px; }
-    .v .vm { opacity: 0.85; }
-  </style>
-</head>
-<body class="environment trmnl">
-  <div class="screen">
-    <div class="view view--full">
-      <div class="layout">
-        <div class="stage">
-          <div class="head">
-            <span class="level">{{ recipe.level }}</span>
-            <span class="title">{{ recipe.title }}</span>
-            <span class="title-ko">— {{ recipe.title_meaning }}</span>
-            <span class="servings">{{ recipe.servings }}</span>
-            <span class="date">{{ date }}</span>
+<style>
+  .stage {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 12px 24px 6px;
+    box-sizing: border-box;
+    font-family: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", "Apple SD Gothic Neo", sans-serif;
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .level {
+    font-size: 11px;
+    padding: 1px 6px;
+    border: 1px solid #000;
+    border-radius: 3px;
+  }
+  .title {
+    font-size: 26px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .title-ko {
+    font-size: 13px;
+    opacity: 0.65;
+  }
+  .servings {
+    font-size: 12px;
+    opacity: 0.7;
+    margin-left: auto;
+  }
+  .date {
+    font-size: 12px;
+    opacity: 0.7;
+    letter-spacing: 1px;
+  }
+  .desc {
+    font-size: 14px;
+    opacity: 0.75;
+    line-height: 1.8;
+    margin-top: 6px;
+  }
+  .desc ruby rt { font-size: 9px; font-weight: 400; }
+  .body {
+    display: flex;
+    gap: 18px;
+    margin-top: 8px;
+    flex: 1;
+    min-height: 0;
+  }
+  .col {
+    display: flex;
+    flex-direction: column;
+  }
+  .col.ingredients { flex: 0 0 36%; }
+  .col.steps { flex: 1; border-left: 1px solid #000; padding-left: 16px; }
+  .col-head {
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin-bottom: 4px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #000;
+  }
+  .ing-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.95;
+  }
+  .ing-list li::before {
+    content: "・ ";
+  }
+  .ing-list ruby rt { font-size: 8px; font-weight: 400; }
+  .step-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.95;
+    counter-reset: step;
+  }
+  .step-list li {
+    padding-left: 22px;
+    position: relative;
+    margin-bottom: 2px;
+  }
+  .step-list li::before {
+    counter-increment: step;
+    content: counter(step);
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-weight: 800;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #000;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 10px;
+    line-height: 16px;
+  }
+  .step-list ruby rt { font-size: 8px; font-weight: 400; }
+  .vocab {
+    border-top: 1px solid #000;
+    padding-top: 5px;
+    margin-top: 6px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 14px;
+    font-size: 11px;
+  }
+  .vocab-head {
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    opacity: 0.6;
+    margin-right: 4px;
+  }
+  .v {
+    display: inline-flex;
+    gap: 3px;
+    align-items: baseline;
+    white-space: nowrap;
+  }
+  .v .vw { font-weight: 700; }
+  .v .vr { opacity: 0.6; font-size: 9px; }
+  .v .vm { opacity: 0.85; }
+</style>
+<div class="screen">
+  <div class="view view--full">
+    <div class="layout">
+      <div class="stage">
+        <div class="head">
+          <span class="level">{{ recipe.level }}</span>
+          <span class="title">{{ recipe.title }}</span>
+          <span class="title-ko">— {{ recipe.title_meaning }}</span>
+          <span class="servings">{{ recipe.servings }}</span>
+          <span class="date">{{ date }}</span>
+        </div>
+
+        {% if recipe.description %}
+        <div class="desc">{{ recipe.description }}</div>
+        {% endif %}
+
+        <div class="body">
+          <div class="col ingredients">
+            <div class="col-head">材料</div>
+            <ul class="ing-list">
+              {% for i in recipe.ingredients %}
+              <li>{{ i }}</li>
+              {% endfor %}
+            </ul>
           </div>
-
-          {% if recipe.description %}
-          <div class="desc">{{ recipe.description }}</div>
-          {% endif %}
-
-          <div class="body">
-            <div class="col ingredients">
-              <div class="col-head">材料</div>
-              <ul class="ing-list">
-                {% for i in recipe.ingredients %}
-                <li>{{ i }}</li>
-                {% endfor %}
-              </ul>
-            </div>
-            <div class="col steps">
-              <div class="col-head">作り方</div>
-              <ol class="step-list">
-                {% for s in recipe.steps %}
-                <li>{{ s }}</li>
-                {% endfor %}
-              </ol>
-            </div>
-          </div>
-
-          <div class="vocab">
-            <span class="vocab-head">단어</span>
-            {% for n in recipe.vocab_notes %}
-            <span class="v">
-              <span class="vw">{{ n.word }}</span>
-              <span class="vr">{{ n.reading }}</span>
-              <span class="vm">{{ n.meaning }}</span>
-            </span>
-            {% endfor %}
+          <div class="col steps">
+            <div class="col-head">作り方</div>
+            <ol class="step-list">
+              {% for s in recipe.steps %}
+              <li>{{ s }}</li>
+              {% endfor %}
+            </ol>
           </div>
         </div>
-      </div>
-      <div class="title_bar">
-        <span class="title">오늘의 일본 요리</span>
-        <span class="instance">レシピで日本語</span>
+
+        <div class="vocab">
+          <span class="vocab-head">단어</span>
+          {% for n in recipe.vocab_notes %}
+          <span class="v">
+            <span class="vw">{{ n.word }}</span>
+            <span class="vr">{{ n.reading }}</span>
+            <span class="vm">{{ n.meaning }}</span>
+          </span>
+          {% endfor %}
+        </div>
       </div>
     </div>
+    <div class="title_bar">
+      <span class="title">오늘의 일본 요리</span>
+      <span class="instance">レシピで日本語</span>
+    </div>
   </div>
-</body>
-</html>
+</div>

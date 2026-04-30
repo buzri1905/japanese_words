@@ -1,89 +1,79 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="https://usetrmnl.com/css/latest/plugins.css">
-  <script src="https://usetrmnl.com/js/latest/plugins.js"></script>
-  <style>
-    .stage {
-      display: flex;
-      flex-direction: column;
-      height: 100%;
-      padding: 12px 28px 6px;
-      box-sizing: border-box;
-      font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Apple SD Gothic Neo", sans-serif;
-    }
-    .header {
-      font-size: 16px;
-      letter-spacing: 2px;
-      text-align: right;
-      opacity: 0.7;
-    }
-    .card {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      padding: 6px 0;
-      border-top: 1px solid #000;
-    }
-    .card:first-of-type { border-top: none; }
-    .row {
-      display: flex;
-      align-items: baseline;
-      gap: 10px;
-    }
-    .word { font-size: 40px; font-weight: 800; line-height: 1.05; }
-    .reading { font-size: 18px; opacity: 0.7; font-style: italic; }
-    .spacer { flex: 1; }
-    .level {
-      font-size: 12px;
-      padding: 1px 6px;
-      border: 1px solid #000;
-      border-radius: 3px;
-    }
-    .meaning { font-size: 26px; font-weight: 700; }
-    .example {
-      font-size: 22px;
-      line-height: 2.2;
-      margin-top: 4px;
-    }
-    .example ruby rt {
-      font-size: 11px;
-      font-weight: 400;
-      font-style: italic;
-    }
-    .example-ko { font-size: 16px; opacity: 0.65; margin-left: 6px; font-style: normal; }
-  </style>
-</head>
-<body class="environment trmnl">
-  <div class="screen">
-    <div class="view view--full">
-      <div class="layout">
-        <div class="stage">
-          <div class="header">{{ date }}</div>
+<style>
+  .stage {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 12px 28px 6px;
+    box-sizing: border-box;
+    font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Apple SD Gothic Neo", sans-serif;
+  }
+  .header {
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  .card {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 6px 0;
+    border-top: 1px solid #000;
+  }
+  .card:first-of-type { border-top: none; }
+  .row {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .word { font-size: 40px; font-weight: 800; line-height: 1.05; }
+  .reading { font-size: 18px; opacity: 0.7; font-style: italic; }
+  .spacer { flex: 1; }
+  .level {
+    font-size: 12px;
+    padding: 1px 6px;
+    border: 1px solid #000;
+    border-radius: 3px;
+  }
+  .meaning { font-size: 26px; font-weight: 700; }
+  .example {
+    font-size: 22px;
+    line-height: 2.2;
+    margin-top: 4px;
+  }
+  .example ruby rt {
+    font-size: 11px;
+    font-weight: 400;
+    font-style: italic;
+  }
+  .example-ko { font-size: 16px; opacity: 0.65; margin-left: 6px; font-style: normal; }
+</style>
+<div class="screen">
+  <div class="view view--full">
+    <div class="layout">
+      <div class="stage">
+        <div class="header">{{ date }}</div>
 
-          {% for w in words %}
-          <div class="card">
-            <div class="row">
-              <span class="word">{{ w.word }}</span>
-              <span class="reading">{{ w.reading }}</span>
-              <span class="spacer"></span>
-              <span class="meaning">{{ w.meaning }}</span>
-              <span class="level">{{ w.level }}</span>
-            </div>
-            <div class="example">
-              {{ w.example }}<span class="example-ko">— {{ w.example_meaning }}</span>
-            </div>
+        {% for w in words %}
+        <div class="card">
+          <div class="row">
+            <span class="word">{{ w.word }}</span>
+            <span class="reading">{{ w.reading }}</span>
+            <span class="spacer"></span>
+            <span class="meaning">{{ w.meaning }}</span>
+            <span class="level">{{ w.level }}</span>
           </div>
-          {% endfor %}
+          <div class="example">
+            {{ w.example }}<span class="example-ko">— {{ w.example_meaning }}</span>
+          </div>
         </div>
-      </div>
-      <div class="title_bar">
-        <span class="title">오늘의 중국어 단어</span>
-        <span class="instance">중국어 학습</span>
+        {% endfor %}
       </div>
     </div>
+    <div class="title_bar">
+      <span class="title">오늘의 중국어 단어</span>
+      <span class="instance">중국어 학습</span>
+    </div>
   </div>
-</body>
-</html>
+</div>
