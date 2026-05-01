@@ -1,32 +1,32 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "words": [
     {
-      "id": 212,
+      "id": 126,
       "level": "N5",
-      "word": "涼しい",
-      "reading": "すずしい",
-      "meaning": "시원하다",
-      "example": "<ruby>秋<rt>あき</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しいです。",
-      "example_meaning": "가을은 시원합니다."
+      "word": "お姉さん",
+      "reading": "おねえさん",
+      "meaning": "누나, 언니(존칭)",
+      "example": "<ruby>お姉<rt>ねえ</rt></ruby>さんはきれいです。",
+      "example_meaning": "언니는 예쁩니다."
     },
     {
-      "id": 415,
+      "id": 277,
       "level": "N5",
-      "word": "全然",
-      "reading": "ぜんぜん",
-      "meaning": "전혀",
-      "example": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>分<rt>わ</rt></ruby>かりません。",
-      "example_meaning": "전혀 모르겠습니다."
+      "word": "引く",
+      "reading": "ひく",
+      "meaning": "당기다",
+      "example": "ドアを<ruby>引<rt>ひ</rt></ruby>いてください。",
+      "example_meaning": "문을 당겨 주세요."
     },
     {
-      "id": 576,
+      "id": 555,
       "level": "N4",
-      "word": "腕",
-      "reading": "うで",
-      "meaning": "팔",
-      "example": "<ruby>腕<rt>うで</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げてください。",
-      "example_meaning": "팔을 들어 주세요."
+      "word": "折れる",
+      "reading": "おれる",
+      "meaning": "부러지다",
+      "example": "<ruby>枝<rt>えだ</rt></ruby>が<ruby>折<rt>お</rt></ruby>れました。",
+      "example_meaning": "나뭇가지가 부러졌습니다."
     }
   ]
 }
