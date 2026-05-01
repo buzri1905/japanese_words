@@ -12,7 +12,7 @@ Multi-plugin TRMNL repo. Each subdirectory is one TRMNL private plugin: a `today
 |------|----------|-------|---------|-----------|------------------|
 | `mother_jp/` | Mother (Korean speaker, JLPT beginner) | N5 + N4 | 3 words/day (default 2 N5 + 1 N4) | `vocabulary.json` (`words` array) | `{ date, words: [3] }` |
 | `my_jp/` | User (N1 holder) | **N1** (challenging) | 3 words/day | `vocabulary.json` (`words` array) | `{ date, words: [3] }` |
-| `jp_reading/` | User | N1 (Japanese cooking recipes) | 1 recipe/day | `recipes.json` (`recipes` array) | `{ date, recipe: {...} }` |
+| `jp_reading/` | User | N1 (Japanese cooking recipes) | 1 recipe/day | `recipes.json` (`used_recipes` array — title history only) | `{ date, recipe: {...} }` |
 | `cn_vocab/` | User | **HSK 4** (with occasional HSK 3 review) | 3 words/day | `vocabulary.json` (`words` array) | `{ date, words: [3] }` |
 
 ## Schemas
@@ -28,13 +28,14 @@ Multi-plugin TRMNL repo. Each subdirectory is one TRMNL private plugin: a `today
 - `example_meaning`: Korean translation of the example.
 - `used_date`: `null` until shown, then `YYYY-MM-DD`.
 
-**Recipe entry** (`jp_reading`):
+**Recipe today.json shape** (`jp_reading`) — the full recipe is generated fresh each day and only lives here:
 ```
-{ id, level, title, title_meaning, description, servings,
-  ingredients: ["<ruby>...</ruby>", ...],
-  steps:       ["<ruby>...</ruby>", ...],
-  vocab_notes: [{word,reading,meaning}, ...],
-  used_date }
+{ date, recipe: {
+    level, title, title_meaning, description, servings,
+    ingredients: ["<ruby>...</ruby>", ...],
+    steps:       ["<ruby>...</ruby>", ...],
+    vocab_notes: [{word,reading,meaning}, ...]
+} }
 ```
 - `title`: Japanese dish name (e.g. `親子丼`).
 - `title_meaning`: Korean gloss with English-style transliteration if useful (e.g. `오야코동 (닭고기 계란 덮밥)`).
@@ -43,6 +44,12 @@ Multi-plugin TRMNL repo. Each subdirectory is one TRMNL private plugin: a `today
 - `ingredients`: array of raw Japanese strings, each one ingredient + amount, with `<ruby>` on kanji. No Korean per line.
 - `steps`: array of Japanese instruction sentences with `<ruby>`. Numbered automatically by the template. No Korean per line.
 - `vocab_notes`: 6–10 difficult/cooking-specific terms with Korean meanings. This is the user's lookup strip — pick non-obvious words (avoid `卵` / `水` etc.).
+
+**Recipe history** (`jp_reading/recipes.json`) — only stores titles already shown so we can avoid duplicates:
+```
+{ used_recipes: [{title, title_meaning, used_date}, ...] }
+```
+No full-recipe bank — Claude generates a fresh recipe each day.
 
 Recipe cadence: **1 recipe/day**. The user is N1 — keep prose natural, don't over-simplify grammar.
 
@@ -55,26 +62,31 @@ User says things like **"오늘 단어 골라줘"**, **"단어 업데이트"**, 
 Steps (replace `<plugin>/` with the chosen directory):
 
 1. Determine today's date in **Asia/Seoul** (`TZ=Asia/Seoul date +%Y-%m-%d`). The user is in Korea.
-2. Read `<plugin>/<bank>.json`, filter entries where `used_date == null`.
-3. Pick:
-   - `mother_jp`: **3 words**, mix **2 N5 + 1 N4** by default.
-   - `my_jp`: **3 N1 words**, prefer variety (different parts of speech, not all nouns).
-   - `cn_vocab`: **3 words at HSK 4** (with occasional HSK 3 review words sprinkled in).
-   - `jp_reading`: **1 recipe**.
-   Avoid consecutive ids unless the bank is exhausted.
-4. In the bank file, set `used_date` to today for the chosen entries. Use `Edit` per unique line — **never `replace_all` on `"used_date": null`**.
-5. Overwrite `<plugin>/today.json` with the new daily payload (drop `used_date` from entries).
-6. **Commit and push** so TRMNL polling sees the change:
+2. **Vocab plugins** (`mother_jp`, `my_jp`, `cn_vocab`):
+   1. Read `<plugin>/vocabulary.json`, filter entries where `used_date == null`.
+   2. Pick:
+      - `mother_jp`: **3 words**, mix **2 N5 + 1 N4** by default.
+      - `my_jp`: **3 N1 words**, prefer variety (different parts of speech, not all nouns).
+      - `cn_vocab`: **3 words at HSK 4** (with occasional HSK 3 review words sprinkled in).
+      Avoid consecutive ids unless the bank is exhausted.
+   3. In the bank file, set `used_date` to today for the chosen entries. Use `Edit` per unique line — **never `replace_all` on `"used_date": null`**.
+   4. Overwrite `<plugin>/today.json` with the new daily payload (drop `used_date` from entries).
+3. **Recipe plugin** (`jp_reading`):
+   1. Read `jp_reading/recipes.json` to see which dish titles are already used.
+   2. Generate a fresh N1-appropriate Japanese recipe whose `title` is **not** in `used_recipes`. Follow the recipe today.json schema (level, title, title_meaning, description, servings, ingredients, steps, vocab_notes). Keep prose natural, choose 6–10 non-obvious vocab notes.
+   3. Overwrite `jp_reading/today.json` with the new recipe.
+   4. Append `{title, title_meaning, used_date: today}` to `used_recipes` in `jp_reading/recipes.json`.
+4. **Commit and push** so TRMNL polling sees the change:
    ```
    git add <plugin>/today.json <plugin>/<bank>.json
    git commit -m "<plugin> <today>: <summary>"
    git push
    ```
-7. Tell the user what was picked so they can verify.
+5. Tell the user what was picked so they can verify.
 
-To redo / replace: revert the entry's `used_date` to `null`, pick a different one, regenerate `today.json`, commit, push.
+To redo / replace: vocab — revert `used_date` to `null`, re-pick, regenerate today.json. Recipe — remove the appended `used_recipes` entry and regenerate.
 
-When a bank drops below ~10 unused entries, warn the user and offer to add more.
+When a vocab bank drops below ~10 unused entries, warn the user and offer to add more. (jp_reading has no bank — never runs out.)
 
 ## Rendering notes
 
