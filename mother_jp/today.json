@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "words": [
     {
-      "id": 126,
+      "id": 24,
       "level": "N5",
-      "word": "お姉さん",
-      "reading": "おねえさん",
-      "meaning": "누나, 언니(존칭)",
-      "example": "<ruby>お姉<rt>ねえ</rt></ruby>さんはきれいです。",
-      "example_meaning": "언니는 예쁩니다."
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "학교",
+      "example": "<ruby>学校<rt>がっこう</rt></ruby>は<ruby>近<rt>ちか</rt></ruby>いです。",
+      "example_meaning": "학교는 가깝습니다."
     },
     {
-      "id": 277,
+      "id": 292,
       "level": "N5",
-      "word": "引く",
-      "reading": "ひく",
-      "meaning": "당기다",
-      "example": "ドアを<ruby>引<rt>ひ</rt></ruby>いてください。",
-      "example_meaning": "문을 당겨 주세요."
+      "word": "吹く",
+      "reading": "ふく",
+      "meaning": "(바람이) 불다",
+      "example": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いています。",
+      "example_meaning": "바람이 불고 있습니다."
     },
     {
-      "id": 555,
+      "id": 649,
       "level": "N4",
-      "word": "折れる",
-      "reading": "おれる",
-      "meaning": "부러지다",
-      "example": "<ruby>枝<rt>えだ</rt></ruby>が<ruby>折<rt>お</rt></ruby>れました。",
-      "example_meaning": "나뭇가지가 부러졌습니다."
+      "word": "寺",
+      "reading": "てら",
+      "meaning": "절",
+      "example": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>寺<rt>てら</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
+      "example_meaning": "교토의 절을 봤습니다."
     }
   ]
 }
