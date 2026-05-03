@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>오늘의 중국어 단어</title>
+<style>
+  body {
+    margin: 0;
+    background: #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Apple SD Gothic Neo", sans-serif;
+  }
+  .device {
+    width: 800px;
+    height: 480px;
+    background: #fff;
+    color: #000;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .layout { flex: 1; display: flex; flex-direction: column; min-height: 0; }
+  .stage {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 12px 28px 6px;
+    box-sizing: border-box;
+  }
+  .header {
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  .card {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 6px 0;
+    border-top: 1px solid #000;
+  }
+  .card:first-of-type { border-top: none; }
+  .row {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .word { font-size: 40px; font-weight: 800; line-height: 1.05; }
+  .reading { font-size: 18px; opacity: 0.7; font-style: italic; }
+  .spacer { flex: 1; }
+  .level {
+    font-size: 12px;
+    padding: 1px 6px;
+    border: 1px solid #000;
+    border-radius: 3px;
+  }
+  .meaning { font-size: 26px; font-weight: 700; }
+  .example {
+    font-size: 22px;
+    line-height: 2.2;
+    margin-top: 4px;
+  }
+  .example ruby rt {
+    font-size: 17px;
+    font-weight: 500;
+    font-style: italic;
+  }
+  .example-ko { font-size: 16px; opacity: 0.65; margin-left: 6px; font-style: normal; }
+  .title_bar {
+    height: 32px;
+    border-top: 1px solid #000;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    font-size: 13px;
+    background: #000;
+    color: #fff;
+  }
+  .title_bar .title { font-weight: 700; }
+  .title_bar .instance { margin-left: auto; opacity: 0.8; }
+  .err { padding: 40px; font-size: 14px; color: #900; }
+</style>
+</head>
+<body>
+<div class="device">
+  <div class="layout">
+    <div class="stage" id="stage"><div class="err">Loading…</div></div>
+  </div>
+  <div class="title_bar">
+    <span class="title">오늘의 중국어 단어</span>
+    <span class="instance">중국어 학습</span>
+  </div>
+</div>
+<script>
+fetch('./today.json', { cache: 'no-store' })
+  .then(r => r.json())
+  .then(data => {
+    const stage = document.getElementById('stage');
+    const cards = data.words.map(w => `
+      <div class="card">
+        <div class="row">
+          <span class="word">${w.word}</span>
+          <span class="reading">${w.reading}</span>
+          <span class="spacer"></span>
+          <span class="meaning">${w.meaning}</span>
+          <span class="level">${w.level}</span>
+        </div>
+        <div class="example">
+          ${w.example}<span class="example-ko">— ${w.example_meaning}</span>
+        </div>
+      </div>
+    `).join('');
+    stage.innerHTML = `<div class="header">${data.date}</div>${cards}`;
+  })
+  .catch(e => {
+    document.getElementById('stage').innerHTML =
+      `<div class="err">today.json을 불러오지 못했습니다: ${e}</div>`;
+  });
+</script>
+</body>
+</html>
