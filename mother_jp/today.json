@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "words": [
     {
-      "id": 76,
+      "id": 186,
       "level": "N5",
-      "word": "朝",
-      "reading": "あさ",
-      "meaning": "아침",
-      "example": "<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
-      "example_meaning": "아침을 먹습니다."
+      "word": "早い",
+      "reading": "はやい",
+      "meaning": "이르다, 빠르다",
+      "example": "<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きます。",
+      "example_meaning": "아침 일찍 일어납니다."
     },
     {
-      "id": 15,
+      "id": 306,
       "level": "N5",
-      "word": "立つ",
-      "reading": "たつ",
-      "meaning": "서다",
-      "example": "ここに<ruby>立<rt>た</rt></ruby>ってください。",
-      "example_meaning": "여기에 서 주세요."
+      "word": "米",
+      "reading": "こめ",
+      "meaning": "쌀",
+      "example": "<ruby>米<rt>こめ</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
+      "example_meaning": "쌀을 씻습니다."
     },
     {
-      "id": 424,
+      "id": 745,
       "level": "N4",
-      "word": "集める",
-      "reading": "あつめる",
-      "meaning": "모으다",
-      "example": "<ruby>切手<rt>きって</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めています。",
-      "example_meaning": "우표를 모으고 있습니다."
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "예약",
+      "example": "ホテルを<ruby>予約<rt>よやく</rt></ruby>します。",
+      "example_meaning": "호텔을 예약합니다."
     }
   ]
 }
