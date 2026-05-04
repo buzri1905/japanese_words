@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-04",
   "words": [
     {
-      "id": 5,
+      "id": 4,
       "level": "HSK4",
-      "word": "安排",
-      "reading": "ānpái",
-      "meaning": "안배하다, 일정을 잡다",
-      "example": "<ruby>请<rt>qǐng</rt></ruby><ruby>安排<rt>ānpái</rt></ruby><ruby>一下<rt>yíxià</rt></ruby><ruby>明天<rt>míngtiān</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>会议<rt>huìyì</rt></ruby>。",
-      "example_meaning": "내일 회의를 좀 잡아 주세요."
+      "word": "安全",
+      "reading": "ānquán",
+      "meaning": "안전(하다)",
+      "example": "<ruby>注意<rt>zhùyì</rt></ruby><ruby>交通<rt>jiāotōng</rt></ruby><ruby>安全<rt>ānquán</rt></ruby>。",
+      "example_meaning": "교통 안전에 주의해라."
     },
     {
-      "id": 104,
+      "id": 261,
       "level": "HSK4",
-      "word": "肚子",
-      "reading": "dùzi",
-      "meaning": "배(腹)",
-      "example": "<ruby>我<rt>wǒ</rt></ruby><ruby>肚子<rt>dùzi</rt></ruby><ruby>疼<rt>téng</rt></ruby>。",
-      "example_meaning": "나는 배가 아프다."
+      "word": "考虑",
+      "reading": "kǎolǜ",
+      "meaning": "고려하다",
+      "example": "<ruby>让<rt>ràng</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>考虑<rt>kǎolǜ</rt></ruby><ruby>一下<rt>yíxià</rt></ruby>。",
+      "example_meaning": "내가 좀 생각해 볼게."
     },
     {
-      "id": 304,
+      "id": 517,
       "level": "HSK4",
-      "word": "零钱",
-      "reading": "língqián",
-      "meaning": "잔돈",
-      "example": "<ruby>你<rt>nǐ</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>零钱<rt>língqián</rt></ruby><ruby>吗<rt>ma</rt></ruby>？",
-      "example_meaning": "잔돈 있어요?"
+      "word": "眼镜",
+      "reading": "yǎnjìng",
+      "meaning": "안경",
+      "example": "<ruby>我<rt>wǒ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>眼镜<rt>yǎnjìng</rt></ruby><ruby>坏<rt>huài</rt></ruby>了。",
+      "example_meaning": "내 안경이 망가졌다."
     }
   ]
 }
