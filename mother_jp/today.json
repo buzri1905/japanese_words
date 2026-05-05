@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "words": [
     {
-      "id": 186,
+      "id": 9,
       "level": "N5",
-      "word": "早い",
-      "reading": "はやい",
-      "meaning": "이르다, 빠르다",
-      "example": "<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きます。",
-      "example_meaning": "아침 일찍 일어납니다."
+      "word": "話す",
+      "reading": "はなす",
+      "meaning": "말하다",
+      "example": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>話<rt>はな</rt></ruby>します。",
+      "example_meaning": "친구와 이야기합니다."
     },
     {
-      "id": 306,
+      "id": 21,
       "level": "N5",
-      "word": "米",
-      "reading": "こめ",
-      "meaning": "쌀",
-      "example": "<ruby>米<rt>こめ</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
-      "example_meaning": "쌀을 씻습니다."
+      "word": "海",
+      "reading": "うみ",
+      "meaning": "바다",
+      "example": "<ruby>海<rt>うみ</rt></ruby>はきれいです。",
+      "example_meaning": "바다는 아름답습니다."
     },
     {
-      "id": 745,
+      "id": 55,
       "level": "N4",
-      "word": "予約",
-      "reading": "よやく",
-      "meaning": "예약",
-      "example": "ホテルを<ruby>予約<rt>よやく</rt></ruby>します。",
-      "example_meaning": "호텔을 예약합니다."
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "간단하다",
+      "example": "この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>です。",
+      "example_meaning": "이 문제는 간단합니다."
     }
   ]
 }
