@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "words": [
     {
-      "id": 9,
+      "id": 13,
       "level": "N5",
-      "word": "話す",
-      "reading": "はなす",
-      "meaning": "말하다",
-      "example": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>話<rt>はな</rt></ruby>します。",
-      "example_meaning": "친구와 이야기합니다."
+      "word": "寝る",
+      "reading": "ねる",
+      "meaning": "자다",
+      "example": "<ruby>夜<rt>よる</rt></ruby><ruby>十時<rt>じゅうじ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。",
+      "example_meaning": "밤 10시에 잡니다."
     },
     {
-      "id": 21,
+      "id": 33,
       "level": "N5",
-      "word": "海",
-      "reading": "うみ",
-      "meaning": "바다",
-      "example": "<ruby>海<rt>うみ</rt></ruby>はきれいです。",
-      "example_meaning": "바다는 아름답습니다."
+      "word": "大きい",
+      "reading": "おおきい",
+      "meaning": "크다",
+      "example": "<ruby>大<rt>おお</rt></ruby>きい<ruby>家<rt>いえ</rt></ruby>ですね。",
+      "example_meaning": "큰 집이네요."
     },
     {
-      "id": 55,
+      "id": 56,
       "level": "N4",
-      "word": "簡単",
-      "reading": "かんたん",
-      "meaning": "간단하다",
-      "example": "この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>です。",
-      "example_meaning": "이 문제는 간단합니다."
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "약속",
+      "example": "<ruby>約束<rt>やくそく</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ります。",
+      "example_meaning": "약속을 지킵니다."
     }
   ]
 }
