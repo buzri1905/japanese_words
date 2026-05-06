@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-06",
   "words": [
     {
-      "id": 7,
+      "id": 8,
       "level": "N1",
-      "word": "委ねる",
-      "reading": "ゆだねる",
-      "meaning": "맡기다, 위임하다",
-      "example": "<ruby>後<rt>のち</rt></ruby>のことは<ruby>後輩<rt>こうはい</rt></ruby>に<ruby>委<rt>ゆだ</rt></ruby>ねた。",
-      "example_meaning": "뒷일은 후배에게 맡겼다."
+      "word": "捗る",
+      "reading": "はかどる",
+      "meaning": "진척되다",
+      "example": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>思<rt>おも</rt></ruby>ったより<ruby>捗<rt>はかど</rt></ruby>っている。",
+      "example_meaning": "일이 생각보다 잘 진행되고 있다."
     },
     {
-      "id": 20,
+      "id": 18,
       "level": "N1",
-      "word": "醍醐味",
-      "reading": "だいごみ",
-      "meaning": "묘미, 진수",
-      "example": "<ruby>旅<rt>たび</rt></ruby>の<ruby>醍醐味<rt>だいごみ</rt></ruby>は<ruby>偶然<rt>ぐうぜん</rt></ruby>の<ruby>出会<rt>であ</rt></ruby>いだ。",
-      "example_meaning": "여행의 묘미는 우연한 만남이다."
+      "word": "兆し",
+      "reading": "きざし",
+      "meaning": "조짐, 징후",
+      "example": "<ruby>景気回復<rt>けいきかいふく</rt></ruby>の<ruby>兆<rt>きざ</rt></ruby>しが<ruby>見<rt>み</rt></ruby>えてきた。",
+      "example_meaning": "경기 회복의 조짐이 보이기 시작했다."
     },
     {
-      "id": 25,
+      "id": 29,
       "level": "N1",
-      "word": "著しい",
-      "reading": "いちじるしい",
-      "meaning": "현저하다, 두드러지다",
-      "example": "<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>進歩<rt>しんぽ</rt></ruby>が<ruby>著<rt>いちじる</rt></ruby>しい。",
-      "example_meaning": "기술의 진보가 현저하다."
+      "word": "疎い",
+      "reading": "うとい",
+      "meaning": "어둡다, 잘 모르다",
+      "example": "<ruby>政治<rt>せいじ</rt></ruby>には<ruby>疎<rt>うと</rt></ruby>い<ruby>方<rt>ほう</rt></ruby>だ。",
+      "example_meaning": "정치에는 어두운 편이다."
     }
   ]
 }
