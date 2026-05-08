@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-08",
   "words": [
     {
-      "id": 13,
+      "id": 257,
       "level": "N5",
-      "word": "寝る",
-      "reading": "ねる",
-      "meaning": "자다",
-      "example": "<ruby>夜<rt>よる</rt></ruby><ruby>十時<rt>じゅうじ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。",
-      "example_meaning": "밤 10시에 잡니다."
+      "word": "撮る",
+      "reading": "とる",
+      "meaning": "(사진을) 찍다",
+      "example": "<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ります。",
+      "example_meaning": "사진을 찍습니다."
     },
     {
-      "id": 33,
+      "id": 401,
       "level": "N5",
-      "word": "大きい",
-      "reading": "おおきい",
-      "meaning": "크다",
-      "example": "<ruby>大<rt>おお</rt></ruby>きい<ruby>家<rt>いえ</rt></ruby>ですね。",
-      "example_meaning": "큰 집이네요."
+      "word": "どうぞ",
+      "reading": "どうぞ",
+      "meaning": "자, 어서",
+      "example": "どうぞお<ruby>入<rt>はい</rt></ruby>りください。",
+      "example_meaning": "어서 들어오세요."
     },
     {
-      "id": 56,
+      "id": 763,
       "level": "N4",
-      "word": "約束",
-      "reading": "やくそく",
-      "meaning": "약속",
-      "example": "<ruby>約束<rt>やくそく</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ります。",
-      "example_meaning": "약속을 지킵니다."
+      "word": "深い",
+      "reading": "ふかい",
+      "meaning": "깊다",
+      "example": "<ruby>深<rt>ふか</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>です。",
+      "example_meaning": "깊은 바다입니다."
     }
   ]
 }
