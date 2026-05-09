@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "words": [
     {
-      "id": 257,
+      "id": 202,
       "level": "N5",
-      "word": "撮る",
-      "reading": "とる",
-      "meaning": "(사진을) 찍다",
-      "example": "<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ります。",
-      "example_meaning": "사진을 찍습니다."
+      "word": "明るい",
+      "reading": "あかるい",
+      "meaning": "밝다",
+      "example": "<ruby>明<rt>あか</rt></ruby>るい<ruby>性格<rt>せいかく</rt></ruby>です。",
+      "example_meaning": "밝은 성격입니다."
     },
     {
-      "id": 401,
+      "id": 385,
       "level": "N5",
-      "word": "どうぞ",
-      "reading": "どうぞ",
-      "meaning": "자, 어서",
-      "example": "どうぞお<ruby>入<rt>はい</rt></ruby>りください。",
-      "example_meaning": "어서 들어오세요."
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "편지",
+      "example": "<ruby>母<rt>はは</rt></ruby>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。",
+      "example_meaning": "어머니께 편지를 씁니다."
     },
     {
-      "id": 763,
+      "id": 45,
       "level": "N4",
-      "word": "深い",
-      "reading": "ふかい",
-      "meaning": "깊다",
-      "example": "<ruby>深<rt>ふか</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>です。",
-      "example_meaning": "깊은 바다입니다."
+      "word": "覚える",
+      "reading": "おぼえる",
+      "meaning": "외우다, 기억하다",
+      "example": "<ruby>単語<rt>たんご</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えます。",
+      "example_meaning": "단어를 외웁니다."
     }
   ]
 }
