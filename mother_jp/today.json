@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-11",
   "words": [
     {
-      "id": 202,
+      "id": 16,
       "level": "N5",
-      "word": "明るい",
-      "reading": "あかるい",
-      "meaning": "밝다",
-      "example": "<ruby>明<rt>あか</rt></ruby>るい<ruby>性格<rt>せいかく</rt></ruby>です。",
-      "example_meaning": "밝은 성격입니다."
+      "word": "座る",
+      "reading": "すわる",
+      "meaning": "앉다",
+      "example": "<ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ります。",
+      "example_meaning": "의자에 앉습니다."
     },
     {
-      "id": 385,
+      "id": 22,
       "level": "N5",
-      "word": "手紙",
-      "reading": "てがみ",
-      "meaning": "편지",
-      "example": "<ruby>母<rt>はは</rt></ruby>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。",
-      "example_meaning": "어머니께 편지를 씁니다."
+      "word": "花",
+      "reading": "はな",
+      "meaning": "꽃",
+      "example": "<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きました。",
+      "example_meaning": "꽃이 피었습니다."
     },
     {
-      "id": 45,
+      "id": 44,
       "level": "N4",
-      "word": "覚える",
-      "reading": "おぼえる",
-      "meaning": "외우다, 기억하다",
-      "example": "<ruby>単語<rt>たんご</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えます。",
-      "example_meaning": "단어를 외웁니다."
+      "word": "忘れる",
+      "reading": "わすれる",
+      "meaning": "잊다",
+      "example": "<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れました。",
+      "example_meaning": "열쇠를 잊어버렸습니다."
     }
   ]
 }
