@@ -858,7 +858,7 @@
       "meaning": "시간",
       "example": "<ruby>時間<rt>じかん</rt></ruby>がありません。",
       "example_meaning": "시간이 없습니다.",
-      "used_date": null
+      "used_date": "2026-05-12"
     },
     {
       "id": 87,
@@ -2928,7 +2928,7 @@
       "meaning": "맑다, 개다",
       "example": "<ruby>明日<rt>あした</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れます。",
       "example_meaning": "내일은 맑습니다.",
-      "used_date": null
+      "used_date": "2026-05-12"
     },
     {
       "id": 294,
@@ -7338,7 +7338,7 @@
       "meaning": "예정",
       "example": "<ruby>明日<rt>あした</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
       "example_meaning": "내일 예정을 알려 주세요.",
-      "used_date": null
+      "used_date": "2026-05-12"
     },
     {
       "id": 735,
