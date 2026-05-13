@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "words": [
     {
-      "id": 86,
+      "id": 6,
       "level": "N5",
-      "word": "時間",
-      "reading": "じかん",
-      "meaning": "시간",
-      "example": "<ruby>時間<rt>じかん</rt></ruby>がありません。",
-      "example_meaning": "시간이 없습니다."
+      "word": "読む",
+      "reading": "よむ",
+      "meaning": "읽다",
+      "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
+      "example_meaning": "책을 읽습니다."
     },
     {
-      "id": 293,
+      "id": 32,
       "level": "N5",
-      "word": "晴れる",
-      "reading": "はれる",
-      "meaning": "맑다, 개다",
-      "example": "<ruby>明日<rt>あした</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れます。",
-      "example_meaning": "내일은 맑습니다."
+      "word": "駅",
+      "reading": "えき",
+      "meaning": "역",
+      "example": "<ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>きます。",
+      "example_meaning": "역까지 걷습니다."
     },
     {
-      "id": 734,
+      "id": 53,
       "level": "N4",
-      "word": "予定",
-      "reading": "よてい",
-      "meaning": "예정",
-      "example": "<ruby>明日<rt>あした</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
-      "example_meaning": "내일 예정을 알려 주세요."
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaning": "친절하다",
+      "example": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>です。",
+      "example_meaning": "그는 매우 친절합니다."
     }
   ]
 }

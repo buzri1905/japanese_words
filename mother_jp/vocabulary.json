@@ -58,7 +58,7 @@
       "meaning": "읽다",
       "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
       "example_meaning": "책을 읽습니다.",
-      "used_date": null
+      "used_date": "2026-05-13"
     },
     {
       "id": 7,
@@ -318,7 +318,7 @@
       "meaning": "역",
       "example": "<ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>きます。",
       "example_meaning": "역까지 걷습니다.",
-      "used_date": null
+      "used_date": "2026-05-13"
     },
     {
       "id": 33,
@@ -528,7 +528,7 @@
       "meaning": "친절하다",
       "example": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>です。",
       "example_meaning": "그는 매우 친절합니다.",
-      "used_date": null
+      "used_date": "2026-05-13"
     },
     {
       "id": 54,
