@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "words": [
     {
-      "id": 6,
+      "id": 8,
       "level": "N5",
-      "word": "読む",
-      "reading": "よむ",
-      "meaning": "읽다",
-      "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
-      "example_meaning": "책을 읽습니다."
+      "word": "聞く",
+      "reading": "きく",
+      "meaning": "듣다, 묻다",
+      "example": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きます。",
+      "example_meaning": "음악을 듣습니다."
     },
     {
-      "id": 32,
+      "id": 34,
       "level": "N5",
-      "word": "駅",
-      "reading": "えき",
-      "meaning": "역",
-      "example": "<ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>きます。",
-      "example_meaning": "역까지 걷습니다."
+      "word": "小さい",
+      "reading": "ちいさい",
+      "meaning": "작다",
+      "example": "<ruby>小<rt>ちい</rt></ruby>さい<ruby>子供<rt>こども</rt></ruby>がいます。",
+      "example_meaning": "작은 아이가 있습니다."
     },
     {
-      "id": 53,
+      "id": 59,
       "level": "N4",
-      "word": "親切",
-      "reading": "しんせつ",
-      "meaning": "친절하다",
-      "example": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>です。",
-      "example_meaning": "그는 매우 친절합니다."
+      "word": "季節",
+      "reading": "きせつ",
+      "meaning": "계절",
+      "example": "<ruby>好<rt>す</rt></ruby>きな<ruby>季節<rt>きせつ</rt></ruby>は<ruby>春<rt>はる</rt></ruby>です。",
+      "example_meaning": "좋아하는 계절은 봄입니다."
     }
   ]
 }
