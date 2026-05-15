@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "words": [
     {
-      "id": 8,
+      "id": 111,
       "level": "N5",
-      "word": "聞く",
-      "reading": "きく",
-      "meaning": "듣다, 묻다",
-      "example": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きます。",
-      "example_meaning": "음악을 듣습니다."
+      "word": "風",
+      "reading": "かぜ",
+      "meaning": "바람",
+      "example": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いです。",
+      "example_meaning": "바람이 강합니다."
     },
     {
-      "id": 34,
+      "id": 183,
       "level": "N5",
-      "word": "小さい",
-      "reading": "ちいさい",
-      "meaning": "작다",
-      "example": "<ruby>小<rt>ちい</rt></ruby>さい<ruby>子供<rt>こども</rt></ruby>がいます。",
-      "example_meaning": "작은 아이가 있습니다."
+      "word": "悪い",
+      "reading": "わるい",
+      "meaning": "나쁘다",
+      "example": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いわけではない。",
+      "example_meaning": "머리가 나쁜 것은 아닙니다."
     },
     {
-      "id": 59,
+      "id": 46,
       "level": "N4",
-      "word": "季節",
-      "reading": "きせつ",
-      "meaning": "계절",
-      "example": "<ruby>好<rt>す</rt></ruby>きな<ruby>季節<rt>きせつ</rt></ruby>は<ruby>春<rt>はる</rt></ruby>です。",
-      "example_meaning": "좋아하는 계절은 봄입니다."
+      "word": "教える",
+      "reading": "おしえる",
+      "meaning": "가르치다",
+      "example": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えます。",
+      "example_meaning": "일본어를 가르칩니다."
     }
   ]
 }
