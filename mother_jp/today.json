@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "words": [
     {
-      "id": 111,
+      "id": 173,
       "level": "N5",
-      "word": "風",
-      "reading": "かぜ",
-      "meaning": "바람",
-      "example": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いです。",
-      "example_meaning": "바람이 강합니다."
+      "word": "隣",
+      "reading": "となり",
+      "meaning": "옆, 이웃",
+      "example": "<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>です。",
+      "example_meaning": "옆방입니다."
     },
     {
-      "id": 183,
+      "id": 259,
       "level": "N5",
-      "word": "悪い",
-      "reading": "わるい",
-      "meaning": "나쁘다",
-      "example": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いわけではない。",
-      "example_meaning": "머리가 나쁜 것은 아닙니다."
+      "word": "休む",
+      "reading": "やすむ",
+      "meaning": "쉬다",
+      "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>休<rt>やす</rt></ruby>みます。",
+      "example_meaning": "잠시 쉽니다."
     },
     {
-      "id": 46,
+      "id": 589,
       "level": "N4",
-      "word": "教える",
-      "reading": "おしえる",
-      "meaning": "가르치다",
-      "example": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えます。",
-      "example_meaning": "일본어를 가르칩니다."
+      "word": "怪我",
+      "reading": "けが",
+      "meaning": "부상",
+      "example": "<ruby>怪我<rt>けが</rt></ruby>をしました。",
+      "example_meaning": "다쳤습니다."
     }
   ]
 }
