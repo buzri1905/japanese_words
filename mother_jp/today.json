@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "words": [
     {
-      "id": 207,
+      "id": 17,
       "level": "N5",
-      "word": "甘い",
-      "reading": "あまい",
-      "meaning": "달다",
-      "example": "このケーキは<ruby>甘<rt>あま</rt></ruby>いです。",
-      "example_meaning": "이 케이크는 답니다."
+      "word": "歩く",
+      "reading": "あるく",
+      "meaning": "걷다",
+      "example": "<ruby>公園<rt>こうえん</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>きます。",
+      "example_meaning": "공원을 걷습니다."
     },
     {
-      "id": 383,
+      "id": 119,
       "level": "N5",
-      "word": "切手",
-      "reading": "きって",
-      "meaning": "우표",
-      "example": "<ruby>切手<rt>きって</rt></ruby>を<ruby>貼<rt>は</rt></ruby>ります。",
-      "example_meaning": "우표를 붙입니다."
+      "word": "家族",
+      "reading": "かぞく",
+      "meaning": "가족",
+      "example": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>住<rt>す</rt></ruby>んでいます。",
+      "example_meaning": "가족과 살고 있습니다."
     },
     {
-      "id": 525,
+      "id": 50,
       "level": "N4",
-      "word": "もらう",
-      "reading": "もらう",
-      "meaning": "받다",
-      "example": "プレゼントをもらいました。",
-      "example_meaning": "선물을 받았습니다."
+      "word": "助ける",
+      "reading": "たすける",
+      "meaning": "돕다",
+      "example": "<ruby>友達<rt>ともだち</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けます。",
+      "example_meaning": "친구를 돕습니다."
     }
   ]
 }
