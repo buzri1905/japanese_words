@@ -118,7 +118,7 @@
       "meaning": "일어나다",
       "example": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>六時<rt>ろくじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。",
       "example_meaning": "매일 아침 6시에 일어납니다.",
-      "used_date": null
+      "used_date": "2026-05-23"
     },
     {
       "id": 13,
@@ -1888,7 +1888,7 @@
       "meaning": "짧다",
       "example": "この<ruby>鉛筆<rt>えんぴつ</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>いです。",
       "example_meaning": "이 연필은 짧습니다.",
-      "used_date": null
+      "used_date": "2026-05-23"
     },
     {
       "id": 190,
@@ -7048,7 +7048,7 @@
       "meaning": "관계",
       "example": "<ruby>関係<rt>かんけい</rt></ruby>がありません。",
       "example_meaning": "관계가 없습니다.",
-      "used_date": null
+      "used_date": "2026-05-23"
     },
     {
       "id": 706,
