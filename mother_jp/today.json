@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-25",
   "words": [
     {
-      "id": 12,
+      "id": 303,
       "level": "N5",
-      "word": "起きる",
-      "reading": "おきる",
-      "meaning": "일어나다",
-      "example": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>六時<rt>ろくじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。",
-      "example_meaning": "매일 아침 6시에 일어납니다."
+      "word": "野菜",
+      "reading": "やさい",
+      "meaning": "채소",
+      "example": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。",
+      "example_meaning": "채소를 삽니다."
     },
     {
-      "id": 189,
+      "id": 256,
       "level": "N5",
-      "word": "短い",
-      "reading": "みじかい",
-      "meaning": "짧다",
-      "example": "この<ruby>鉛筆<rt>えんぴつ</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>いです。",
-      "example_meaning": "이 연필은 짧습니다."
+      "word": "歌う",
+      "reading": "うたう",
+      "meaning": "노래하다",
+      "example": "<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>います。",
+      "example_meaning": "노래를 부릅니다."
     },
     {
-      "id": 705,
+      "id": 766,
       "level": "N4",
-      "word": "関係",
-      "reading": "かんけい",
-      "meaning": "관계",
-      "example": "<ruby>関係<rt>かんけい</rt></ruby>がありません。",
-      "example_meaning": "관계가 없습니다."
+      "word": "柔らかい",
+      "reading": "やわらかい",
+      "meaning": "부드럽다",
+      "example": "<ruby>柔<rt>やわ</rt></ruby>らかい<ruby>布団<rt>ふとん</rt></ruby>です。",
+      "example_meaning": "부드러운 이불입니다."
     }
   ]
 }
