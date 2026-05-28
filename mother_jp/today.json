@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-28",
   "words": [
     {
-      "id": 303,
+      "id": 118,
       "level": "N5",
-      "word": "野菜",
-      "reading": "やさい",
-      "meaning": "채소",
-      "example": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。",
-      "example_meaning": "채소를 삽니다."
+      "word": "妹",
+      "reading": "いもうと",
+      "meaning": "여동생",
+      "example": "<ruby>妹<rt>いもうと</rt></ruby>はかわいいです。",
+      "example_meaning": "여동생은 귀엽습니다."
     },
     {
-      "id": 256,
+      "id": 405,
       "level": "N5",
-      "word": "歌う",
-      "reading": "うたう",
-      "meaning": "노래하다",
-      "example": "<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>います。",
-      "example_meaning": "노래를 부릅니다."
+      "word": "まだ",
+      "reading": "まだ",
+      "meaning": "아직",
+      "example": "まだ<ruby>食<rt>た</rt></ruby>べていません。",
+      "example_meaning": "아직 안 먹었습니다."
     },
     {
-      "id": 766,
+      "id": 452,
       "level": "N4",
-      "word": "柔らかい",
-      "reading": "やわらかい",
-      "meaning": "부드럽다",
-      "example": "<ruby>柔<rt>やわ</rt></ruby>らかい<ruby>布団<rt>ふとん</rt></ruby>です。",
-      "example_meaning": "부드러운 이불입니다."
+      "word": "信じる",
+      "reading": "しんじる",
+      "meaning": "믿다",
+      "example": "<ruby>彼<rt>かれ</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じます。",
+      "example_meaning": "그를 믿습니다."
     }
   ]
 }
