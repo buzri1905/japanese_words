@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-06-02",
   "words": [
     {
-      "id": 118,
+      "id": 19,
       "level": "N5",
-      "word": "妹",
-      "reading": "いもうと",
-      "meaning": "여동생",
-      "example": "<ruby>妹<rt>いもうと</rt></ruby>はかわいいです。",
-      "example_meaning": "여동생은 귀엽습니다."
+      "word": "水",
+      "reading": "みず",
+      "meaning": "물",
+      "example": "<ruby>水<rt>みず</rt></ruby>をください。",
+      "example_meaning": "물을 주세요."
     },
     {
-      "id": 405,
+      "id": 364,
       "level": "N5",
-      "word": "まだ",
-      "reading": "まだ",
-      "meaning": "아직",
-      "example": "まだ<ruby>食<rt>た</rt></ruby>べていません。",
-      "example_meaning": "아직 안 먹었습니다."
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning": "지갑",
+      "example": "<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れました。",
+      "example_meaning": "지갑을 두고 왔습니다."
     },
     {
-      "id": 452,
+      "id": 719,
       "level": "N4",
-      "word": "信じる",
-      "reading": "しんじる",
-      "meaning": "믿다",
-      "example": "<ruby>彼<rt>かれ</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じます。",
-      "example_meaning": "그를 믿습니다."
+      "word": "冬休み",
+      "reading": "ふゆやすみ",
+      "meaning": "겨울방학",
+      "example": "<ruby>冬休<rt>ふゆやす</rt></ruby>みは<ruby>長<rt>なが</rt></ruby>いです。",
+      "example_meaning": "겨울방학은 깁니다."
     }
   ]
 }
