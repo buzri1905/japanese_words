@@ -1,32 +1,32 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "words": [
     {
-      "id": 19,
+      "id": 205,
       "level": "N5",
-      "word": "水",
-      "reading": "みず",
-      "meaning": "물",
-      "example": "<ruby>水<rt>みず</rt></ruby>をください。",
-      "example_meaning": "물을 주세요."
+      "word": "近い",
+      "reading": "ちかい",
+      "meaning": "가깝다",
+      "example": "<ruby>駅<rt>えき</rt></ruby>から<ruby>近<rt>ちか</rt></ruby>いです。",
+      "example_meaning": "역에서 가깝습니다."
     },
     {
-      "id": 364,
+      "id": 423,
       "level": "N5",
-      "word": "財布",
-      "reading": "さいふ",
-      "meaning": "지갑",
-      "example": "<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れました。",
-      "example_meaning": "지갑을 두고 왔습니다."
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "두 명",
+      "example": "<ruby>二人<rt>ふたり</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>します。",
+      "example_meaning": "둘이서 식사합니다."
     },
     {
-      "id": 719,
+      "id": 582,
       "level": "N4",
-      "word": "冬休み",
-      "reading": "ふゆやすみ",
-      "meaning": "겨울방학",
-      "example": "<ruby>冬休<rt>ふゆやす</rt></ruby>みは<ruby>長<rt>なが</rt></ruby>いです。",
-      "example_meaning": "겨울방학은 깁니다."
+      "word": "喉",
+      "reading": "のど",
+      "meaning": "목, 목구멍",
+      "example": "<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かわ</rt></ruby>きました。",
+      "example_meaning": "목이 마릅니다."
     }
   ]
 }
