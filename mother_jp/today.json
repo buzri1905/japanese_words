@@ -1,32 +1,32 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-12",
   "words": [
     {
-      "id": 205,
+      "id": 192,
       "level": "N5",
-      "word": "近い",
-      "reading": "ちかい",
-      "meaning": "가깝다",
-      "example": "<ruby>駅<rt>えき</rt></ruby>から<ruby>近<rt>ちか</rt></ruby>いです。",
-      "example_meaning": "역에서 가깝습니다."
+      "word": "強い",
+      "reading": "つよい",
+      "meaning": "강하다, 세다",
+      "example": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いです。",
+      "example_meaning": "바람이 셉니다."
     },
     {
-      "id": 423,
+      "id": 269,
       "level": "N5",
-      "word": "二人",
-      "reading": "ふたり",
-      "meaning": "두 명",
-      "example": "<ruby>二人<rt>ふたり</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>します。",
-      "example_meaning": "둘이서 식사합니다."
+      "word": "始まる",
+      "reading": "はじまる",
+      "meaning": "시작되다",
+      "example": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。",
+      "example_meaning": "수업이 시작되었습니다."
     },
     {
-      "id": 582,
+      "id": 737,
       "level": "N4",
-      "word": "喉",
-      "reading": "のど",
-      "meaning": "목, 목구멍",
-      "example": "<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かわ</rt></ruby>きました。",
-      "example_meaning": "목이 마릅니다."
+      "word": "考え",
+      "reading": "かんがえ",
+      "meaning": "생각",
+      "example": "いい<ruby>考<rt>かんが</rt></ruby>えですね。",
+      "example_meaning": "좋은 생각이네요."
     }
   ]
 }
