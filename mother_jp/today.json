@@ -1,32 +1,32 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-16",
   "words": [
     {
-      "id": 192,
+      "id": 214,
       "level": "N5",
-      "word": "強い",
-      "reading": "つよい",
-      "meaning": "강하다, 세다",
-      "example": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いです。",
-      "example_meaning": "바람이 셉니다."
+      "word": "太い",
+      "reading": "ふとい",
+      "meaning": "굵다",
+      "example": "<ruby>太<rt>ふと</rt></ruby>い<ruby>木<rt>き</rt></ruby>です。",
+      "example_meaning": "굵은 나무입니다."
     },
     {
-      "id": 269,
+      "id": 249,
       "level": "N5",
-      "word": "始まる",
-      "reading": "はじまる",
-      "meaning": "시작되다",
-      "example": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。",
-      "example_meaning": "수업이 시작되었습니다."
+      "word": "脱ぐ",
+      "reading": "ぬぐ",
+      "meaning": "벗다",
+      "example": "<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでください。",
+      "example_meaning": "신발을 벗어 주세요."
     },
     {
-      "id": 737,
+      "id": 793,
       "level": "N4",
-      "word": "考え",
-      "reading": "かんがえ",
-      "meaning": "생각",
-      "example": "いい<ruby>考<rt>かんが</rt></ruby>えですね。",
-      "example_meaning": "좋은 생각이네요."
+      "word": "派手",
+      "reading": "はで",
+      "meaning": "화려하다",
+      "example": "<ruby>派手<rt>はで</rt></ruby>な<ruby>色<rt>いろ</rt></ruby>です。",
+      "example_meaning": "화려한 색입니다."
     }
   ]
 }
