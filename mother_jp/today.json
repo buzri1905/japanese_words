@@ -1,32 +1,32 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-18",
   "words": [
     {
-      "id": 214,
+      "id": 128,
       "level": "N5",
-      "word": "太い",
-      "reading": "ふとい",
-      "meaning": "굵다",
-      "example": "<ruby>太<rt>ふと</rt></ruby>い<ruby>木<rt>き</rt></ruby>です。",
-      "example_meaning": "굵은 나무입니다."
+      "word": "顔",
+      "reading": "かお",
+      "meaning": "얼굴",
+      "example": "<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
+      "example_meaning": "얼굴을 씻습니다."
     },
     {
-      "id": 249,
+      "id": 262,
       "level": "N5",
-      "word": "脱ぐ",
-      "reading": "ぬぐ",
-      "meaning": "벗다",
-      "example": "<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでください。",
-      "example_meaning": "신발을 벗어 주세요."
+      "word": "知る",
+      "reading": "しる",
+      "meaning": "알다",
+      "example": "<ruby>名前<rt>なまえ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っています。",
+      "example_meaning": "이름을 알고 있습니다."
     },
     {
-      "id": 793,
+      "id": 475,
       "level": "N4",
-      "word": "派手",
-      "reading": "はで",
-      "meaning": "화려하다",
-      "example": "<ruby>派手<rt>はで</rt></ruby>な<ruby>色<rt>いろ</rt></ruby>です。",
-      "example_meaning": "화려한 색입니다."
+      "word": "怒る",
+      "reading": "おこる",
+      "meaning": "화내다",
+      "example": "<ruby>父<rt>ちち</rt></ruby>が<ruby>怒<rt>おこ</rt></ruby>っています。",
+      "example_meaning": "아버지가 화나 계십니다."
     }
   ]
 }
