@@ -1,32 +1,32 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "words": [
     {
-      "id": 128,
+      "id": 38,
       "level": "N5",
-      "word": "顔",
-      "reading": "かお",
-      "meaning": "얼굴",
-      "example": "<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
-      "example_meaning": "얼굴을 씻습니다."
+      "word": "暑い",
+      "reading": "あつい",
+      "meaning": "덥다",
+      "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いですね。",
+      "example_meaning": "오늘은 덥네요."
     },
     {
-      "id": 262,
+      "id": 26,
       "level": "N5",
-      "word": "知る",
-      "reading": "しる",
-      "meaning": "알다",
-      "example": "<ruby>名前<rt>なまえ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っています。",
-      "example_meaning": "이름을 알고 있습니다."
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "친구",
+      "example": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>びます。",
+      "example_meaning": "친구와 놉니다."
     },
     {
-      "id": 475,
+      "id": 51,
       "level": "N4",
-      "word": "怒る",
-      "reading": "おこる",
-      "meaning": "화내다",
-      "example": "<ruby>父<rt>ちち</rt></ruby>が<ruby>怒<rt>おこ</rt></ruby>っています。",
-      "example_meaning": "아버지가 화나 계십니다."
+      "word": "笑う",
+      "reading": "わらう",
+      "meaning": "웃다",
+      "example": "みんなで<ruby>笑<rt>わら</rt></ruby>いました。",
+      "example_meaning": "다 같이 웃었습니다."
     }
   ]
 }
