@@ -1,32 +1,32 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-24",
   "words": [
     {
-      "id": 38,
+      "id": 325,
       "level": "N5",
-      "word": "暑い",
-      "reading": "あつい",
-      "meaning": "덥다",
-      "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いですね。",
-      "example_meaning": "오늘은 덥네요."
+      "word": "店",
+      "reading": "みせ",
+      "meaning": "가게",
+      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>店<rt>みせ</rt></ruby>ができました。",
+      "example_meaning": "새 가게가 생겼습니다."
     },
     {
-      "id": 26,
+      "id": 397,
       "level": "N5",
-      "word": "友達",
-      "reading": "ともだち",
-      "meaning": "친구",
-      "example": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>びます。",
-      "example_meaning": "친구와 놉니다."
+      "word": "ありがとう",
+      "reading": "ありがとう",
+      "meaning": "고마워(요)",
+      "example": "ありがとうございます。",
+      "example_meaning": "감사합니다."
     },
     {
-      "id": 51,
+      "id": 716,
       "level": "N4",
-      "word": "笑う",
-      "reading": "わらう",
-      "meaning": "웃다",
-      "example": "みんなで<ruby>笑<rt>わら</rt></ruby>いました。",
-      "example_meaning": "다 같이 웃었습니다."
+      "word": "正月",
+      "reading": "しょうがつ",
+      "meaning": "설날, 정월",
+      "example": "お<ruby>正月<rt>しょうがつ</rt></ruby>を<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
+      "example_meaning": "설날을 가족과 보냅니다."
     }
   ]
 }
