@@ -1,32 +1,32 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-26",
   "words": [
     {
-      "id": 325,
+      "id": 7,
       "level": "N5",
-      "word": "店",
-      "reading": "みせ",
-      "meaning": "가게",
-      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>店<rt>みせ</rt></ruby>ができました。",
-      "example_meaning": "새 가게가 생겼습니다."
+      "word": "書く",
+      "reading": "かく",
+      "meaning": "쓰다",
+      "example": "<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。",
+      "example_meaning": "편지를 씁니다."
     },
     {
-      "id": 397,
+      "id": 29,
       "level": "N5",
-      "word": "ありがとう",
-      "reading": "ありがとう",
-      "meaning": "고마워(요)",
-      "example": "ありがとうございます。",
-      "example_meaning": "감사합니다."
+      "word": "犬",
+      "reading": "いぬ",
+      "meaning": "개",
+      "example": "<ruby>犬<rt>いぬ</rt></ruby>がかわいいです。",
+      "example_meaning": "개가 귀엽습니다."
     },
     {
-      "id": 716,
+      "id": 425,
       "level": "N4",
-      "word": "正月",
-      "reading": "しょうがつ",
-      "meaning": "설날, 정월",
-      "example": "お<ruby>正月<rt>しょうがつ</rt></ruby>を<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
-      "example_meaning": "설날을 가족과 보냅니다."
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaning": "모이다",
+      "example": "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。",
+      "example_meaning": "친구들이 모였습니다."
     }
   ]
 }
