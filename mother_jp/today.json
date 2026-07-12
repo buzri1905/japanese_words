@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-12",
   "words": [
     {
-      "id": 10,
+      "id": 18,
       "level": "N5",
-      "word": "買う",
-      "reading": "かう",
-      "meaning": "사다",
-      "example": "パンを<ruby>買<rt>か</rt></ruby>います。",
-      "example_meaning": "빵을 삽니다."
+      "word": "待つ",
+      "reading": "まつ",
+      "meaning": "기다리다",
+      "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>待<rt>ま</rt></ruby>ってください。",
+      "example_meaning": "조금 기다려 주세요."
     },
     {
-      "id": 37,
+      "id": 88,
       "level": "N5",
-      "word": "安い",
-      "reading": "やすい",
-      "meaning": "싸다",
-      "example": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>安<rt>やす</rt></ruby>いです。",
-      "example_meaning": "이 가게는 쌉니다."
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "다음 주",
+      "example": "<ruby>来週<rt>らいしゅう</rt></ruby><ruby>会<rt>あ</rt></ruby>いましょう。",
+      "example_meaning": "다음 주에 만나요."
     },
     {
-      "id": 57,
+      "id": 623,
       "level": "N4",
-      "word": "計画",
-      "reading": "けいかく",
-      "meaning": "계획",
-      "example": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てます。",
-      "example_meaning": "여행 계획을 세웁니다."
+      "word": "知り合い",
+      "reading": "しりあい",
+      "meaning": "아는 사람, 지인",
+      "example": "<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>会<rt>あ</rt></ruby>いました。",
+      "example_meaning": "아는 사람을 만났습니다."
     }
   ]
 }
