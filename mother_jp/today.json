@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-27",
   "words": [
     {
-      "id": 18,
+      "id": 201,
       "level": "N5",
-      "word": "待つ",
-      "reading": "まつ",
-      "meaning": "기다리다",
-      "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>待<rt>ま</rt></ruby>ってください。",
-      "example_meaning": "조금 기다려 주세요."
+      "word": "暗い",
+      "reading": "くらい",
+      "meaning": "어둡다",
+      "example": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>いです。",
+      "example_meaning": "방이 어둡습니다."
     },
     {
-      "id": 88,
+      "id": 62,
       "level": "N5",
-      "word": "来週",
-      "reading": "らいしゅう",
-      "meaning": "다음 주",
-      "example": "<ruby>来週<rt>らいしゅう</rt></ruby><ruby>会<rt>あ</rt></ruby>いましょう。",
-      "example_meaning": "다음 주에 만나요."
+      "word": "二",
+      "reading": "に",
+      "meaning": "2, 둘",
+      "example": "りんごを<ruby>二<rt>に</rt></ruby>つください。",
+      "example_meaning": "사과를 두 개 주세요."
     },
     {
-      "id": 623,
+      "id": 564,
       "level": "N4",
-      "word": "知り合い",
-      "reading": "しりあい",
-      "meaning": "아는 사람, 지인",
-      "example": "<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>会<rt>あ</rt></ruby>いました。",
-      "example_meaning": "아는 사람을 만났습니다."
+      "word": "開く",
+      "reading": "ひらく",
+      "meaning": "열다, 펼치다",
+      "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きます。",
+      "example_meaning": "책을 펼칩니다."
     }
   ]
 }
