@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "words": [
     {
-      "id": 201,
+      "id": 142,
       "level": "N5",
-      "word": "暗い",
-      "reading": "くらい",
-      "meaning": "어둡다",
-      "example": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>いです。",
-      "example_meaning": "방이 어둡습니다."
+      "word": "茶色",
+      "reading": "ちゃいろ",
+      "meaning": "갈색",
+      "example": "<ruby>茶色<rt>ちゃいろ</rt></ruby>の<ruby>鞄<rt>かばん</rt></ruby>です。",
+      "example_meaning": "갈색 가방입니다."
     },
     {
-      "id": 62,
+      "id": 110,
       "level": "N5",
-      "word": "二",
-      "reading": "に",
-      "meaning": "2, 둘",
-      "example": "りんごを<ruby>二<rt>に</rt></ruby>つください。",
-      "example_meaning": "사과를 두 개 주세요."
+      "word": "雪",
+      "reading": "ゆき",
+      "meaning": "눈(날씨)",
+      "example": "<ruby>雪<rt>ゆき</rt></ruby>がきれいです。",
+      "example_meaning": "눈이 예쁩니다."
     },
     {
-      "id": 564,
+      "id": 505,
       "level": "N4",
-      "word": "開く",
-      "reading": "ひらく",
-      "meaning": "열다, 펼치다",
-      "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きます。",
-      "example_meaning": "책을 펼칩니다."
+      "word": "紹介する",
+      "reading": "しょうかいする",
+      "meaning": "소개하다",
+      "example": "<ruby>友達<rt>ともだち</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>します。",
+      "example_meaning": "친구를 소개합니다."
     }
   ]
 }
