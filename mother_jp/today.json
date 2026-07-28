@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "words": [
     {
-      "id": 142,
+      "id": 351,
       "level": "N5",
-      "word": "茶色",
-      "reading": "ちゃいろ",
-      "meaning": "갈색",
-      "example": "<ruby>茶色<rt>ちゃいろ</rt></ruby>の<ruby>鞄<rt>かばん</rt></ruby>です。",
-      "example_meaning": "갈색 가방입니다."
+      "word": "椅子",
+      "reading": "いす",
+      "meaning": "의자",
+      "example": "<ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ります。",
+      "example_meaning": "의자에 앉습니다."
     },
     {
-      "id": 110,
+      "id": 329,
       "level": "N5",
-      "word": "雪",
-      "reading": "ゆき",
-      "meaning": "눈(날씨)",
-      "example": "<ruby>雪<rt>ゆき</rt></ruby>がきれいです。",
-      "example_meaning": "눈이 예쁩니다."
+      "word": "ホテル",
+      "reading": "ホテル",
+      "meaning": "호텔",
+      "example": "ホテルに<ruby>泊<rt>と</rt></ruby>まります。",
+      "example_meaning": "호텔에 묵습니다."
     },
     {
-      "id": 505,
+      "id": 724,
       "level": "N4",
-      "word": "紹介する",
-      "reading": "しょうかいする",
-      "meaning": "소개하다",
-      "example": "<ruby>友達<rt>ともだち</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>します。",
-      "example_meaning": "친구를 소개합니다."
+      "word": "植物",
+      "reading": "しょくぶつ",
+      "meaning": "식물",
+      "example": "<ruby>植物<rt>しょくぶつ</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てます。",
+      "example_meaning": "식물을 키웁니다."
     }
   ]
 }

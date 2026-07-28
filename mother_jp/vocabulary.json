@@ -3288,7 +3288,7 @@
       "meaning": "호텔",
       "example": "ホテルに<ruby>泊<rt>と</rt></ruby>まります。",
       "example_meaning": "호텔에 묵습니다.",
-      "used_date": null
+      "used_date": "2026-07-29"
     },
     {
       "id": 330,
@@ -3508,7 +3508,7 @@
       "meaning": "의자",
       "example": "<ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ります。",
       "example_meaning": "의자에 앉습니다.",
-      "used_date": null
+      "used_date": "2026-07-29"
     },
     {
       "id": 352,
@@ -7238,7 +7238,7 @@
       "meaning": "식물",
       "example": "<ruby>植物<rt>しょくぶつ</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てます。",
       "example_meaning": "식물을 키웁니다.",
-      "used_date": null
+      "used_date": "2026-07-29"
     },
     {
       "id": 725,
