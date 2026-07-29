@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "words": [
     {
-      "id": 351,
+      "id": 403,
       "level": "N5",
-      "word": "椅子",
-      "reading": "いす",
-      "meaning": "의자",
-      "example": "<ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ります。",
-      "example_meaning": "의자에 앉습니다."
+      "word": "ごちそうさま",
+      "reading": "ごちそうさま",
+      "meaning": "잘 먹었습니다",
+      "example": "ごちそうさまでした。",
+      "example_meaning": "잘 먹었습니다."
     },
     {
-      "id": 329,
+      "id": 275,
       "level": "N5",
-      "word": "ホテル",
-      "reading": "ホテル",
-      "meaning": "호텔",
-      "example": "ホテルに<ruby>泊<rt>と</rt></ruby>まります。",
-      "example_meaning": "호텔에 묵습니다."
+      "word": "渡る",
+      "reading": "わたる",
+      "meaning": "건너다",
+      "example": "<ruby>道<rt>みち</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>ります。",
+      "example_meaning": "길을 건넙니다."
     },
     {
-      "id": 724,
+      "id": 760,
       "level": "N4",
-      "word": "植物",
-      "reading": "しょくぶつ",
-      "meaning": "식물",
-      "example": "<ruby>植物<rt>しょくぶつ</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てます。",
-      "example_meaning": "식물을 키웁니다."
+      "word": "細かい",
+      "reading": "こまかい",
+      "meaning": "자잘하다, 세세하다",
+      "example": "<ruby>細<rt>こま</rt></ruby>かい<ruby>字<rt>じ</rt></ruby>です。",
+      "example_meaning": "잔글씨입니다."
     }
   ]
 }
