@@ -3588,7 +3588,7 @@
       "meaning": "지도",
       "example": "<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
       "example_meaning": "지도를 봅니다.",
-      "used_date": null
+      "used_date": "2026-07-31"
     },
     {
       "id": 360,
@@ -3888,7 +3888,7 @@
       "meaning": "히라가나",
       "example": "<ruby>平仮名<rt>ひらがな</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてください。",
       "example_meaning": "히라가나로 써 주세요.",
-      "used_date": null
+      "used_date": "2026-07-31"
     },
     {
       "id": 390,
@@ -7888,7 +7888,7 @@
       "meaning": "멋지다",
       "example": "<ruby>素敵<rt>すてき</rt></ruby>な<ruby>服<rt>ふく</rt></ruby>ですね。",
       "example_meaning": "멋진 옷이네요.",
-      "used_date": null
+      "used_date": "2026-07-31"
     },
     {
       "id": 790,
