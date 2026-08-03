@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "words": [
     {
-      "id": 28,
+      "id": 129,
       "level": "N5",
-      "word": "父",
-      "reading": "ちち",
-      "meaning": "아버지",
-      "example": "<ruby>父<rt>ちち</rt></ruby>は<ruby>会社員<rt>かいしゃいん</rt></ruby>です。",
-      "example_meaning": "아버지는 회사원입니다."
+      "word": "目",
+      "reading": "め",
+      "meaning": "눈",
+      "example": "<ruby>目<rt>め</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。",
+      "example_meaning": "눈이 큽니다."
     },
     {
-      "id": 369,
+      "id": 375,
       "level": "N5",
-      "word": "シャツ",
-      "reading": "シャツ",
-      "meaning": "셔츠",
-      "example": "<ruby>白<rt>しろ</rt></ruby>いシャツです。",
-      "example_meaning": "하얀 셔츠입니다."
+      "word": "ラジオ",
+      "reading": "ラジオ",
+      "meaning": "라디오",
+      "example": "ラジオを<ruby>聞<rt>き</rt></ruby>きます。",
+      "example_meaning": "라디오를 듣습니다."
     },
     {
-      "id": 489,
+      "id": 756,
       "level": "N4",
-      "word": "揚げる",
-      "reading": "あげる",
-      "meaning": "튀기다",
-      "example": "<ruby>魚<rt>さかな</rt></ruby>を<ruby>揚<rt>あ</rt></ruby>げます。",
-      "example_meaning": "생선을 튀깁니다."
+      "word": "苦しい",
+      "reading": "くるしい",
+      "meaning": "괴롭다, 힘들다",
+      "example": "<ruby>息<rt>いき</rt></ruby>が<ruby>苦<rt>くる</rt></ruby>しいです。",
+      "example_meaning": "숨이 가쁩니다."
     }
   ]
 }
