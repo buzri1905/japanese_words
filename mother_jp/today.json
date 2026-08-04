@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "words": [
     {
-      "id": 129,
+      "id": 265,
       "level": "N5",
-      "word": "目",
-      "reading": "め",
-      "meaning": "눈",
-      "example": "<ruby>目<rt>め</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。",
-      "example_meaning": "눈이 큽니다."
+      "word": "いる",
+      "reading": "いる",
+      "meaning": "있다(사람/동물)",
+      "example": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>がいます。",
+      "example_meaning": "방에 고양이가 있습니다."
     },
     {
-      "id": 375,
+      "id": 250,
       "level": "N5",
-      "word": "ラジオ",
-      "reading": "ラジオ",
-      "meaning": "라디오",
-      "example": "ラジオを<ruby>聞<rt>き</rt></ruby>きます。",
-      "example_meaning": "라디오를 듣습니다."
+      "word": "履く",
+      "reading": "はく",
+      "meaning": "신다, 입다(하의)",
+      "example": "<ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>きます。",
+      "example_meaning": "신발을 신습니다."
     },
     {
-      "id": 756,
+      "id": 827,
       "level": "N4",
-      "word": "苦しい",
-      "reading": "くるしい",
-      "meaning": "괴롭다, 힘들다",
-      "example": "<ruby>息<rt>いき</rt></ruby>が<ruby>苦<rt>くる</rt></ruby>しいです。",
-      "example_meaning": "숨이 가쁩니다."
+      "word": "なかなか",
+      "reading": "なかなか",
+      "meaning": "좀처럼, 꽤",
+      "example": "なかなか<ruby>来<rt>き</rt></ruby>ません。",
+      "example_meaning": "좀처럼 오지 않습니다."
     }
   ]
 }
