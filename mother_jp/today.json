@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "words": [
     {
-      "id": 260,
+      "id": 83,
       "level": "N5",
-      "word": "働く",
-      "reading": "はたらく",
-      "meaning": "일하다",
-      "example": "<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きます。",
-      "example_meaning": "회사에서 일합니다."
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "매일",
+      "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>します。",
+      "example_meaning": "매일 운동합니다."
     },
     {
-      "id": 356,
+      "id": 191,
       "level": "N5",
-      "word": "写真",
-      "reading": "しゃしん",
-      "meaning": "사진",
-      "example": "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>です。",
-      "example_meaning": "가족 사진입니다."
+      "word": "軽い",
+      "reading": "かるい",
+      "meaning": "가볍다",
+      "example": "このバッグは<ruby>軽<rt>かる</rt></ruby>いです。",
+      "example_meaning": "이 가방은 가볍습니다."
     },
     {
-      "id": 516,
+      "id": 825,
       "level": "N4",
-      "word": "決める",
-      "reading": "きめる",
-      "meaning": "결정하다",
-      "example": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めました。",
-      "example_meaning": "여행 장소를 정했습니다."
+      "word": "ぜひ",
+      "reading": "ぜひ",
+      "meaning": "꼭, 부디",
+      "example": "ぜひ<ruby>来<rt>き</rt></ruby>てください。",
+      "example_meaning": "꼭 와 주세요."
     }
   ]
 }
