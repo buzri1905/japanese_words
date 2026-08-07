@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "words": [
     {
-      "id": 83,
+      "id": 333,
       "level": "N5",
-      "word": "毎日",
-      "reading": "まいにち",
-      "meaning": "매일",
-      "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>します。",
-      "example_meaning": "매일 운동합니다."
+      "word": "トイレ",
+      "reading": "トイレ",
+      "meaning": "화장실",
+      "example": "トイレはどこですか。",
+      "example_meaning": "화장실은 어디예요?"
     },
     {
-      "id": 191,
+      "id": 178,
       "level": "N5",
-      "word": "軽い",
-      "reading": "かるい",
-      "meaning": "가볍다",
-      "example": "このバッグは<ruby>軽<rt>かる</rt></ruby>いです。",
-      "example_meaning": "이 가방은 가볍습니다."
+      "word": "韓国",
+      "reading": "かんこく",
+      "meaning": "한국",
+      "example": "<ruby>韓国<rt>かんこく</rt></ruby>から<ruby>来<rt>き</rt></ruby>ました。",
+      "example_meaning": "한국에서 왔습니다."
     },
     {
-      "id": 825,
+      "id": 713,
       "level": "N4",
-      "word": "ぜひ",
-      "reading": "ぜひ",
-      "meaning": "꼭, 부디",
-      "example": "ぜひ<ruby>来<rt>き</rt></ruby>てください。",
-      "example_meaning": "꼭 와 주세요."
+      "word": "祭り",
+      "reading": "まつり",
+      "meaning": "축제",
+      "example": "<ruby>夏<rt>なつ</rt></ruby>の<ruby>祭<rt>まつ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "여름 축제에 갑니다."
     }
   ]
 }
