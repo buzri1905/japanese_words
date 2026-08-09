@@ -228,7 +228,7 @@
       "meaning": "책",
       "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>二冊<rt>にさつ</rt></ruby><ruby>買<rt>か</rt></ruby>いました。",
       "example_meaning": "책을 두 권 샀습니다.",
-      "used_date": null
+      "used_date": "2026-08-10"
     },
     {
       "id": 24,
@@ -3108,7 +3108,7 @@
       "meaning": "커피",
       "example": "コーヒーをください。",
       "example_meaning": "커피 주세요.",
-      "used_date": null
+      "used_date": "2026-08-10"
     },
     {
       "id": 312,
@@ -8438,7 +8438,7 @@
       "meaning": "피곤하다, 지치다",
       "example": "とても<ruby>疲<rt>つか</rt></ruby>れました。",
       "example_meaning": "매우 피곤합니다.",
-      "used_date": null
+      "used_date": "2026-08-10"
     },
     {
       "id": 845,
