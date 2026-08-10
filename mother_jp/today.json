@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "words": [
     {
-      "id": 23,
+      "id": 307,
       "level": "N5",
-      "word": "本",
-      "reading": "ほん",
-      "meaning": "책",
-      "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>二冊<rt>にさつ</rt></ruby><ruby>買<rt>か</rt></ruby>いました。",
-      "example_meaning": "책을 두 권 샀습니다."
+      "word": "ご飯",
+      "reading": "ごはん",
+      "meaning": "밥, 식사",
+      "example": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましょう。",
+      "example_meaning": "밥을 먹읍시다."
     },
     {
-      "id": 311,
+      "id": 235,
       "level": "N5",
-      "word": "コーヒー",
-      "reading": "コーヒー",
-      "meaning": "커피",
-      "example": "コーヒーをください。",
-      "example_meaning": "커피 주세요."
+      "word": "閉める",
+      "reading": "しめる",
+      "meaning": "닫다",
+      "example": "ドアを<ruby>閉<rt>し</rt></ruby>めてください。",
+      "example_meaning": "문을 닫아 주세요."
     },
     {
-      "id": 844,
+      "id": 521,
       "level": "N4",
-      "word": "疲れる",
-      "reading": "つかれる",
-      "meaning": "피곤하다, 지치다",
-      "example": "とても<ruby>疲<rt>つか</rt></ruby>れました。",
-      "example_meaning": "매우 피곤합니다."
+      "word": "残す",
+      "reading": "のこす",
+      "meaning": "남기다",
+      "example": "メモを<ruby>残<rt>のこ</rt></ruby>します。",
+      "example_meaning": "메모를 남깁니다."
     }
   ]
 }
