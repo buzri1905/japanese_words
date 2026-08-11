@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "words": [
     {
-      "id": 307,
+      "id": 89,
       "level": "N5",
-      "word": "ご飯",
-      "reading": "ごはん",
-      "meaning": "밥, 식사",
-      "example": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましょう。",
-      "example_meaning": "밥을 먹읍시다."
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "지난 주",
+      "example": "<ruby>先週<rt>せんしゅう</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みでした。",
+      "example_meaning": "지난 주는 쉬는 날이었습니다."
     },
     {
-      "id": 235,
+      "id": 61,
       "level": "N5",
-      "word": "閉める",
-      "reading": "しめる",
-      "meaning": "닫다",
-      "example": "ドアを<ruby>閉<rt>し</rt></ruby>めてください。",
-      "example_meaning": "문을 닫아 주세요."
+      "word": "一",
+      "reading": "いち",
+      "meaning": "1, 하나",
+      "example": "<ruby>一<rt>いち</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いましょう。",
+      "example_meaning": "1시에 만납시다."
     },
     {
-      "id": 521,
+      "id": 494,
       "level": "N4",
-      "word": "残す",
-      "reading": "のこす",
-      "meaning": "남기다",
-      "example": "メモを<ruby>残<rt>のこ</rt></ruby>します。",
-      "example_meaning": "메모를 남깁니다."
+      "word": "太る",
+      "reading": "ふとる",
+      "meaning": "살찌다",
+      "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>太<rt>ふと</rt></ruby>りました。",
+      "example_meaning": "살이 조금 쪘습니다."
     }
   ]
 }
