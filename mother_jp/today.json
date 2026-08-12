@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "words": [
     {
-      "id": 89,
+      "id": 226,
       "level": "N5",
-      "word": "先週",
-      "reading": "せんしゅう",
-      "meaning": "지난 주",
-      "example": "<ruby>先週<rt>せんしゅう</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みでした。",
-      "example_meaning": "지난 주는 쉬는 날이었습니다."
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "잘하다, 능숙하다",
+      "example": "<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>です。",
+      "example_meaning": "요리를 잘합니다."
     },
     {
-      "id": 61,
+      "id": 274,
       "level": "N5",
-      "word": "一",
-      "reading": "いち",
-      "meaning": "1, 하나",
-      "example": "<ruby>一<rt>いち</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いましょう。",
-      "example_meaning": "1시에 만납시다."
+      "word": "降りる",
+      "reading": "おりる",
+      "meaning": "내리다",
+      "example": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>降<rt>お</rt></ruby>ります。",
+      "example_meaning": "다음 역에서 내립니다."
     },
     {
-      "id": 494,
+      "id": 677,
       "level": "N4",
-      "word": "太る",
-      "reading": "ふとる",
-      "meaning": "살찌다",
-      "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>太<rt>ふと</rt></ruby>りました。",
-      "example_meaning": "살이 조금 쪘습니다."
+      "word": "試験",
+      "reading": "しけん",
+      "meaning": "시험",
+      "example": "<ruby>明日<rt>あした</rt></ruby><ruby>試験<rt>しけん</rt></ruby>があります。",
+      "example_meaning": "내일 시험이 있습니다."
     }
   ]
 }
