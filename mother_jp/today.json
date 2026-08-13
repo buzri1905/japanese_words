@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "words": [
     {
-      "id": 226,
+      "id": 376,
       "level": "N5",
-      "word": "上手",
-      "reading": "じょうず",
-      "meaning": "잘하다, 능숙하다",
-      "example": "<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>です。",
-      "example_meaning": "요리를 잘합니다."
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "냉장고",
+      "example": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れます。",
+      "example_meaning": "냉장고에 넣습니다."
     },
     {
-      "id": 274,
+      "id": 102,
       "level": "N5",
-      "word": "降りる",
-      "reading": "おりる",
-      "meaning": "내리다",
-      "example": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>降<rt>お</rt></ruby>ります。",
-      "example_meaning": "다음 역에서 내립니다."
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "일요일",
+      "example": "<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>教会<rt>きょうかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "일요일에 교회에 갑니다."
     },
     {
-      "id": 677,
+      "id": 757,
       "level": "N4",
-      "word": "試験",
-      "reading": "しけん",
-      "meaning": "시험",
-      "example": "<ruby>明日<rt>あした</rt></ruby><ruby>試験<rt>しけん</rt></ruby>があります。",
-      "example_meaning": "내일 시험이 있습니다."
+      "word": "厳しい",
+      "reading": "きびしい",
+      "meaning": "엄격하다, 혹독하다",
+      "example": "<ruby>父<rt>ちち</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しいです。",
+      "example_meaning": "아버지는 엄격하십니다."
     }
   ]
 }
