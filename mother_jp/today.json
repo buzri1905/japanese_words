@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "words": [
     {
-      "id": 376,
+      "id": 315,
       "level": "N5",
-      "word": "冷蔵庫",
-      "reading": "れいぞうこ",
-      "meaning": "냉장고",
-      "example": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れます。",
-      "example_meaning": "냉장고에 넣습니다."
+      "word": "砂糖",
+      "reading": "さとう",
+      "meaning": "설탕",
+      "example": "<ruby>砂糖<rt>さとう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。",
+      "example_meaning": "설탕을 넣습니다."
     },
     {
-      "id": 102,
+      "id": 233,
       "level": "N5",
-      "word": "日曜日",
-      "reading": "にちようび",
-      "meaning": "일요일",
-      "example": "<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>教会<rt>きょうかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "일요일에 교회에 갑니다."
+      "word": "便利",
+      "reading": "べんり",
+      "meaning": "편리하다",
+      "example": "このアプリは<ruby>便利<rt>べんり</rt></ruby>です。",
+      "example_meaning": "이 앱은 편리합니다."
     },
     {
-      "id": 757,
+      "id": 595,
       "level": "N4",
-      "word": "厳しい",
-      "reading": "きびしい",
-      "meaning": "엄격하다, 혹독하다",
-      "example": "<ruby>父<rt>ちち</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しいです。",
-      "example_meaning": "아버지는 엄격하십니다."
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "도시락",
+      "example": "<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。",
+      "example_meaning": "도시락을 만들었습니다."
     }
   ]
 }
