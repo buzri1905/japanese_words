@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "words": [
     {
-      "id": 315,
+      "id": 169,
       "level": "N5",
-      "word": "砂糖",
-      "reading": "さとう",
-      "meaning": "설탕",
-      "example": "<ruby>砂糖<rt>さとう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。",
-      "example_meaning": "설탕을 넣습니다."
+      "word": "中",
+      "reading": "なか",
+      "meaning": "안, 가운데",
+      "example": "<ruby>鞄<rt>かばん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。",
+      "example_meaning": "가방 안에 책이 있습니다."
     },
     {
-      "id": 233,
+      "id": 113,
       "level": "N5",
-      "word": "便利",
-      "reading": "べんり",
-      "meaning": "편리하다",
-      "example": "このアプリは<ruby>便利<rt>べんり</rt></ruby>です。",
-      "example_meaning": "이 앱은 편리합니다."
+      "word": "月",
+      "reading": "つき",
+      "meaning": "달",
+      "example": "<ruby>月<rt>つき</rt></ruby>がきれいですね。",
+      "example_meaning": "달이 예쁘네요."
     },
     {
-      "id": 595,
+      "id": 625,
       "level": "N4",
-      "word": "弁当",
-      "reading": "べんとう",
-      "meaning": "도시락",
-      "example": "<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。",
-      "example_meaning": "도시락을 만들었습니다."
+      "word": "夫",
+      "reading": "おっと",
+      "meaning": "남편",
+      "example": "<ruby>夫<rt>おっと</rt></ruby>は<ruby>会社員<rt>かいしゃいん</rt></ruby>です。",
+      "example_meaning": "남편은 회사원입니다."
     }
   ]
 }
