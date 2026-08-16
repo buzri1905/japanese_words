@@ -388,7 +388,7 @@
       "meaning": "춥다",
       "example": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。",
       "example_meaning": "겨울은 춥습니다.",
-      "used_date": null
+      "used_date": "2026-08-17"
     },
     {
       "id": 40,
@@ -1028,7 +1028,7 @@
       "meaning": "무슨 요일",
       "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>何曜日<rt>なんようび</rt></ruby>ですか。",
       "example_meaning": "오늘은 무슨 요일이에요?",
-      "used_date": null
+      "used_date": "2026-08-17"
     },
     {
       "id": 104,
@@ -5008,7 +5008,7 @@
       "meaning": "내리다",
       "example": "<ruby>声<rt>こえ</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げてください。",
       "example_meaning": "목소리를 낮춰 주세요.",
-      "used_date": null
+      "used_date": "2026-08-17"
     },
     {
       "id": 502,

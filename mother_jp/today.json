@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "words": [
     {
-      "id": 169,
+      "id": 103,
       "level": "N5",
-      "word": "中",
-      "reading": "なか",
-      "meaning": "안, 가운데",
-      "example": "<ruby>鞄<rt>かばん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。",
-      "example_meaning": "가방 안에 책이 있습니다."
+      "word": "何曜日",
+      "reading": "なんようび",
+      "meaning": "무슨 요일",
+      "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>何曜日<rt>なんようび</rt></ruby>ですか。",
+      "example_meaning": "오늘은 무슨 요일이에요?"
     },
     {
-      "id": 113,
+      "id": 39,
       "level": "N5",
-      "word": "月",
-      "reading": "つき",
-      "meaning": "달",
-      "example": "<ruby>月<rt>つき</rt></ruby>がきれいですね。",
-      "example_meaning": "달이 예쁘네요."
+      "word": "寒い",
+      "reading": "さむい",
+      "meaning": "춥다",
+      "example": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。",
+      "example_meaning": "겨울은 춥습니다."
     },
     {
-      "id": 625,
+      "id": 501,
       "level": "N4",
-      "word": "夫",
-      "reading": "おっと",
-      "meaning": "남편",
-      "example": "<ruby>夫<rt>おっと</rt></ruby>は<ruby>会社員<rt>かいしゃいん</rt></ruby>です。",
-      "example_meaning": "남편은 회사원입니다."
+      "word": "下げる",
+      "reading": "さげる",
+      "meaning": "내리다",
+      "example": "<ruby>声<rt>こえ</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げてください。",
+      "example_meaning": "목소리를 낮춰 주세요."
     }
   ]
 }
