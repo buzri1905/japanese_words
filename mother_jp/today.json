@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "words": [
     {
-      "id": 103,
+      "id": 70,
       "level": "N5",
-      "word": "何曜日",
-      "reading": "なんようび",
-      "meaning": "무슨 요일",
-      "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>何曜日<rt>なんようび</rt></ruby>ですか。",
-      "example_meaning": "오늘은 무슨 요일이에요?"
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "10, 열",
+      "example": "<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ぷん</rt></ruby>かかります。",
+      "example_meaning": "10분 걸립니다."
     },
     {
-      "id": 39,
+      "id": 114,
       "level": "N5",
-      "word": "寒い",
-      "reading": "さむい",
-      "meaning": "춥다",
-      "example": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。",
-      "example_meaning": "겨울은 춥습니다."
+      "word": "星",
+      "reading": "ほし",
+      "meaning": "별",
+      "example": "<ruby>星<rt>ほし</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。",
+      "example_meaning": "별이 보입니다."
     },
     {
-      "id": 501,
+      "id": 784,
       "level": "N4",
-      "word": "下げる",
-      "reading": "さげる",
-      "meaning": "내리다",
-      "example": "<ruby>声<rt>こえ</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げてください。",
-      "example_meaning": "목소리를 낮춰 주세요."
+      "word": "立派",
+      "reading": "りっぱ",
+      "meaning": "훌륭하다",
+      "example": "<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>です。",
+      "example_meaning": "훌륭한 건물입니다."
     }
   ]
 }
