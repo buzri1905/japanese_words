@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "words": [
     {
-      "id": 70,
+      "id": 320,
       "level": "N5",
-      "word": "十",
-      "reading": "じゅう",
-      "meaning": "10, 열",
-      "example": "<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ぷん</rt></ruby>かかります。",
-      "example_meaning": "10분 걸립니다."
+      "word": "公園",
+      "reading": "こうえん",
+      "meaning": "공원",
+      "example": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>びました。",
+      "example_meaning": "공원에서 놀았습니다."
     },
     {
-      "id": 114,
+      "id": 414,
       "level": "N5",
-      "word": "星",
-      "reading": "ほし",
-      "meaning": "별",
-      "example": "<ruby>星<rt>ほし</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。",
-      "example_meaning": "별이 보입니다."
+      "word": "あまり",
+      "reading": "あまり",
+      "meaning": "별로",
+      "example": "あまり<ruby>好<rt>す</rt></ruby>きじゃないです。",
+      "example_meaning": "별로 좋아하지 않습니다."
     },
     {
-      "id": 784,
+      "id": 721,
       "level": "N4",
-      "word": "立派",
-      "reading": "りっぱ",
-      "meaning": "훌륭하다",
-      "example": "<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>です。",
-      "example_meaning": "훌륭한 건물입니다."
+      "word": "馬",
+      "reading": "うま",
+      "meaning": "말",
+      "example": "<ruby>馬<rt>うま</rt></ruby>が<ruby>走<rt>はし</rt></ruby>っています。",
+      "example_meaning": "말이 달리고 있습니다."
     }
   ]
 }
