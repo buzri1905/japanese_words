@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "words": [
     {
-      "id": 320,
+      "id": 410,
       "level": "N5",
-      "word": "公園",
-      "reading": "こうえん",
-      "meaning": "공원",
-      "example": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>びました。",
-      "example_meaning": "공원에서 놀았습니다."
+      "word": "とても",
+      "reading": "とても",
+      "meaning": "매우, 아주",
+      "example": "とてもおいしいです。",
+      "example_meaning": "매우 맛있습니다."
     },
     {
-      "id": 414,
+      "id": 224,
       "level": "N5",
-      "word": "あまり",
-      "reading": "あまり",
-      "meaning": "별로",
-      "example": "あまり<ruby>好<rt>す</rt></ruby>きじゃないです。",
-      "example_meaning": "별로 좋아하지 않습니다."
+      "word": "賑やか",
+      "reading": "にぎやか",
+      "meaning": "북적이다, 활기차다",
+      "example": "<ruby>町<rt>まち</rt></ruby>が<ruby>賑<rt>にぎ</rt></ruby>やかです。",
+      "example_meaning": "거리가 북적입니다."
     },
     {
-      "id": 721,
+      "id": 767,
       "level": "N4",
-      "word": "馬",
-      "reading": "うま",
-      "meaning": "말",
-      "example": "<ruby>馬<rt>うま</rt></ruby>が<ruby>走<rt>はし</rt></ruby>っています。",
-      "example_meaning": "말이 달리고 있습니다."
+      "word": "厚い",
+      "reading": "あつい",
+      "meaning": "두껍다",
+      "example": "<ruby>厚<rt>あつ</rt></ruby>い<ruby>本<rt>ほん</rt></ruby>です。",
+      "example_meaning": "두꺼운 책입니다."
     }
   ]
 }
