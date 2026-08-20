@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "words": [
     {
-      "id": 410,
+      "id": 267,
       "level": "N5",
-      "word": "とても",
-      "reading": "とても",
-      "meaning": "매우, 아주",
-      "example": "とてもおいしいです。",
-      "example_meaning": "매우 맛있습니다."
+      "word": "死ぬ",
+      "reading": "しぬ",
+      "meaning": "죽다",
+      "example": "<ruby>花<rt>はな</rt></ruby>が<ruby>死<rt>し</rt></ruby>にました。",
+      "example_meaning": "꽃이 죽었습니다."
     },
     {
-      "id": 224,
+      "id": 404,
       "level": "N5",
-      "word": "賑やか",
-      "reading": "にぎやか",
-      "meaning": "북적이다, 활기차다",
-      "example": "<ruby>町<rt>まち</rt></ruby>が<ruby>賑<rt>にぎ</rt></ruby>やかです。",
-      "example_meaning": "거리가 북적입니다."
+      "word": "もう",
+      "reading": "もう",
+      "meaning": "이미, 벌써",
+      "example": "もう<ruby>食<rt>た</rt></ruby>べました。",
+      "example_meaning": "이미 먹었습니다."
     },
     {
-      "id": 767,
+      "id": 729,
       "level": "N4",
-      "word": "厚い",
-      "reading": "あつい",
-      "meaning": "두껍다",
-      "example": "<ruby>厚<rt>あつ</rt></ruby>い<ruby>本<rt>ほん</rt></ruby>です。",
-      "example_meaning": "두꺼운 책입니다."
+      "word": "土",
+      "reading": "つち",
+      "meaning": "흙",
+      "example": "<ruby>土<rt>つち</rt></ruby>を<ruby>掘<rt>ほ</rt></ruby>ります。",
+      "example_meaning": "흙을 팝니다."
     }
   ]
 }
