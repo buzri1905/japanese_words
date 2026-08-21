@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "words": [
     {
-      "id": 267,
+      "id": 358,
       "level": "N5",
-      "word": "死ぬ",
-      "reading": "しぬ",
-      "meaning": "죽다",
-      "example": "<ruby>花<rt>はな</rt></ruby>が<ruby>死<rt>し</rt></ruby>にました。",
-      "example_meaning": "꽃이 죽었습니다."
+      "word": "雑誌",
+      "reading": "ざっし",
+      "meaning": "잡지",
+      "example": "<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+      "example_meaning": "잡지를 샀습니다."
     },
     {
-      "id": 404,
+      "id": 400,
       "level": "N5",
-      "word": "もう",
-      "reading": "もう",
-      "meaning": "이미, 벌써",
-      "example": "もう<ruby>食<rt>た</rt></ruby>べました。",
-      "example_meaning": "이미 먹었습니다."
+      "word": "はじめまして",
+      "reading": "はじめまして",
+      "meaning": "처음 뵙겠습니다",
+      "example": "はじめまして、<ruby>金<rt>キム</rt></ruby>です。",
+      "example_meaning": "처음 뵙겠습니다, 김이라고 합니다."
     },
     {
-      "id": 729,
+      "id": 791,
       "level": "N4",
-      "word": "土",
-      "reading": "つち",
-      "meaning": "흙",
-      "example": "<ruby>土<rt>つち</rt></ruby>を<ruby>掘<rt>ほ</rt></ruby>ります。",
-      "example_meaning": "흙을 팝니다."
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "보통이다",
+      "example": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさです。",
+      "example_meaning": "보통 크기입니다."
     }
   ]
 }
