@@ -648,7 +648,7 @@
       "meaning": "5, 다섯",
       "example": "<ruby>五<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ってください。",
       "example_meaning": "5분 기다려 주세요.",
-      "used_date": null
+      "used_date": "2026-08-23"
     },
     {
       "id": 66,
@@ -1798,7 +1798,7 @@
       "meaning": "한국어",
       "example": "<ruby>韓国語<rt>かんこくご</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりますか。",
       "example_meaning": "한국어를 아세요?",
-      "used_date": null
+      "used_date": "2026-08-23"
     },
     {
       "id": 181,
@@ -8838,7 +8838,7 @@
       "meaning": "도중",
       "example": "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>です。",
       "example_meaning": "일하는 도중입니다.",
-      "used_date": null
+      "used_date": "2026-08-23"
     },
     {
       "id": 888,
