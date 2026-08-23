@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "words": [
     {
-      "id": 180,
+      "id": 122,
       "level": "N5",
-      "word": "韓国語",
-      "reading": "かんこくご",
-      "meaning": "한국어",
-      "example": "<ruby>韓国語<rt>かんこくご</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりますか。",
-      "example_meaning": "한국어를 아세요?"
+      "word": "女",
+      "reading": "おんな",
+      "meaning": "여자",
+      "example": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はな</rt></ruby>しました。",
+      "example_meaning": "여자와 이야기했습니다."
     },
     {
-      "id": 65,
+      "id": 79,
       "level": "N5",
-      "word": "五",
-      "reading": "ご",
-      "meaning": "5, 다섯",
-      "example": "<ruby>五<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ってください。",
-      "example_meaning": "5분 기다려 주세요."
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "저녁(때)",
+      "example": "<ruby>夕方<rt>ゆうがた</rt></ruby><ruby>会<rt>あ</rt></ruby>いましょう。",
+      "example_meaning": "저녁때 만납시다."
     },
     {
-      "id": 887,
+      "id": 897,
       "level": "N4",
-      "word": "途中",
-      "reading": "とちゅう",
-      "meaning": "도중",
-      "example": "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>です。",
-      "example_meaning": "일하는 도중입니다."
+      "word": "気持ち悪い",
+      "reading": "きもちわるい",
+      "meaning": "기분 나쁘다, 불쾌하다",
+      "example": "<ruby>気持<rt>きも</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>くなりました。",
+      "example_meaning": "속이 안 좋아졌습니다."
     }
   ]
 }
