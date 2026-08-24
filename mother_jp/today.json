@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "words": [
     {
-      "id": 122,
+      "id": 69,
       "level": "N5",
-      "word": "女",
-      "reading": "おんな",
-      "meaning": "여자",
-      "example": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はな</rt></ruby>しました。",
-      "example_meaning": "여자와 이야기했습니다."
+      "word": "九",
+      "reading": "きゅう",
+      "meaning": "9, 아홉",
+      "example": "<ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。",
+      "example_meaning": "9시에 잡니다."
     },
     {
-      "id": 79,
+      "id": 322,
       "level": "N5",
-      "word": "夕方",
-      "reading": "ゆうがた",
-      "meaning": "저녁(때)",
-      "example": "<ruby>夕方<rt>ゆうがた</rt></ruby><ruby>会<rt>あ</rt></ruby>いましょう。",
-      "example_meaning": "저녁때 만납시다."
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "병원",
+      "example": "<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "병원에 갑니다."
     },
     {
-      "id": 897,
+      "id": 482,
       "level": "N4",
-      "word": "気持ち悪い",
-      "reading": "きもちわるい",
-      "meaning": "기분 나쁘다, 불쾌하다",
-      "example": "<ruby>気持<rt>きも</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>くなりました。",
-      "example_meaning": "속이 안 좋아졌습니다."
+      "word": "結ぶ",
+      "reading": "むすぶ",
+      "meaning": "묶다, 맺다",
+      "example": "<ruby>靴<rt>くつ</rt></ruby>のひもを<ruby>結<rt>むす</rt></ruby>びます。",
+      "example_meaning": "신발 끈을 묶습니다."
     }
   ]
 }
