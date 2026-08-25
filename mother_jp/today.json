@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "words": [
     {
-      "id": 69,
+      "id": 298,
       "level": "N5",
-      "word": "九",
-      "reading": "きゅう",
-      "meaning": "9, 아홉",
-      "example": "<ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。",
-      "example_meaning": "9시에 잡니다."
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "여행",
+      "example": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "여행을 갑니다."
     },
     {
-      "id": 322,
+      "id": 280,
       "level": "N5",
-      "word": "病院",
-      "reading": "びょういん",
-      "meaning": "병원",
-      "example": "<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "병원에 갑니다."
+      "word": "運動する",
+      "reading": "うんどうする",
+      "meaning": "운동하다",
+      "example": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>します。",
+      "example_meaning": "매일 아침 운동합니다."
     },
     {
-      "id": 482,
+      "id": 553,
       "level": "N4",
-      "word": "結ぶ",
-      "reading": "むすぶ",
-      "meaning": "묶다, 맺다",
-      "example": "<ruby>靴<rt>くつ</rt></ruby>のひもを<ruby>結<rt>むす</rt></ruby>びます。",
-      "example_meaning": "신발 끈을 묶습니다."
+      "word": "慣れる",
+      "reading": "なれる",
+      "meaning": "익숙해지다",
+      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>に<ruby>慣<rt>な</rt></ruby>れました。",
+      "example_meaning": "새 일에 익숙해졌습니다."
     }
   ]
 }
