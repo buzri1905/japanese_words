@@ -1088,7 +1088,7 @@
       "meaning": "비",
       "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。",
       "example_meaning": "비가 오고 있습니다.",
-      "used_date": null
+      "used_date": "2026-08-27"
     },
     {
       "id": 110,
@@ -3408,7 +3408,7 @@
       "meaning": "출구",
       "example": "<ruby>出口<rt>でぐち</rt></ruby>はどこですか。",
       "example_meaning": "출구는 어디예요?",
-      "used_date": null
+      "used_date": "2026-08-27"
     },
     {
       "id": 342,
@@ -6128,7 +6128,7 @@
       "meaning": "반, 절반",
       "example": "ケーキを<ruby>半分<rt>はんぶん</rt></ruby>に<ruby>分<rt>わ</rt></ruby>けます。",
       "example_meaning": "케이크를 반으로 나눕니다.",
-      "used_date": null
+      "used_date": "2026-08-27"
     },
     {
       "id": 614,

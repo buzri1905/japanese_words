@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "words": [
     {
-      "id": 298,
+      "id": 341,
       "level": "N5",
-      "word": "旅行",
-      "reading": "りょこう",
-      "meaning": "여행",
-      "example": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "여행을 갑니다."
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "출구",
+      "example": "<ruby>出口<rt>でぐち</rt></ruby>はどこですか。",
+      "example_meaning": "출구는 어디예요?"
     },
     {
-      "id": 280,
+      "id": 109,
       "level": "N5",
-      "word": "運動する",
-      "reading": "うんどうする",
-      "meaning": "운동하다",
-      "example": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>します。",
-      "example_meaning": "매일 아침 운동합니다."
+      "word": "雨",
+      "reading": "あめ",
+      "meaning": "비",
+      "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。",
+      "example_meaning": "비가 오고 있습니다."
     },
     {
-      "id": 553,
+      "id": 613,
       "level": "N4",
-      "word": "慣れる",
-      "reading": "なれる",
-      "meaning": "익숙해지다",
-      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>に<ruby>慣<rt>な</rt></ruby>れました。",
-      "example_meaning": "새 일에 익숙해졌습니다."
+      "word": "半分",
+      "reading": "はんぶん",
+      "meaning": "반, 절반",
+      "example": "ケーキを<ruby>半分<rt>はんぶん</rt></ruby>に<ruby>分<rt>わ</rt></ruby>けます。",
+      "example_meaning": "케이크를 반으로 나눕니다."
     }
   ]
 }
