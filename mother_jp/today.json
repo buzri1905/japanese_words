@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "words": [
     {
-      "id": 341,
+      "id": 217,
       "level": "N5",
-      "word": "出口",
-      "reading": "でぐち",
-      "meaning": "출구",
-      "example": "<ruby>出口<rt>でぐち</rt></ruby>はどこですか。",
-      "example_meaning": "출구는 어디예요?"
+      "word": "怖い",
+      "reading": "こわい",
+      "meaning": "무섭다",
+      "example": "<ruby>犬<rt>いぬ</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>いです。",
+      "example_meaning": "개가 무섭습니다."
     },
     {
-      "id": 109,
+      "id": 124,
       "level": "N5",
-      "word": "雨",
-      "reading": "あめ",
-      "meaning": "비",
-      "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。",
-      "example_meaning": "비가 오고 있습니다."
+      "word": "お母さん",
+      "reading": "おかあさん",
+      "meaning": "어머니(존칭)",
+      "example": "<ruby>お母<rt>かあ</rt></ruby>さんは<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>です。",
+      "example_meaning": "어머니는 요리를 잘하십니다."
     },
     {
-      "id": 613,
+      "id": 530,
       "level": "N4",
-      "word": "半分",
-      "reading": "はんぶん",
-      "meaning": "반, 절반",
-      "example": "ケーキを<ruby>半分<rt>はんぶん</rt></ruby>に<ruby>分<rt>わ</rt></ruby>けます。",
-      "example_meaning": "케이크를 반으로 나눕니다."
+      "word": "似る",
+      "reading": "にる",
+      "meaning": "닮다",
+      "example": "<ruby>母<rt>はは</rt></ruby>に<ruby>似<rt>に</rt></ruby>ています。",
+      "example_meaning": "어머니를 닮았습니다."
     }
   ]
 }
