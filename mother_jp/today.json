@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "words": [
     {
-      "id": 217,
+      "id": 195,
       "level": "N5",
-      "word": "怖い",
-      "reading": "こわい",
-      "meaning": "무섭다",
-      "example": "<ruby>犬<rt>いぬ</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>いです。",
-      "example_meaning": "개가 무섭습니다."
+      "word": "楽しい",
+      "reading": "たのしい",
+      "meaning": "즐겁다",
+      "example": "パーティーは<ruby>楽<rt>たの</rt></ruby>しかったです。",
+      "example_meaning": "파티는 즐거웠습니다."
     },
     {
-      "id": 124,
+      "id": 242,
       "level": "N5",
-      "word": "お母さん",
-      "reading": "おかあさん",
-      "meaning": "어머니(존칭)",
-      "example": "<ruby>お母<rt>かあ</rt></ruby>さんは<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>です。",
-      "example_meaning": "어머니는 요리를 잘하십니다."
+      "word": "置く",
+      "reading": "おく",
+      "meaning": "놓다, 두다",
+      "example": "ここに<ruby>置<rt>お</rt></ruby>いてください。",
+      "example_meaning": "여기에 놓아 주세요."
     },
     {
-      "id": 530,
+      "id": 48,
       "level": "N4",
-      "word": "似る",
-      "reading": "にる",
-      "meaning": "닮다",
-      "example": "<ruby>母<rt>はは</rt></ruby>に<ruby>似<rt>に</rt></ruby>ています。",
-      "example_meaning": "어머니를 닮았습니다."
+      "word": "探す",
+      "reading": "さがす",
+      "meaning": "찾다",
+      "example": "<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。",
+      "example_meaning": "열쇠를 찾고 있습니다."
     }
   ]
 }
