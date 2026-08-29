@@ -2478,7 +2478,7 @@
       "meaning": "입다(상의)",
       "example": "コートを<ruby>着<rt>き</rt></ruby>ます。",
       "example_meaning": "코트를 입습니다.",
-      "used_date": null
+      "used_date": "2026-08-30"
     },
     {
       "id": 249,
@@ -2538,7 +2538,7 @@
       "meaning": "헤엄치다, 수영하다",
       "example": "<ruby>海<rt>うみ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぎます。",
       "example_meaning": "바다에서 헤엄칩니다.",
-      "used_date": null
+      "used_date": "2026-08-30"
     },
     {
       "id": 255,
@@ -5588,7 +5588,7 @@
       "meaning": "견학하다",
       "example": "<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>しました。",
       "example_meaning": "공장을 견학했습니다.",
-      "used_date": null
+      "used_date": "2026-08-30"
     },
     {
       "id": 560,
