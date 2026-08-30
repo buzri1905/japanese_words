@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "words": [
     {
-      "id": 254,
+      "id": 11,
       "level": "N5",
-      "word": "泳ぐ",
-      "reading": "およぐ",
-      "meaning": "헤엄치다, 수영하다",
-      "example": "<ruby>海<rt>うみ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぎます。",
-      "example_meaning": "바다에서 헤엄칩니다."
+      "word": "帰る",
+      "reading": "かえる",
+      "meaning": "돌아가다",
+      "example": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります。",
+      "example_meaning": "집에 돌아갑니다."
     },
     {
-      "id": 248,
+      "id": 84,
       "level": "N5",
-      "word": "着る",
-      "reading": "きる",
-      "meaning": "입다(상의)",
-      "example": "コートを<ruby>着<rt>き</rt></ruby>ます。",
-      "example_meaning": "코트를 입습니다."
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "오전",
+      "example": "<ruby>午前<rt>ごぜん</rt></ruby><ruby>九時<rt>くじ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まります。",
+      "example_meaning": "오전 9시부터 시작합니다."
     },
     {
-      "id": 559,
+      "id": 592,
       "level": "N4",
-      "word": "見学する",
-      "reading": "けんがくする",
-      "meaning": "견학하다",
-      "example": "<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>しました。",
-      "example_meaning": "공장을 견학했습니다."
+      "word": "朝食",
+      "reading": "ちょうしょく",
+      "meaning": "조식, 아침식사",
+      "example": "<ruby>朝食<rt>ちょうしょく</rt></ruby>はパンです。",
+      "example_meaning": "아침은 빵입니다."
     }
   ]
 }

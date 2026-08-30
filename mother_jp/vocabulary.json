@@ -108,7 +108,7 @@
       "meaning": "돌아가다",
       "example": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります。",
       "example_meaning": "집에 돌아갑니다.",
-      "used_date": null
+      "used_date": "2026-08-31"
     },
     {
       "id": 12,
@@ -838,7 +838,7 @@
       "meaning": "오전",
       "example": "<ruby>午前<rt>ごぜん</rt></ruby><ruby>九時<rt>くじ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まります。",
       "example_meaning": "오전 9시부터 시작합니다.",
-      "used_date": null
+      "used_date": "2026-08-31"
     },
     {
       "id": 85,
@@ -5918,7 +5918,7 @@
       "meaning": "조식, 아침식사",
       "example": "<ruby>朝食<rt>ちょうしょく</rt></ruby>はパンです。",
       "example_meaning": "아침은 빵입니다.",
-      "used_date": null
+      "used_date": "2026-08-31"
     },
     {
       "id": 593,
