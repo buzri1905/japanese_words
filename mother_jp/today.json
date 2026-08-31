@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "words": [
     {
-      "id": 11,
+      "id": 281,
       "level": "N5",
-      "word": "帰る",
-      "reading": "かえる",
-      "meaning": "돌아가다",
-      "example": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります。",
-      "example_meaning": "집에 돌아갑니다."
+      "word": "結婚する",
+      "reading": "けっこんする",
+      "meaning": "결혼하다",
+      "example": "<ruby>来年<rt>らいねん</rt></ruby><ruby>結婚<rt>けっこん</rt></ruby>します。",
+      "example_meaning": "내년에 결혼합니다."
     },
     {
-      "id": 84,
+      "id": 312,
       "level": "N5",
-      "word": "午前",
-      "reading": "ごぜん",
-      "meaning": "오전",
-      "example": "<ruby>午前<rt>ごぜん</rt></ruby><ruby>九時<rt>くじ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まります。",
-      "example_meaning": "오전 9시부터 시작합니다."
+      "word": "りんご",
+      "reading": "りんご",
+      "meaning": "사과",
+      "example": "りんごは<ruby>赤<rt>あか</rt></ruby>いです。",
+      "example_meaning": "사과는 빨갛습니다."
     },
     {
-      "id": 592,
+      "id": 768,
       "level": "N4",
-      "word": "朝食",
-      "reading": "ちょうしょく",
-      "meaning": "조식, 아침식사",
-      "example": "<ruby>朝食<rt>ちょうしょく</rt></ruby>はパンです。",
-      "example_meaning": "아침은 빵입니다."
+      "word": "薄い",
+      "reading": "うすい",
+      "meaning": "얇다, 연하다",
+      "example": "<ruby>薄<rt>うす</rt></ruby>い<ruby>紙<rt>かみ</rt></ruby>です。",
+      "example_meaning": "얇은 종이입니다."
     }
   ]
 }
