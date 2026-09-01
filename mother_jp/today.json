@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "words": [
     {
-      "id": 281,
+      "id": 352,
       "level": "N5",
-      "word": "結婚する",
-      "reading": "けっこんする",
-      "meaning": "결혼하다",
-      "example": "<ruby>来年<rt>らいねん</rt></ruby><ruby>結婚<rt>けっこん</rt></ruby>します。",
-      "example_meaning": "내년에 결혼합니다."
+      "word": "机",
+      "reading": "つくえ",
+      "meaning": "책상",
+      "example": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。",
+      "example_meaning": "책상 위에 책이 있습니다."
     },
     {
-      "id": 312,
+      "id": 396,
       "level": "N5",
-      "word": "りんご",
-      "reading": "りんご",
-      "meaning": "사과",
-      "example": "りんごは<ruby>赤<rt>あか</rt></ruby>いです。",
-      "example_meaning": "사과는 빨갛습니다."
+      "word": "さようなら",
+      "reading": "さようなら",
+      "meaning": "안녕히 가세요/계세요",
+      "example": "さようなら、また<ruby>明日<rt>あした</rt></ruby>。",
+      "example_meaning": "안녕히 가세요, 내일 봐요."
     },
     {
-      "id": 768,
+      "id": 900,
       "level": "N4",
-      "word": "薄い",
-      "reading": "うすい",
-      "meaning": "얇다, 연하다",
-      "example": "<ruby>薄<rt>うす</rt></ruby>い<ruby>紙<rt>かみ</rt></ruby>です。",
-      "example_meaning": "얇은 종이입니다."
+      "word": "認める",
+      "reading": "みとめる",
+      "meaning": "인정하다",
+      "example": "<ruby>間違<rt>まちが</rt></ruby>いを<ruby>認<rt>みと</rt></ruby>めます。",
+      "example_meaning": "잘못을 인정합니다."
     }
   ]
 }

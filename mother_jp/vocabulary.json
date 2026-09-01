@@ -3518,7 +3518,7 @@
       "meaning": "책상",
       "example": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。",
       "example_meaning": "책상 위에 책이 있습니다.",
-      "used_date": null
+      "used_date": "2026-09-02"
     },
     {
       "id": 353,
@@ -3958,7 +3958,7 @@
       "meaning": "안녕히 가세요/계세요",
       "example": "さようなら、また<ruby>明日<rt>あした</rt></ruby>。",
       "example_meaning": "안녕히 가세요, 내일 봐요.",
-      "used_date": null
+      "used_date": "2026-09-02"
     },
     {
       "id": 397,
@@ -8968,7 +8968,7 @@
       "meaning": "인정하다",
       "example": "<ruby>間違<rt>まちが</rt></ruby>いを<ruby>認<rt>みと</rt></ruby>めます。",
       "example_meaning": "잘못을 인정합니다.",
-      "used_date": null
+      "used_date": "2026-09-02"
     }
   ]
 }
