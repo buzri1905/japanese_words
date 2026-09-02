@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "words": [
     {
-      "id": 352,
+      "id": 139,
       "level": "N5",
-      "word": "机",
-      "reading": "つくえ",
-      "meaning": "책상",
-      "example": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。",
-      "example_meaning": "책상 위에 책이 있습니다."
+      "word": "白",
+      "reading": "しろ",
+      "meaning": "하양",
+      "example": "<ruby>白<rt>しろ</rt></ruby>いシャツを<ruby>着<rt>き</rt></ruby>ます。",
+      "example_meaning": "하얀 셔츠를 입습니다."
     },
     {
-      "id": 396,
+      "id": 131,
       "level": "N5",
-      "word": "さようなら",
-      "reading": "さようなら",
-      "meaning": "안녕히 가세요/계세요",
-      "example": "さようなら、また<ruby>明日<rt>あした</rt></ruby>。",
-      "example_meaning": "안녕히 가세요, 내일 봐요."
+      "word": "口",
+      "reading": "くち",
+      "meaning": "입",
+      "example": "<ruby>口<rt>くち</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてください。",
+      "example_meaning": "입을 벌려 주세요."
     },
     {
-      "id": 900,
+      "id": 566,
       "level": "N4",
-      "word": "認める",
-      "reading": "みとめる",
-      "meaning": "인정하다",
-      "example": "<ruby>間違<rt>まちが</rt></ruby>いを<ruby>認<rt>みと</rt></ruby>めます。",
-      "example_meaning": "잘못을 인정합니다."
+      "word": "通勤する",
+      "reading": "つうきんする",
+      "meaning": "통근하다, 출퇴근하다",
+      "example": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>通勤<rt>つうきん</rt></ruby>します。",
+      "example_meaning": "전철로 출퇴근합니다."
     }
   ]
 }
