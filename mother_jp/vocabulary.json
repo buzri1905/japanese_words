@@ -1538,7 +1538,7 @@
       "meaning": "어느 것",
       "example": "あなたの<ruby>本<rt>ほん</rt></ruby>はどれですか。",
       "example_meaning": "당신 책은 어느 거예요?",
-      "used_date": null
+      "used_date": "2026-09-04"
     },
     {
       "id": 155,
@@ -1848,7 +1848,7 @@
       "meaning": "적다",
       "example": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。",
       "example_meaning": "돈이 적습니다.",
-      "used_date": null
+      "used_date": "2026-09-04"
     },
     {
       "id": 186,
@@ -6728,7 +6728,7 @@
       "meaning": "상자",
       "example": "<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けます。",
       "example_meaning": "상자를 엽니다.",
-      "used_date": null
+      "used_date": "2026-09-04"
     },
     {
       "id": 674,

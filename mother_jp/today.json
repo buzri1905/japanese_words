@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "words": [
     {
-      "id": 139,
+      "id": 154,
       "level": "N5",
-      "word": "白",
-      "reading": "しろ",
-      "meaning": "하양",
-      "example": "<ruby>白<rt>しろ</rt></ruby>いシャツを<ruby>着<rt>き</rt></ruby>ます。",
-      "example_meaning": "하얀 셔츠를 입습니다."
+      "word": "どれ",
+      "reading": "どれ",
+      "meaning": "어느 것",
+      "example": "あなたの<ruby>本<rt>ほん</rt></ruby>はどれですか。",
+      "example_meaning": "당신 책은 어느 거예요?"
     },
     {
-      "id": 131,
+      "id": 185,
       "level": "N5",
-      "word": "口",
-      "reading": "くち",
-      "meaning": "입",
-      "example": "<ruby>口<rt>くち</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてください。",
-      "example_meaning": "입을 벌려 주세요."
+      "word": "少ない",
+      "reading": "すくない",
+      "meaning": "적다",
+      "example": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。",
+      "example_meaning": "돈이 적습니다."
     },
     {
-      "id": 566,
+      "id": 673,
       "level": "N4",
-      "word": "通勤する",
-      "reading": "つうきんする",
-      "meaning": "통근하다, 출퇴근하다",
-      "example": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>通勤<rt>つうきん</rt></ruby>します。",
-      "example_meaning": "전철로 출퇴근합니다."
+      "word": "箱",
+      "reading": "はこ",
+      "meaning": "상자",
+      "example": "<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けます。",
+      "example_meaning": "상자를 엽니다."
     }
   ]
 }
