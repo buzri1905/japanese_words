@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "words": [
     {
-      "id": 154,
+      "id": 296,
       "level": "N5",
-      "word": "どれ",
-      "reading": "どれ",
-      "meaning": "어느 것",
-      "example": "あなたの<ruby>本<rt>ほん</rt></ruby>はどれですか。",
-      "example_meaning": "당신 책은 어느 거예요?"
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "음악",
+      "example": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きます。",
+      "example_meaning": "음악을 듣습니다."
     },
     {
-      "id": 185,
+      "id": 345,
       "level": "N5",
-      "word": "少ない",
-      "reading": "すくない",
-      "meaning": "적다",
-      "example": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。",
-      "example_meaning": "돈이 적습니다."
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "지하철",
+      "example": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。",
+      "example_meaning": "지하철을 탑니다."
     },
     {
-      "id": 673,
+      "id": 741,
       "level": "N4",
-      "word": "箱",
-      "reading": "はこ",
-      "meaning": "상자",
-      "example": "<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けます。",
-      "example_meaning": "상자를 엽니다."
+      "word": "形",
+      "reading": "かたち",
+      "meaning": "모양, 형태",
+      "example": "<ruby>変<rt>へん</rt></ruby>な<ruby>形<rt>かたち</rt></ruby>です。",
+      "example_meaning": "이상한 모양입니다."
     }
   ]
 }
