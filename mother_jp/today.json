@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "words": [
     {
-      "id": 296,
+      "id": 331,
       "level": "N5",
-      "word": "音楽",
-      "reading": "おんがく",
-      "meaning": "음악",
-      "example": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きます。",
-      "example_meaning": "음악을 듣습니다."
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "회사",
+      "example": "<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "회사에 갑니다."
     },
     {
-      "id": 345,
+      "id": 31,
       "level": "N5",
-      "word": "地下鉄",
-      "reading": "ちかてつ",
-      "meaning": "지하철",
-      "example": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。",
-      "example_meaning": "지하철을 탑니다."
+      "word": "車",
+      "reading": "くるま",
+      "meaning": "자동차",
+      "example": "<ruby>車<rt>くるま</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "차로 갑니다."
     },
     {
-      "id": 741,
+      "id": 674,
       "level": "N4",
-      "word": "形",
-      "reading": "かたち",
-      "meaning": "모양, 형태",
-      "example": "<ruby>変<rt>へん</rt></ruby>な<ruby>形<rt>かたち</rt></ruby>です。",
-      "example_meaning": "이상한 모양입니다."
+      "word": "タオル",
+      "reading": "タオル",
+      "meaning": "수건",
+      "example": "タオルで<ruby>顔<rt>かお</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>きます。",
+      "example_meaning": "수건으로 얼굴을 닦습니다."
     }
   ]
 }

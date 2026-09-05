@@ -308,7 +308,7 @@
       "meaning": "자동차",
       "example": "<ruby>車<rt>くるま</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。",
       "example_meaning": "차로 갑니다.",
-      "used_date": null
+      "used_date": "2026-09-06"
     },
     {
       "id": 32,
@@ -3308,7 +3308,7 @@
       "meaning": "회사",
       "example": "<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
       "example_meaning": "회사에 갑니다.",
-      "used_date": null
+      "used_date": "2026-09-06"
     },
     {
       "id": 332,
@@ -6738,7 +6738,7 @@
       "meaning": "수건",
       "example": "タオルで<ruby>顔<rt>かお</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>きます。",
       "example_meaning": "수건으로 얼굴을 닦습니다.",
-      "used_date": null
+      "used_date": "2026-09-06"
     },
     {
       "id": 675,
