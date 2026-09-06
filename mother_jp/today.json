@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "words": [
     {
-      "id": 331,
+      "id": 158,
       "level": "N5",
-      "word": "会社",
-      "reading": "かいしゃ",
-      "meaning": "회사",
-      "example": "<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "회사에 갑니다."
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "그녀, 여자친구",
+      "example": "<ruby>彼女<rt>かのじょ</rt></ruby>はやさしいです。",
+      "example_meaning": "그녀는 다정합니다."
     },
     {
-      "id": 31,
+      "id": 176,
       "level": "N5",
-      "word": "車",
-      "reading": "くるま",
-      "meaning": "자동차",
-      "example": "<ruby>車<rt>くるま</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "차로 갑니다."
+      "word": "国",
+      "reading": "くに",
+      "meaning": "나라",
+      "example": "どの<ruby>国<rt>くに</rt></ruby>から<ruby>来<rt>き</rt></ruby>ましたか。",
+      "example_meaning": "어느 나라에서 왔어요?"
     },
     {
-      "id": 674,
+      "id": 753,
       "level": "N4",
-      "word": "タオル",
-      "reading": "タオル",
-      "meaning": "수건",
-      "example": "タオルで<ruby>顔<rt>かお</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>きます。",
-      "example_meaning": "수건으로 얼굴을 닦습니다."
+      "word": "悲しい",
+      "reading": "かなしい",
+      "meaning": "슬프다",
+      "example": "<ruby>別<rt>わか</rt></ruby>れは<ruby>悲<rt>かな</rt></ruby>しいです。",
+      "example_meaning": "이별은 슬픕니다."
     }
   ]
 }
