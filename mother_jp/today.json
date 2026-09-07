@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "words": [
     {
-      "id": 158,
+      "id": 340,
       "level": "N5",
-      "word": "彼女",
-      "reading": "かのじょ",
-      "meaning": "그녀, 여자친구",
-      "example": "<ruby>彼女<rt>かのじょ</rt></ruby>はやさしいです。",
-      "example_meaning": "그녀는 다정합니다."
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "입구",
+      "example": "<ruby>入口<rt>いりぐち</rt></ruby>はあちらです。",
+      "example_meaning": "입구는 저쪽입니다."
     },
     {
-      "id": 176,
+      "id": 362,
       "level": "N5",
-      "word": "国",
-      "reading": "くに",
-      "meaning": "나라",
-      "example": "どの<ruby>国<rt>くに</rt></ruby>から<ruby>来<rt>き</rt></ruby>ましたか。",
-      "example_meaning": "어느 나라에서 왔어요?"
+      "word": "眼鏡",
+      "reading": "めがね",
+      "meaning": "안경",
+      "example": "<ruby>眼鏡<rt>めがね</rt></ruby>をかけます。",
+      "example_meaning": "안경을 씁니다."
     },
     {
-      "id": 753,
+      "id": 852,
       "level": "N4",
-      "word": "悲しい",
-      "reading": "かなしい",
-      "meaning": "슬프다",
-      "example": "<ruby>別<rt>わか</rt></ruby>れは<ruby>悲<rt>かな</rt></ruby>しいです。",
-      "example_meaning": "이별은 슬픕니다."
+      "word": "いってらっしゃい",
+      "reading": "いってらっしゃい",
+      "meaning": "다녀오세요",
+      "example": "いってらっしゃい、<ruby>気<rt>き</rt></ruby>をつけて。",
+      "example_meaning": "다녀오세요, 조심해서."
     }
   ]
 }
