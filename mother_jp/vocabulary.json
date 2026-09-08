@@ -938,7 +938,7 @@
       "meaning": "내년",
       "example": "<ruby>来年<rt>らいねん</rt></ruby><ruby>結婚<rt>けっこん</rt></ruby>します。",
       "example_meaning": "내년에 결혼합니다.",
-      "used_date": null
+      "used_date": "2026-09-09"
     },
     {
       "id": 95,
@@ -1588,7 +1588,7 @@
       "meaning": "이것",
       "example": "これは<ruby>本<rt>ほん</rt></ruby>です。",
       "example_meaning": "이것은 책입니다.",
-      "used_date": null
+      "used_date": "2026-09-09"
     },
     {
       "id": 160,
@@ -5408,7 +5408,7 @@
       "meaning": "출발하다",
       "example": "<ruby>八時<rt>はちじ</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>します。",
       "example_meaning": "8시에 출발합니다.",
-      "used_date": null
+      "used_date": "2026-09-09"
     },
     {
       "id": 542,
