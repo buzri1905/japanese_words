@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "words": [
     {
-      "id": 388,
+      "id": 258,
       "level": "N5",
-      "word": "漢字",
-      "reading": "かんじ",
-      "meaning": "한자",
-      "example": "<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えます。",
-      "example_meaning": "한자를 외웁니다."
+      "word": "遊ぶ",
+      "reading": "あそぶ",
+      "meaning": "놀다",
+      "example": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>びます。",
+      "example_meaning": "공원에서 놉니다."
     },
     {
-      "id": 353,
+      "id": 365,
       "level": "N5",
-      "word": "ベッド",
-      "reading": "ベッド",
-      "meaning": "침대",
-      "example": "ベッドで<ruby>寝<rt>ね</rt></ruby>ます。",
-      "example_meaning": "침대에서 잡니다."
+      "word": "鞄",
+      "reading": "かばん",
+      "meaning": "가방",
+      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>鞄<rt>かばん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+      "example_meaning": "새 가방을 샀습니다."
     },
     {
-      "id": 680,
+      "id": 578,
       "level": "N4",
-      "word": "答え",
-      "reading": "こたえ",
-      "meaning": "답",
-      "example": "<ruby>答<rt>こた</rt></ruby>えを<ruby>書<rt>か</rt></ruby>きます。",
-      "example_meaning": "답을 씁니다."
+      "word": "背中",
+      "reading": "せなか",
+      "meaning": "등",
+      "example": "<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。",
+      "example_meaning": "등이 아픕니다."
     }
   ]
 }
