@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "words": [
     {
-      "id": 258,
+      "id": 219,
       "level": "N5",
-      "word": "遊ぶ",
-      "reading": "あそぶ",
-      "meaning": "놀다",
-      "example": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>びます。",
-      "example_meaning": "공원에서 놉니다."
+      "word": "優しい",
+      "reading": "やさしい",
+      "meaning": "다정하다, 자상하다",
+      "example": "<ruby>父<rt>ちち</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しいです。",
+      "example_meaning": "아버지는 자상하십니다."
     },
     {
-      "id": 365,
+      "id": 408,
       "level": "N5",
-      "word": "鞄",
-      "reading": "かばん",
-      "meaning": "가방",
-      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>鞄<rt>かばん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
-      "example_meaning": "새 가방을 샀습니다."
+      "word": "たくさん",
+      "reading": "たくさん",
+      "meaning": "많이",
+      "example": "たくさん<ruby>食<rt>た</rt></ruby>べてください。",
+      "example_meaning": "많이 드세요."
     },
     {
-      "id": 578,
+      "id": 723,
       "level": "N4",
-      "word": "背中",
-      "reading": "せなか",
-      "meaning": "등",
-      "example": "<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。",
-      "example_meaning": "등이 아픕니다."
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaning": "동물",
+      "example": "<ruby>動物<rt>どうぶつ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+      "example_meaning": "동물을 좋아합니다."
     }
   ]
 }
