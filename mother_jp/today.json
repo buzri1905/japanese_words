@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "words": [
     {
-      "id": 92,
+      "id": 334,
       "level": "N5",
-      "word": "先月",
-      "reading": "せんげつ",
-      "meaning": "지난 달",
-      "example": "<ruby>先月<rt>せんげつ</rt></ruby>から<ruby>習<rt>なら</rt></ruby>っています。",
-      "example_meaning": "지난 달부터 배우고 있습니다."
+      "word": "家",
+      "reading": "いえ",
+      "meaning": "집",
+      "example": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります。",
+      "example_meaning": "집에 돌아갑니다."
     },
     {
-      "id": 419,
+      "id": 108,
       "level": "N5",
-      "word": "一つ",
-      "reading": "ひとつ",
-      "meaning": "한 개",
-      "example": "りんごを<ruby>一<rt>ひと</rt></ruby>つください。",
-      "example_meaning": "사과를 한 개 주세요."
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "날씨",
+      "example": "<ruby>天気<rt>てんき</rt></ruby>がいいですね。",
+      "example_meaning": "날씨가 좋네요."
     },
     {
-      "id": 629,
+      "id": 890,
       "level": "N4",
-      "word": "親",
-      "reading": "おや",
-      "meaning": "부모",
-      "example": "<ruby>親<rt>おや</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
-      "example_meaning": "부모를 소중히 합니다."
+      "word": "夜中",
+      "reading": "よなか",
+      "meaning": "한밤중",
+      "example": "<ruby>夜中<rt>よなか</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>めました。",
+      "example_meaning": "한밤중에 잠이 깼습니다."
     }
   ]
 }
