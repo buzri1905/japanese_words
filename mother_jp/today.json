@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "words": [
     {
-      "id": 334,
+      "id": 390,
       "level": "N5",
-      "word": "家",
-      "reading": "いえ",
-      "meaning": "집",
-      "example": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります。",
-      "example_meaning": "집에 돌아갑니다."
+      "word": "片仮名",
+      "reading": "カタカナ",
+      "meaning": "카타카나",
+      "example": "<ruby>片仮名<rt>カタカナ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいです。",
+      "example_meaning": "카타카나는 어렵습니다."
     },
     {
-      "id": 108,
+      "id": 147,
       "level": "N5",
-      "word": "天気",
-      "reading": "てんき",
-      "meaning": "날씨",
-      "example": "<ruby>天気<rt>てんき</rt></ruby>がいいですね。",
-      "example_meaning": "날씨가 좋네요."
+      "word": "いつ",
+      "reading": "いつ",
+      "meaning": "언제",
+      "example": "いつ<ruby>来<rt>き</rt></ruby>ますか。",
+      "example_meaning": "언제 와요?"
     },
     {
-      "id": 890,
+      "id": 463,
       "level": "N4",
-      "word": "夜中",
-      "reading": "よなか",
-      "meaning": "한밤중",
-      "example": "<ruby>夜中<rt>よなか</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>めました。",
-      "example_meaning": "한밤중에 잠이 깼습니다."
+      "word": "拾う",
+      "reading": "ひろう",
+      "meaning": "줍다",
+      "example": "ゴミを<ruby>拾<rt>ひろ</rt></ruby>います。",
+      "example_meaning": "쓰레기를 줍습니다."
     }
   ]
 }

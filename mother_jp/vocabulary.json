@@ -1468,7 +1468,7 @@
       "meaning": "언제",
       "example": "いつ<ruby>来<rt>き</rt></ruby>ますか。",
       "example_meaning": "언제 와요?",
-      "used_date": null
+      "used_date": "2026-09-15"
     },
     {
       "id": 148,
@@ -3898,7 +3898,7 @@
       "meaning": "카타카나",
       "example": "<ruby>片仮名<rt>カタカナ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいです。",
       "example_meaning": "카타카나는 어렵습니다.",
-      "used_date": null
+      "used_date": "2026-09-15"
     },
     {
       "id": 391,
@@ -4628,7 +4628,7 @@
       "meaning": "줍다",
       "example": "ゴミを<ruby>拾<rt>ひろ</rt></ruby>います。",
       "example_meaning": "쓰레기를 줍습니다.",
-      "used_date": null
+      "used_date": "2026-09-15"
     },
     {
       "id": 464,
