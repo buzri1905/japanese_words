@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "words": [
     {
-      "id": 390,
+      "id": 349,
       "level": "N5",
-      "word": "片仮名",
-      "reading": "カタカナ",
-      "meaning": "카타카나",
-      "example": "<ruby>片仮名<rt>カタカナ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいです。",
-      "example_meaning": "카타카나는 어렵습니다."
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "비행기",
+      "example": "<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "비행기로 일본에 갑니다."
     },
     {
-      "id": 147,
+      "id": 170,
       "level": "N5",
-      "word": "いつ",
-      "reading": "いつ",
-      "meaning": "언제",
-      "example": "いつ<ruby>来<rt>き</rt></ruby>ますか。",
-      "example_meaning": "언제 와요?"
+      "word": "外",
+      "reading": "そと",
+      "meaning": "밖",
+      "example": "<ruby>外<rt>そと</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。",
+      "example_meaning": "밖은 춥습니다."
     },
     {
-      "id": 463,
+      "id": 796,
       "level": "N4",
-      "word": "拾う",
-      "reading": "ひろう",
-      "meaning": "줍다",
-      "example": "ゴミを<ruby>拾<rt>ひろ</rt></ruby>います。",
-      "example_meaning": "쓰레기를 줍습니다."
+      "word": "素直",
+      "reading": "すなお",
+      "meaning": "솔직하다, 순순하다",
+      "example": "<ruby>素直<rt>すなお</rt></ruby>な<ruby>子<rt>こ</rt></ruby>です。",
+      "example_meaning": "순한 아이입니다."
     }
   ]
 }
