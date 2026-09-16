@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "words": [
     {
-      "id": 349,
+      "id": 243,
       "level": "N5",
-      "word": "飛行機",
-      "reading": "ひこうき",
-      "meaning": "비행기",
-      "example": "<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "비행기로 일본에 갑니다."
+      "word": "使う",
+      "reading": "つかう",
+      "meaning": "사용하다",
+      "example": "<ruby>箸<rt>はし</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
+      "example_meaning": "젓가락을 사용합니다."
     },
     {
-      "id": 170,
+      "id": 179,
       "level": "N5",
-      "word": "外",
-      "reading": "そと",
-      "meaning": "밖",
-      "example": "<ruby>外<rt>そと</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。",
-      "example_meaning": "밖은 춥습니다."
+      "word": "日本語",
+      "reading": "にほんご",
+      "meaning": "일본어",
+      "example": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。",
+      "example_meaning": "일본어를 공부하고 있습니다."
     },
     {
-      "id": 796,
+      "id": 872,
       "level": "N4",
-      "word": "素直",
-      "reading": "すなお",
-      "meaning": "솔직하다, 순순하다",
-      "example": "<ruby>素直<rt>すなお</rt></ruby>な<ruby>子<rt>こ</rt></ruby>です。",
-      "example_meaning": "순한 아이입니다."
+      "word": "貯金",
+      "reading": "ちょきん",
+      "meaning": "저금",
+      "example": "<ruby>毎月<rt>まいつき</rt></ruby><ruby>貯金<rt>ちょきん</rt></ruby>しています。",
+      "example_meaning": "매달 저금하고 있습니다."
     }
   ]
 }
