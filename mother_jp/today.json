@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "words": [
     {
-      "id": 243,
+      "id": 278,
       "level": "N5",
-      "word": "使う",
-      "reading": "つかう",
-      "meaning": "사용하다",
-      "example": "<ruby>箸<rt>はし</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
-      "example_meaning": "젓가락을 사용합니다."
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "meaning": "줄서다",
+      "example": "<ruby>店<rt>みせ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>びます。",
+      "example_meaning": "가게 앞에 줄섭니다."
     },
     {
-      "id": 179,
+      "id": 407,
       "level": "N5",
-      "word": "日本語",
-      "reading": "にほんご",
-      "meaning": "일본어",
-      "example": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。",
-      "example_meaning": "일본어를 공부하고 있습니다."
+      "word": "ちょっと",
+      "reading": "ちょっと",
+      "meaning": "조금, 잠깐",
+      "example": "ちょっと<ruby>待<rt>ま</rt></ruby>ってください。",
+      "example_meaning": "잠깐 기다려 주세요."
     },
     {
-      "id": 872,
+      "id": 477,
       "level": "N4",
-      "word": "貯金",
-      "reading": "ちょきん",
-      "meaning": "저금",
-      "example": "<ruby>毎月<rt>まいつき</rt></ruby><ruby>貯金<rt>ちょきん</rt></ruby>しています。",
-      "example_meaning": "매달 저금하고 있습니다."
+      "word": "楽しむ",
+      "reading": "たのしむ",
+      "meaning": "즐기다",
+      "example": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しみます。",
+      "example_meaning": "음악을 즐깁니다."
     }
   ]
 }
