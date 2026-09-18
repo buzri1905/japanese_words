@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "words": [
     {
-      "id": 278,
+      "id": 215,
       "level": "N5",
-      "word": "並ぶ",
-      "reading": "ならぶ",
-      "meaning": "줄서다",
-      "example": "<ruby>店<rt>みせ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>びます。",
-      "example_meaning": "가게 앞에 줄섭니다."
+      "word": "細い",
+      "reading": "ほそい",
+      "meaning": "가늘다",
+      "example": "<ruby>細<rt>ほそ</rt></ruby>い<ruby>道<rt>みち</rt></ruby>です。",
+      "example_meaning": "좁은 길입니다."
     },
     {
-      "id": 407,
+      "id": 380,
       "level": "N5",
-      "word": "ちょっと",
-      "reading": "ちょっと",
-      "meaning": "조금, 잠깐",
-      "example": "ちょっと<ruby>待<rt>ま</rt></ruby>ってください。",
-      "example_meaning": "잠깐 기다려 주세요."
+      "word": "ノート",
+      "reading": "ノート",
+      "meaning": "노트, 공책",
+      "example": "ノートに<ruby>書<rt>か</rt></ruby>きます。",
+      "example_meaning": "공책에 씁니다."
     },
     {
-      "id": 477,
+      "id": 813,
       "level": "N4",
-      "word": "楽しむ",
-      "reading": "たのしむ",
-      "meaning": "즐기다",
-      "example": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しみます。",
-      "example_meaning": "음악을 즐깁니다."
+      "word": "しかし",
+      "reading": "しかし",
+      "meaning": "그러나",
+      "example": "しかし、<ruby>問題<rt>もんだい</rt></ruby>があります。",
+      "example_meaning": "그러나 문제가 있습니다."
     }
   ]
 }
