@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "words": [
     {
-      "id": 215,
+      "id": 208,
       "level": "N5",
-      "word": "細い",
-      "reading": "ほそい",
-      "meaning": "가늘다",
-      "example": "<ruby>細<rt>ほそ</rt></ruby>い<ruby>道<rt>みち</rt></ruby>です。",
-      "example_meaning": "좁은 길입니다."
+      "word": "辛い",
+      "reading": "からい",
+      "meaning": "맵다",
+      "example": "キムチは<ruby>辛<rt>から</rt></ruby>いです。",
+      "example_meaning": "김치는 맵습니다."
     },
     {
-      "id": 380,
+      "id": 271,
       "level": "N5",
-      "word": "ノート",
-      "reading": "ノート",
-      "meaning": "노트, 공책",
-      "example": "ノートに<ruby>書<rt>か</rt></ruby>きます。",
-      "example_meaning": "공책에 씁니다."
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "나가다, 나오다",
+      "example": "<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ます。",
+      "example_meaning": "집을 나갑니다."
     },
     {
-      "id": 813,
+      "id": 542,
       "level": "N4",
-      "word": "しかし",
-      "reading": "しかし",
-      "meaning": "그러나",
-      "example": "しかし、<ruby>問題<rt>もんだい</rt></ruby>があります。",
-      "example_meaning": "그러나 문제가 있습니다."
+      "word": "到着する",
+      "reading": "とうちゃくする",
+      "meaning": "도착하다",
+      "example": "<ruby>空港<rt>くうこう</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。",
+      "example_meaning": "공항에 도착했습니다."
     }
   ]
 }
