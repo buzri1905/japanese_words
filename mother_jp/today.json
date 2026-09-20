@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "words": [
     {
-      "id": 208,
+      "id": 316,
       "level": "N5",
-      "word": "辛い",
-      "reading": "からい",
-      "meaning": "맵다",
-      "example": "キムチは<ruby>辛<rt>から</rt></ruby>いです。",
-      "example_meaning": "김치는 맵습니다."
+      "word": "塩",
+      "reading": "しお",
+      "meaning": "소금",
+      "example": "<ruby>塩<rt>しお</rt></ruby>をください。",
+      "example_meaning": "소금을 주세요."
     },
     {
-      "id": 271,
+      "id": 82,
       "level": "N5",
-      "word": "出る",
-      "reading": "でる",
-      "meaning": "나가다, 나오다",
-      "example": "<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ます。",
-      "example_meaning": "집을 나갑니다."
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "어제",
+      "example": "<ruby>昨日<rt>きのう</rt></ruby><ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
+      "example_meaning": "어제 영화를 봤습니다."
     },
     {
-      "id": 542,
+      "id": 840,
       "level": "N4",
-      "word": "到着する",
-      "reading": "とうちゃくする",
-      "meaning": "도착하다",
-      "example": "<ruby>空港<rt>くうこう</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。",
-      "example_meaning": "공항에 도착했습니다."
+      "word": "邪魔",
+      "reading": "じゃま",
+      "meaning": "방해",
+      "example": "<ruby>邪魔<rt>じゃま</rt></ruby>しないでください。",
+      "example_meaning": "방해하지 마세요."
     }
   ]
 }

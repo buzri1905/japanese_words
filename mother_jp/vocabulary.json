@@ -818,7 +818,7 @@
       "meaning": "어제",
       "example": "<ruby>昨日<rt>きのう</rt></ruby><ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
       "example_meaning": "어제 영화를 봤습니다.",
-      "used_date": null
+      "used_date": "2026-09-21"
     },
     {
       "id": 83,
@@ -3158,7 +3158,7 @@
       "meaning": "소금",
       "example": "<ruby>塩<rt>しお</rt></ruby>をください。",
       "example_meaning": "소금을 주세요.",
-      "used_date": null
+      "used_date": "2026-09-21"
     },
     {
       "id": 317,
@@ -8398,7 +8398,7 @@
       "meaning": "방해",
       "example": "<ruby>邪魔<rt>じゃま</rt></ruby>しないでください。",
       "example_meaning": "방해하지 마세요.",
-      "used_date": null
+      "used_date": "2026-09-21"
     },
     {
       "id": 841,
