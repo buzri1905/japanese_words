@@ -3238,7 +3238,7 @@
       "meaning": "우체국",
       "example": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>で<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。",
       "example_meaning": "우체국에서 편지를 부칩니다.",
-      "used_date": null
+      "used_date": "2026-09-22"
     },
     {
       "id": 325,
@@ -3938,7 +3938,7 @@
       "meaning": "안녕(낮 인사)",
       "example": "こんにちは、<ruby>元気<rt>げんき</rt></ruby>ですか。",
       "example_meaning": "안녕하세요, 잘 지내세요?",
-      "used_date": null
+      "used_date": "2026-09-22"
     },
     {
       "id": 395,
@@ -8038,7 +8038,7 @@
       "meaning": "대체로, 대략",
       "example": "<ruby>大体<rt>だいたい</rt></ruby><ruby>分<rt>わ</rt></ruby>かりました。",
       "example_meaning": "대체로 알겠습니다.",
-      "used_date": null
+      "used_date": "2026-09-22"
     },
     {
       "id": 805,

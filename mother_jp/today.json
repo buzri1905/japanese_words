@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "words": [
     {
-      "id": 316,
+      "id": 394,
       "level": "N5",
-      "word": "塩",
-      "reading": "しお",
-      "meaning": "소금",
-      "example": "<ruby>塩<rt>しお</rt></ruby>をください。",
-      "example_meaning": "소금을 주세요."
+      "word": "こんにちは",
+      "reading": "こんにちは",
+      "meaning": "안녕(낮 인사)",
+      "example": "こんにちは、<ruby>元気<rt>げんき</rt></ruby>ですか。",
+      "example_meaning": "안녕하세요, 잘 지내세요?"
     },
     {
-      "id": 82,
+      "id": 324,
       "level": "N5",
-      "word": "昨日",
-      "reading": "きのう",
-      "meaning": "어제",
-      "example": "<ruby>昨日<rt>きのう</rt></ruby><ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
-      "example_meaning": "어제 영화를 봤습니다."
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "우체국",
+      "example": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>で<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。",
+      "example_meaning": "우체국에서 편지를 부칩니다."
     },
     {
-      "id": 840,
+      "id": 804,
       "level": "N4",
-      "word": "邪魔",
-      "reading": "じゃま",
-      "meaning": "방해",
-      "example": "<ruby>邪魔<rt>じゃま</rt></ruby>しないでください。",
-      "example_meaning": "방해하지 마세요."
+      "word": "大体",
+      "reading": "だいたい",
+      "meaning": "대체로, 대략",
+      "example": "<ruby>大体<rt>だいたい</rt></ruby><ruby>分<rt>わ</rt></ruby>かりました。",
+      "example_meaning": "대체로 알겠습니다."
     }
   ]
 }
