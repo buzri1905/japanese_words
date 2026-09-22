@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "words": [
     {
-      "id": 394,
+      "id": 134,
       "level": "N5",
-      "word": "こんにちは",
-      "reading": "こんにちは",
-      "meaning": "안녕(낮 인사)",
-      "example": "こんにちは、<ruby>元気<rt>げんき</rt></ruby>ですか。",
-      "example_meaning": "안녕하세요, 잘 지내세요?"
+      "word": "手",
+      "reading": "て",
+      "meaning": "손",
+      "example": "<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ってください。",
+      "example_meaning": "손을 씻으세요."
     },
     {
-      "id": 324,
+      "id": 162,
       "level": "N5",
-      "word": "郵便局",
-      "reading": "ゆうびんきょく",
-      "meaning": "우체국",
-      "example": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>で<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。",
-      "example_meaning": "우체국에서 편지를 부칩니다."
+      "word": "ここ",
+      "reading": "ここ",
+      "meaning": "여기",
+      "example": "ここで<ruby>待<rt>ま</rt></ruby>ってください。",
+      "example_meaning": "여기서 기다려 주세요."
     },
     {
-      "id": 804,
+      "id": 865,
       "level": "N4",
-      "word": "大体",
-      "reading": "だいたい",
-      "meaning": "대체로, 대략",
-      "example": "<ruby>大体<rt>だいたい</rt></ruby><ruby>分<rt>わ</rt></ruby>かりました。",
-      "example_meaning": "대체로 알겠습니다."
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "방송 프로그램",
+      "example": "<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>番組<rt>ばんぐみ</rt></ruby>です。",
+      "example_meaning": "재미있는 프로그램입니다."
     }
   ]
 }

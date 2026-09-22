@@ -1338,7 +1338,7 @@
       "meaning": "손",
       "example": "<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ってください。",
       "example_meaning": "손을 씻으세요.",
-      "used_date": null
+      "used_date": "2026-09-23"
     },
     {
       "id": 135,
@@ -1618,7 +1618,7 @@
       "meaning": "여기",
       "example": "ここで<ruby>待<rt>ま</rt></ruby>ってください。",
       "example_meaning": "여기서 기다려 주세요.",
-      "used_date": null
+      "used_date": "2026-09-23"
     },
     {
       "id": 163,
@@ -8628,7 +8628,7 @@
       "meaning": "방송 프로그램",
       "example": "<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>番組<rt>ばんぐみ</rt></ruby>です。",
       "example_meaning": "재미있는 프로그램입니다.",
-      "used_date": null
+      "used_date": "2026-09-23"
     },
     {
       "id": 866,
