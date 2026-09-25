@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "words": [
     {
-      "id": 283,
+      "id": 420,
       "level": "N5",
-      "word": "散歩する",
-      "reading": "さんぽする",
-      "meaning": "산책하다",
-      "example": "<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。",
-      "example_meaning": "공원을 산책합니다."
+      "word": "二つ",
+      "reading": "ふたつ",
+      "meaning": "두 개",
+      "example": "りんごを<ruby>二<rt>ふた</rt></ruby>つください。",
+      "example_meaning": "사과를 두 개 주세요."
     },
     {
-      "id": 355,
+      "id": 97,
       "level": "N5",
-      "word": "電話",
-      "reading": "でんわ",
-      "meaning": "전화",
-      "example": "<ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
-      "example_meaning": "전화번호를 알려 주세요."
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "화요일",
+      "example": "<ruby>火曜日<rt>かようび</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いましょう。",
+      "example_meaning": "화요일에 만납시다."
     },
     {
-      "id": 462,
+      "id": 799,
       "level": "N4",
-      "word": "落とす",
-      "reading": "おとす",
-      "meaning": "떨어뜨리다",
-      "example": "<ruby>財布<rt>さいふ</rt></ruby>を<ruby>落<rt>お</rt></ruby>としました。",
-      "example_meaning": "지갑을 떨어뜨렸습니다."
+      "word": "別",
+      "reading": "べつ",
+      "meaning": "별도, 다름",
+      "example": "<ruby>別<rt>べつ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えます。",
+      "example_meaning": "다른 방법을 생각합니다."
     }
   ]
 }
