@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "words": [
     {
-      "id": 279,
+      "id": 421,
       "level": "N5",
-      "word": "勉強する",
-      "reading": "べんきょうする",
-      "meaning": "공부하다",
-      "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。",
-      "example_meaning": "매일 일본어를 공부합니다."
+      "word": "三つ",
+      "reading": "みっつ",
+      "meaning": "세 개",
+      "example": "ケーキを<ruby>三<rt>みっ</rt></ruby>つ<ruby>買<rt>か</rt></ruby>いました。",
+      "example_meaning": "케이크를 세 개 샀습니다."
     },
     {
-      "id": 363,
+      "id": 225,
       "level": "N5",
-      "word": "時計",
-      "reading": "とけい",
-      "meaning": "시계",
-      "example": "<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
-      "example_meaning": "시계를 봅니다."
+      "word": "暇",
+      "reading": "ひま",
+      "meaning": "한가하다",
+      "example": "<ruby>今<rt>いま</rt></ruby><ruby>暇<rt>ひま</rt></ruby>ですか。",
+      "example_meaning": "지금 한가하세요?"
     },
     {
-      "id": 686,
+      "id": 817,
       "level": "N4",
-      "word": "卒業",
-      "reading": "そつぎょう",
-      "meaning": "졸업",
-      "example": "<ruby>卒業<rt>そつぎょう</rt></ruby>おめでとう。",
-      "example_meaning": "졸업 축하합니다."
+      "word": "たいてい",
+      "reading": "たいてい",
+      "meaning": "대개, 보통",
+      "example": "たいてい<ruby>家<rt>いえ</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>します。",
+      "example_meaning": "대개 집에서 식사합니다."
     }
   ]
 }
