@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "words": [
     {
-      "id": 421,
+      "id": 121,
       "level": "N5",
-      "word": "三つ",
-      "reading": "みっつ",
-      "meaning": "세 개",
-      "example": "ケーキを<ruby>三<rt>みっ</rt></ruby>つ<ruby>買<rt>か</rt></ruby>いました。",
-      "example_meaning": "케이크를 세 개 샀습니다."
+      "word": "男",
+      "reading": "おとこ",
+      "meaning": "남자",
+      "example": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。",
+      "example_meaning": "남자가 왔습니다."
     },
     {
-      "id": 225,
+      "id": 266,
       "level": "N5",
-      "word": "暇",
-      "reading": "ひま",
-      "meaning": "한가하다",
-      "example": "<ruby>今<rt>いま</rt></ruby><ruby>暇<rt>ひま</rt></ruby>ですか。",
-      "example_meaning": "지금 한가하세요?"
+      "word": "できる",
+      "reading": "できる",
+      "meaning": "할 수 있다",
+      "example": "<ruby>料理<rt>りょうり</rt></ruby>ができます。",
+      "example_meaning": "요리를 할 수 있습니다."
     },
     {
-      "id": 817,
+      "id": 608,
       "level": "N4",
-      "word": "たいてい",
-      "reading": "たいてい",
-      "meaning": "대개, 보통",
-      "example": "たいてい<ruby>家<rt>いえ</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>します。",
-      "example_meaning": "대개 집에서 식사합니다."
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "현재",
+      "example": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>です。",
+      "example_meaning": "현재의 일입니다."
     }
   ]
 }
