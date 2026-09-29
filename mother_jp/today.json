@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "words": [
     {
-      "id": 121,
+      "id": 206,
       "level": "N5",
-      "word": "男",
-      "reading": "おとこ",
-      "meaning": "남자",
-      "example": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。",
-      "example_meaning": "남자가 왔습니다."
+      "word": "遠い",
+      "reading": "とおい",
+      "meaning": "멀다",
+      "example": "<ruby>家<rt>いえ</rt></ruby>から<ruby>遠<rt>とお</rt></ruby>いです。",
+      "example_meaning": "집에서 멉니다."
     },
     {
-      "id": 266,
+      "id": 116,
       "level": "N5",
-      "word": "できる",
-      "reading": "できる",
-      "meaning": "할 수 있다",
-      "example": "<ruby>料理<rt>りょうり</rt></ruby>ができます。",
-      "example_meaning": "요리를 할 수 있습니다."
+      "word": "姉",
+      "reading": "あね",
+      "meaning": "(나의) 누나, 언니",
+      "example": "<ruby>姉<rt>あね</rt></ruby>は<ruby>看護師<rt>かんごし</rt></ruby>です。",
+      "example_meaning": "언니는 간호사입니다."
     },
     {
-      "id": 608,
+      "id": 617,
       "level": "N4",
-      "word": "現在",
-      "reading": "げんざい",
-      "meaning": "현재",
-      "example": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>です。",
-      "example_meaning": "현재의 일입니다."
+      "word": "若者",
+      "reading": "わかもの",
+      "meaning": "젊은이",
+      "example": "<ruby>若者<rt>わかもの</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>町<rt>まち</rt></ruby>です。",
+      "example_meaning": "젊은이가 많은 동네입니다."
     }
   ]
 }
