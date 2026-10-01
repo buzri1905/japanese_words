@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "words": [
     {
-      "id": 382,
+      "id": 398,
       "level": "N5",
-      "word": "辞書",
-      "reading": "じしょ",
-      "meaning": "사전",
-      "example": "<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きます。",
-      "example_meaning": "사전을 찾습니다."
+      "word": "すみません",
+      "reading": "すみません",
+      "meaning": "죄송합니다, 실례합니다",
+      "example": "すみません、<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+      "example_meaning": "실례합니다, 길을 알려 주세요."
     },
     {
-      "id": 290,
+      "id": 120,
       "level": "N5",
-      "word": "質問する",
-      "reading": "しつもんする",
-      "meaning": "질문하다",
-      "example": "<ruby>先生<rt>せんせい</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>します。",
-      "example_meaning": "선생님에게 질문합니다."
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "아이",
+      "example": "<ruby>子供<rt>こども</rt></ruby>が<ruby>三人<rt>さんにん</rt></ruby>います。",
+      "example_meaning": "아이가 셋 있습니다."
     },
     {
-      "id": 591,
+      "id": 648,
       "level": "N4",
-      "word": "食事",
-      "reading": "しょくじ",
-      "meaning": "식사",
-      "example": "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>です。",
-      "example_meaning": "식사 시간입니다."
+      "word": "神社",
+      "reading": "じんじゃ",
+      "meaning": "신사",
+      "example": "<ruby>神社<rt>じんじゃ</rt></ruby>でお<ruby>祈<rt>いの</rt></ruby>りします。",
+      "example_meaning": "신사에서 기도합니다."
     }
   ]
 }
