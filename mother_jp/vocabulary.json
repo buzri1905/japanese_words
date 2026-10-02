@@ -1008,7 +1008,7 @@
       "meaning": "토요일",
       "example": "<ruby>土曜日<rt>どようび</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
       "example_meaning": "토요일은 가족과 보냅니다.",
-      "used_date": null
+      "used_date": "2026-10-03"
     },
     {
       "id": 102,
@@ -3138,7 +3138,7 @@
       "meaning": "술",
       "example": "お<ruby>酒<rt>さけ</rt></ruby>は<ruby>飲<rt>の</rt></ruby>みません。",
       "example_meaning": "술은 마시지 않습니다.",
-      "used_date": null
+      "used_date": "2026-10-03"
     },
     {
       "id": 315,
@@ -5198,7 +5198,7 @@
       "meaning": "남다",
       "example": "ご<ruby>飯<rt>はん</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>りました。",
       "example_meaning": "밥이 남았습니다.",
-      "used_date": null
+      "used_date": "2026-10-03"
     },
     {
       "id": 521,
