@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "words": [
     {
-      "id": 302,
+      "id": 304,
       "level": "N5",
-      "word": "魚",
-      "reading": "さかな",
-      "meaning": "생선",
-      "example": "<ruby>魚<rt>さかな</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
-      "example_meaning": "생선을 좋아합니다."
+      "word": "果物",
+      "reading": "くだもの",
+      "meaning": "과일",
+      "example": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+      "example_meaning": "과일을 좋아합니다."
     },
     {
-      "id": 326,
+      "id": 166,
       "level": "N5",
-      "word": "デパート",
-      "reading": "デパート",
-      "meaning": "백화점",
-      "example": "デパートで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>します。",
-      "example_meaning": "백화점에서 쇼핑합니다."
+      "word": "下",
+      "reading": "した",
+      "meaning": "아래",
+      "example": "<ruby>椅子<rt>いす</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>がいます。",
+      "example_meaning": "의자 아래에 고양이가 있습니다."
     },
     {
-      "id": 823,
+      "id": 801,
       "level": "N4",
-      "word": "すぐ",
-      "reading": "すぐ",
-      "meaning": "곧, 바로",
-      "example": "すぐ<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "바로 가겠습니다."
+      "word": "必ず",
+      "reading": "かならず",
+      "meaning": "반드시, 꼭",
+      "example": "<ruby>必<rt>かなら</rt></ruby>ず<ruby>来<rt>き</rt></ruby>てください。",
+      "example_meaning": "꼭 와 주세요."
     }
   ]
 }
