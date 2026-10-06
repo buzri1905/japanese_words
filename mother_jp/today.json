@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "words": [
     {
-      "id": 227,
+      "id": 378,
       "level": "N5",
-      "word": "下手",
-      "reading": "へた",
-      "meaning": "못하다, 서투르다",
-      "example": "<ruby>歌<rt>うた</rt></ruby>が<ruby>下手<rt>へた</rt></ruby>です。",
-      "example_meaning": "노래를 못합니다."
+      "word": "鉛筆",
+      "reading": "えんぴつ",
+      "meaning": "연필",
+      "example": "<ruby>鉛筆<rt>えんぴつ</rt></ruby>で<ruby>書<rt>か</rt></ruby>きます。",
+      "example_meaning": "연필로 씁니다."
     },
     {
-      "id": 313,
+      "id": 77,
       "level": "N5",
-      "word": "バナナ",
-      "reading": "バナナ",
-      "meaning": "바나나",
-      "example": "バナナを<ruby>食<rt>た</rt></ruby>べます。",
-      "example_meaning": "바나나를 먹습니다."
+      "word": "昼",
+      "reading": "ひる",
+      "meaning": "낮, 점심",
+      "example": "<ruby>昼<rt>ひる</rt></ruby>はパンを<ruby>食<rt>た</rt></ruby>べました。",
+      "example_meaning": "점심에는 빵을 먹었습니다."
     },
     {
-      "id": 732,
+      "id": 447,
       "level": "N4",
-      "word": "町",
-      "reading": "まち",
-      "meaning": "동네, 거리",
-      "example": "<ruby>町<rt>まち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>きます。",
-      "example_meaning": "거리를 걷습니다."
+      "word": "確認する",
+      "reading": "かくにんする",
+      "meaning": "확인하다",
+      "example": "もう<ruby>一度<rt>いちど</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。",
+      "example_meaning": "다시 한번 확인해 주세요."
     }
   ]
 }
