@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "words": [
     {
-      "id": 330,
+      "id": 406,
       "level": "N5",
-      "word": "映画館",
-      "reading": "えいがかん",
-      "meaning": "영화관",
-      "example": "<ruby>映画館<rt>えいがかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "영화관에 갑니다."
+      "word": "ゆっくり",
+      "reading": "ゆっくり",
+      "meaning": "천천히",
+      "example": "ゆっくり<ruby>話<rt>はな</rt></ruby>してください。",
+      "example_meaning": "천천히 말씀해 주세요."
     },
     {
-      "id": 374,
+      "id": 377,
       "level": "N5",
-      "word": "テレビ",
-      "reading": "テレビ",
-      "meaning": "TV, 텔레비전",
-      "example": "テレビを<ruby>見<rt>み</rt></ruby>ます。",
-      "example_meaning": "TV를 봅니다."
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "전기, 불",
+      "example": "<ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>してください。",
+      "example_meaning": "불을 꺼 주세요."
     },
     {
-      "id": 882,
+      "id": 611,
       "level": "N4",
-      "word": "ダイエット",
-      "reading": "ダイエット",
-      "meaning": "다이어트",
-      "example": "ダイエットを<ruby>始<rt>はじ</rt></ruby>めました。",
-      "example_meaning": "다이어트를 시작했습니다."
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "시대",
+      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>時代<rt>じだい</rt></ruby>です。",
+      "example_meaning": "새로운 시대입니다."
     }
   ]
 }
