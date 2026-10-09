@@ -1478,7 +1478,7 @@
       "meaning": "어디",
       "example": "トイレはどこですか。",
       "example_meaning": "화장실은 어디예요?",
-      "used_date": null
+      "used_date": "2026-10-10"
     },
     {
       "id": 149,
@@ -2368,7 +2368,7 @@
       "meaning": "끄다, 지우다",
       "example": "<ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。",
       "example_meaning": "불을 끕니다.",
-      "used_date": null
+      "used_date": "2026-10-10"
     },
     {
       "id": 238,
@@ -6408,7 +6408,7 @@
       "meaning": "장소",
       "example": "いい<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っています。",
       "example_meaning": "좋은 장소를 알고 있습니다.",
-      "used_date": null
+      "used_date": "2026-10-10"
     },
     {
       "id": 642,

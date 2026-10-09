@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "words": [
     {
-      "id": 406,
+      "id": 237,
       "level": "N5",
-      "word": "ゆっくり",
-      "reading": "ゆっくり",
-      "meaning": "천천히",
-      "example": "ゆっくり<ruby>話<rt>はな</rt></ruby>してください。",
-      "example_meaning": "천천히 말씀해 주세요."
+      "word": "消す",
+      "reading": "けす",
+      "meaning": "끄다, 지우다",
+      "example": "<ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。",
+      "example_meaning": "불을 끕니다."
     },
     {
-      "id": 377,
+      "id": 148,
       "level": "N5",
-      "word": "電気",
-      "reading": "でんき",
-      "meaning": "전기, 불",
-      "example": "<ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>してください。",
-      "example_meaning": "불을 꺼 주세요."
+      "word": "どこ",
+      "reading": "どこ",
+      "meaning": "어디",
+      "example": "トイレはどこですか。",
+      "example_meaning": "화장실은 어디예요?"
     },
     {
-      "id": 611,
+      "id": 641,
       "level": "N4",
-      "word": "時代",
-      "reading": "じだい",
-      "meaning": "시대",
-      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>時代<rt>じだい</rt></ruby>です。",
-      "example_meaning": "새로운 시대입니다."
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "장소",
+      "example": "いい<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っています。",
+      "example_meaning": "좋은 장소를 알고 있습니다."
     }
   ]
 }
