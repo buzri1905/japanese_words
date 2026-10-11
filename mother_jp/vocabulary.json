@@ -848,7 +848,7 @@
       "meaning": "오후",
       "example": "<ruby>午後<rt>ごご</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>です。",
       "example_meaning": "오후에는 한가합니다.",
-      "used_date": null
+      "used_date": "2026-10-12"
     },
     {
       "id": 86,
@@ -3698,7 +3698,7 @@
       "meaning": "바지",
       "example": "<ruby>新<rt>あたら</rt></ruby>しいズボンを<ruby>履<rt>は</rt></ruby>きます。",
       "example_meaning": "새 바지를 입습니다.",
-      "used_date": null
+      "used_date": "2026-10-12"
     },
     {
       "id": 371,
@@ -6368,7 +6368,7 @@
       "meaning": "경찰",
       "example": "<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>します。",
       "example_meaning": "경찰에 연락합니다.",
-      "used_date": null
+      "used_date": "2026-10-12"
     },
     {
       "id": 638,
