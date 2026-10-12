@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "words": [
     {
-      "id": 85,
+      "id": 348,
       "level": "N5",
-      "word": "午後",
-      "reading": "ごご",
-      "meaning": "오후",
-      "example": "<ruby>午後<rt>ごご</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>です。",
-      "example_meaning": "오후에는 한가합니다."
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "자전거",
+      "example": "<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。",
+      "example_meaning": "자전거를 탑니다."
     },
     {
-      "id": 370,
+      "id": 204,
       "level": "N5",
-      "word": "ズボン",
-      "reading": "ズボン",
-      "meaning": "바지",
-      "example": "<ruby>新<rt>あたら</rt></ruby>しいズボンを<ruby>履<rt>は</rt></ruby>きます。",
-      "example_meaning": "새 바지를 입습니다."
+      "word": "狭い",
+      "reading": "せまい",
+      "meaning": "좁다",
+      "example": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>狭<rt>せま</rt></ruby>いです。",
+      "example_meaning": "방이 좁습니다."
     },
     {
-      "id": 637,
+      "id": 792,
       "level": "N4",
-      "word": "警察",
-      "reading": "けいさつ",
-      "meaning": "경찰",
-      "example": "<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>します。",
-      "example_meaning": "경찰에 연락합니다."
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "힘들다, 큰일이다",
+      "example": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>です。",
+      "example_meaning": "일이 힘듭니다."
     }
   ]
 }
