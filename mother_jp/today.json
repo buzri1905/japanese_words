@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "words": [
     {
-      "id": 348,
+      "id": 209,
       "level": "N5",
-      "word": "自転車",
-      "reading": "じてんしゃ",
-      "meaning": "자전거",
-      "example": "<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。",
-      "example_meaning": "자전거를 탑니다."
+      "word": "熱い",
+      "reading": "あつい",
+      "meaning": "(물체가) 뜨겁다",
+      "example": "コーヒーが<ruby>熱<rt>あつ</rt></ruby>いです。",
+      "example_meaning": "커피가 뜨겁습니다."
     },
     {
-      "id": 204,
+      "id": 338,
       "level": "N5",
-      "word": "狭い",
-      "reading": "せまい",
-      "meaning": "좁다",
-      "example": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>狭<rt>せま</rt></ruby>いです。",
-      "example_meaning": "방이 좁습니다."
+      "word": "ドア",
+      "reading": "ドア",
+      "meaning": "문",
+      "example": "ドアを<ruby>閉<rt>し</rt></ruby>めてください。",
+      "example_meaning": "문을 닫아 주세요."
     },
     {
-      "id": 792,
+      "id": 854,
       "level": "N4",
-      "word": "大変",
-      "reading": "たいへん",
-      "meaning": "힘들다, 큰일이다",
-      "example": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>です。",
-      "example_meaning": "일이 힘듭니다."
+      "word": "おかえりなさい",
+      "reading": "おかえりなさい",
+      "meaning": "어서 오세요(귀가)",
+      "example": "おかえりなさい、<ruby>食事<rt>しょくじ</rt></ruby>できていますよ。",
+      "example_meaning": "어서 오세요, 식사 준비됐어요."
     }
   ]
 }
