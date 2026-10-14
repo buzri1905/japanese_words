@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "words": [
     {
-      "id": 209,
+      "id": 67,
       "level": "N5",
-      "word": "熱い",
-      "reading": "あつい",
-      "meaning": "(물체가) 뜨겁다",
-      "example": "コーヒーが<ruby>熱<rt>あつ</rt></ruby>いです。",
-      "example_meaning": "커피가 뜨겁습니다."
+      "word": "七",
+      "reading": "なな",
+      "meaning": "7, 일곱",
+      "example": "<ruby>七<rt>なな</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります。",
+      "example_meaning": "7시에 돌아갑니다."
     },
     {
-      "id": 338,
+      "id": 342,
       "level": "N5",
-      "word": "ドア",
-      "reading": "ドア",
-      "meaning": "문",
-      "example": "ドアを<ruby>閉<rt>し</rt></ruby>めてください。",
-      "example_meaning": "문을 닫아 주세요."
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "대학교",
+      "example": "<ruby>大学<rt>だいがく</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+      "example_meaning": "대학교에서 공부합니다."
     },
     {
-      "id": 854,
+      "id": 610,
       "level": "N4",
-      "word": "おかえりなさい",
-      "reading": "おかえりなさい",
-      "meaning": "어서 오세요(귀가)",
-      "example": "おかえりなさい、<ruby>食事<rt>しょくじ</rt></ruby>できていますよ。",
-      "example_meaning": "어서 오세요, 식사 준비됐어요."
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "기간",
+      "example": "<ruby>期間<rt>きかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。",
+      "example_meaning": "기간이 깁니다."
     }
   ]
 }
