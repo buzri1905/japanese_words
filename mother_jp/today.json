@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "words": [
     {
-      "id": 67,
+      "id": 138,
       "level": "N5",
-      "word": "七",
-      "reading": "なな",
-      "meaning": "7, 일곱",
-      "example": "<ruby>七<rt>なな</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります。",
-      "example_meaning": "7시에 돌아갑니다."
+      "word": "青",
+      "reading": "あお",
+      "meaning": "파랑",
+      "example": "<ruby>青<rt>あお</rt></ruby>い<ruby>空<rt>そら</rt></ruby>ですね。",
+      "example_meaning": "파란 하늘이네요."
     },
     {
-      "id": 342,
+      "id": 104,
       "level": "N5",
-      "word": "大学",
-      "reading": "だいがく",
-      "meaning": "대학교",
-      "example": "<ruby>大学<rt>だいがく</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。",
-      "example_meaning": "대학교에서 공부합니다."
+      "word": "春",
+      "reading": "はる",
+      "meaning": "봄",
+      "example": "<ruby>春<rt>はる</rt></ruby>になりました。",
+      "example_meaning": "봄이 되었습니다."
     },
     {
-      "id": 610,
+      "id": 468,
       "level": "N4",
-      "word": "期間",
-      "reading": "きかん",
-      "meaning": "기간",
-      "example": "<ruby>期間<rt>きかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。",
-      "example_meaning": "기간이 깁니다."
+      "word": "挨拶する",
+      "reading": "あいさつする",
+      "meaning": "인사하다",
+      "example": "<ruby>先生<rt>せんせい</rt></ruby>に<ruby>挨拶<rt>あいさつ</rt></ruby>します。",
+      "example_meaning": "선생님께 인사합니다."
     }
   ]
 }
