@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "words": [
     {
-      "id": 138,
+      "id": 417,
       "level": "N5",
-      "word": "青",
-      "reading": "あお",
-      "meaning": "파랑",
-      "example": "<ruby>青<rt>あお</rt></ruby>い<ruby>空<rt>そら</rt></ruby>ですね。",
-      "example_meaning": "파란 하늘이네요."
+      "word": "一緒に",
+      "reading": "いっしょに",
+      "meaning": "함께, 같이",
+      "example": "<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。",
+      "example_meaning": "같이 갑시다."
     },
     {
-      "id": 104,
+      "id": 171,
       "level": "N5",
-      "word": "春",
-      "reading": "はる",
-      "meaning": "봄",
-      "example": "<ruby>春<rt>はる</rt></ruby>になりました。",
-      "example_meaning": "봄이 되었습니다."
+      "word": "右",
+      "reading": "みぎ",
+      "meaning": "오른쪽",
+      "example": "<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。",
+      "example_meaning": "오른쪽으로 도세요."
     },
     {
-      "id": 468,
+      "id": 822,
       "level": "N4",
-      "word": "挨拶する",
-      "reading": "あいさつする",
-      "meaning": "인사하다",
-      "example": "<ruby>先生<rt>せんせい</rt></ruby>に<ruby>挨拶<rt>あいさつ</rt></ruby>します。",
-      "example_meaning": "선생님께 인사합니다."
+      "word": "本当に",
+      "reading": "ほんとうに",
+      "meaning": "정말로",
+      "example": "<ruby>本当<rt>ほんとう</rt></ruby>にありがとう。",
+      "example_meaning": "정말 고마워요."
     }
   ]
 }
