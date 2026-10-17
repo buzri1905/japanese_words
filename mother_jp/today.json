@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "words": [
     {
-      "id": 417,
+      "id": 276,
       "level": "N5",
-      "word": "一緒に",
-      "reading": "いっしょに",
-      "meaning": "함께, 같이",
-      "example": "<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。",
-      "example_meaning": "같이 갑시다."
+      "word": "押す",
+      "reading": "おす",
+      "meaning": "누르다, 밀다",
+      "example": "ボタンを<ruby>押<rt>お</rt></ruby>します。",
+      "example_meaning": "버튼을 누릅니다."
     },
     {
-      "id": 171,
+      "id": 366,
       "level": "N5",
-      "word": "右",
-      "reading": "みぎ",
-      "meaning": "오른쪽",
-      "example": "<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。",
-      "example_meaning": "오른쪽으로 도세요."
+      "word": "服",
+      "reading": "ふく",
+      "meaning": "옷",
+      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ます。",
+      "example_meaning": "새 옷을 입습니다."
     },
     {
-      "id": 822,
+      "id": 896,
       "level": "N4",
-      "word": "本当に",
-      "reading": "ほんとうに",
-      "meaning": "정말로",
-      "example": "<ruby>本当<rt>ほんとう</rt></ruby>にありがとう。",
-      "example_meaning": "정말 고마워요."
+      "word": "気持ちいい",
+      "reading": "きもちいい",
+      "meaning": "기분 좋다",
+      "example": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>気持<rt>きも</rt></ruby>ちいいです。",
+      "example_meaning": "바람이 시원합니다."
     }
   ]
 }
