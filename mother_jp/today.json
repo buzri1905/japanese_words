@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "words": [
     {
-      "id": 276,
+      "id": 163,
       "level": "N5",
-      "word": "押す",
-      "reading": "おす",
-      "meaning": "누르다, 밀다",
-      "example": "ボタンを<ruby>押<rt>お</rt></ruby>します。",
-      "example_meaning": "버튼을 누릅니다."
+      "word": "そこ",
+      "reading": "そこ",
+      "meaning": "거기",
+      "example": "そこに<ruby>置<rt>お</rt></ruby>いてください。",
+      "example_meaning": "거기에 놔 주세요."
     },
     {
-      "id": 366,
+      "id": 168,
       "level": "N5",
-      "word": "服",
-      "reading": "ふく",
-      "meaning": "옷",
-      "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ます。",
-      "example_meaning": "새 옷을 입습니다."
+      "word": "後ろ",
+      "reading": "うしろ",
+      "meaning": "뒤",
+      "example": "<ruby>後<rt>うし</rt></ruby>ろを<ruby>見<rt>み</rt></ruby>てください。",
+      "example_meaning": "뒤를 봐 주세요."
     },
     {
-      "id": 896,
+      "id": 668,
       "level": "N4",
-      "word": "気持ちいい",
-      "reading": "きもちいい",
-      "meaning": "기분 좋다",
-      "example": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>気持<rt>きも</rt></ruby>ちいいです。",
-      "example_meaning": "바람이 시원합니다."
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "기계",
+      "example": "<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
+      "example_meaning": "기계를 사용합니다."
     }
   ]
 }

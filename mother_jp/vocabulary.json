@@ -1628,7 +1628,7 @@
       "meaning": "거기",
       "example": "そこに<ruby>置<rt>お</rt></ruby>いてください。",
       "example_meaning": "거기에 놔 주세요.",
-      "used_date": null
+      "used_date": "2026-10-19"
     },
     {
       "id": 164,
@@ -1678,7 +1678,7 @@
       "meaning": "뒤",
       "example": "<ruby>後<rt>うし</rt></ruby>ろを<ruby>見<rt>み</rt></ruby>てください。",
       "example_meaning": "뒤를 봐 주세요.",
-      "used_date": null
+      "used_date": "2026-10-19"
     },
     {
       "id": 169,
@@ -6678,7 +6678,7 @@
       "meaning": "기계",
       "example": "<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
       "example_meaning": "기계를 사용합니다.",
-      "used_date": null
+      "used_date": "2026-10-19"
     },
     {
       "id": 669,
