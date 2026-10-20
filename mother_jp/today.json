@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "words": [
     {
-      "id": 343,
+      "id": 143,
       "level": "N5",
-      "word": "高校",
-      "reading": "こうこう",
-      "meaning": "고등학교",
-      "example": "<ruby>娘<rt>むすめ</rt></ruby>は<ruby>高校生<rt>こうこうせい</rt></ruby>です。",
-      "example_meaning": "딸은 고등학생입니다."
+      "word": "緑",
+      "reading": "みどり",
+      "meaning": "초록",
+      "example": "<ruby>緑<rt>みどり</rt></ruby>のお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "example_meaning": "녹차를 마십니다."
     },
     {
-      "id": 74,
+      "id": 196,
       "level": "N5",
-      "word": "円",
-      "reading": "えん",
-      "meaning": "엔(일본 돈)",
-      "example": "<ruby>五百<rt>ごひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>です。",
-      "example_meaning": "500엔입니다."
+      "word": "面白い",
+      "reading": "おもしろい",
+      "meaning": "재미있다",
+      "example": "この<ruby>映画<rt>えいが</rt></ruby>は<ruby>面白<rt>おもしろ</rt></ruby>いです。",
+      "example_meaning": "이 영화는 재미있습니다."
     },
     {
-      "id": 450,
+      "id": 736,
       "level": "N4",
-      "word": "失敗する",
-      "reading": "しっぱいする",
-      "meaning": "실패하다",
-      "example": "<ruby>料理<rt>りょうり</rt></ruby>に<ruby>失敗<rt>しっぱい</rt></ruby>しました。",
-      "example_meaning": "요리에 실패했습니다."
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "의견",
+      "example": "<ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>ってください。",
+      "example_meaning": "의견을 말해 주세요."
     }
   ]
 }
