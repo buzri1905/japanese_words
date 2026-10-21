@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "words": [
     {
-      "id": 143,
+      "id": 284,
       "level": "N5",
-      "word": "緑",
-      "reading": "みどり",
-      "meaning": "초록",
-      "example": "<ruby>緑<rt>みどり</rt></ruby>のお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
-      "example_meaning": "녹차를 마십니다."
+      "word": "電話する",
+      "reading": "でんわする",
+      "meaning": "전화하다",
+      "example": "<ruby>母<rt>はは</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>します。",
+      "example_meaning": "어머니에게 전화합니다."
     },
     {
-      "id": 196,
+      "id": 392,
       "level": "N5",
-      "word": "面白い",
-      "reading": "おもしろい",
-      "meaning": "재미있다",
-      "example": "この<ruby>映画<rt>えいが</rt></ruby>は<ruby>面白<rt>おもしろ</rt></ruby>いです。",
-      "example_meaning": "이 영화는 재미있습니다."
+      "word": "英語",
+      "reading": "えいご",
+      "meaning": "영어",
+      "example": "<ruby>英語<rt>えいご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>します。",
+      "example_meaning": "영어를 말합니다."
     },
     {
-      "id": 736,
+      "id": 644,
       "level": "N4",
-      "word": "意見",
-      "reading": "いけん",
-      "meaning": "의견",
-      "example": "<ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>ってください。",
-      "example_meaning": "의견을 말해 주세요."
+      "word": "駐車場",
+      "reading": "ちゅうしゃじょう",
+      "meaning": "주차장",
+      "example": "<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>はあちらです。",
+      "example_meaning": "주차장은 저쪽입니다."
     }
   ]
 }
