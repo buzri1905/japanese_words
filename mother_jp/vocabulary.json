@@ -1718,7 +1718,7 @@
       "meaning": "왼쪽",
       "example": "<ruby>左<rt>ひだり</rt></ruby>に<ruby>銀行<rt>ぎんこう</rt></ruby>があります。",
       "example_meaning": "왼쪽에 은행이 있습니다.",
-      "used_date": null
+      "used_date": "2026-10-23"
     },
     {
       "id": 173,
@@ -2278,7 +2278,7 @@
       "meaning": "좋아하다",
       "example": "<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
       "example_meaning": "음악을 좋아합니다.",
-      "used_date": null
+      "used_date": "2026-10-23"
     },
     {
       "id": 229,
@@ -7418,7 +7418,7 @@
       "meaning": "그림",
       "example": "<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>きます。",
       "example_meaning": "그림을 그립니다.",
-      "used_date": null
+      "used_date": "2026-10-23"
     },
     {
       "id": 743,
