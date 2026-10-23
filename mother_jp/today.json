@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "words": [
     {
-      "id": 172,
+      "id": 240,
       "level": "N5",
-      "word": "左",
-      "reading": "ひだり",
-      "meaning": "왼쪽",
-      "example": "<ruby>左<rt>ひだり</rt></ruby>に<ruby>銀行<rt>ぎんこう</rt></ruby>があります。",
-      "example_meaning": "왼쪽에 은행이 있습니다."
+      "word": "取る",
+      "reading": "とる",
+      "meaning": "잡다, 집다",
+      "example": "<ruby>塩<rt>しお</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってください。",
+      "example_meaning": "소금 좀 집어 주세요."
     },
     {
-      "id": 228,
+      "id": 95,
       "level": "N5",
-      "word": "好き",
-      "reading": "すき",
-      "meaning": "좋아하다",
-      "example": "<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
-      "example_meaning": "음악을 좋아합니다."
+      "word": "去年",
+      "reading": "きょねん",
+      "meaning": "작년",
+      "example": "<ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にほん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "example_meaning": "작년에 일본에 갔습니다."
     },
     {
-      "id": 742,
+      "id": 892,
       "level": "N4",
-      "word": "絵",
-      "reading": "え",
-      "meaning": "그림",
-      "example": "<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>きます。",
-      "example_meaning": "그림을 그립니다."
+      "word": "早朝",
+      "reading": "そうちょう",
+      "meaning": "이른 아침",
+      "example": "<ruby>早朝<rt>そうちょう</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>します。",
+      "example_meaning": "이른 아침에 출발합니다."
     }
   ]
 }
