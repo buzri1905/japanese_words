@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "words": [
     {
-      "id": 240,
+      "id": 133,
       "level": "N5",
-      "word": "取る",
-      "reading": "とる",
-      "meaning": "잡다, 집다",
-      "example": "<ruby>塩<rt>しお</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってください。",
-      "example_meaning": "소금 좀 집어 주세요."
+      "word": "歯",
+      "reading": "は",
+      "meaning": "이(치아)",
+      "example": "<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。",
+      "example_meaning": "이를 닦습니다."
     },
     {
-      "id": 95,
+      "id": 285,
       "level": "N5",
-      "word": "去年",
-      "reading": "きょねん",
-      "meaning": "작년",
-      "example": "<ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にほん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "example_meaning": "작년에 일본에 갔습니다."
+      "word": "掃除する",
+      "reading": "そうじする",
+      "meaning": "청소하다",
+      "example": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>します。",
+      "example_meaning": "방을 청소합니다."
     },
     {
-      "id": 892,
+      "id": 776,
       "level": "N4",
-      "word": "早朝",
-      "reading": "そうちょう",
-      "meaning": "이른 아침",
-      "example": "<ruby>早朝<rt>そうちょう</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>します。",
-      "example_meaning": "이른 아침에 출발합니다."
+      "word": "悔しい",
+      "reading": "くやしい",
+      "meaning": "분하다, 억울하다",
+      "example": "<ruby>負<rt>ま</rt></ruby>けて<ruby>悔<rt>くや</rt></ruby>しいです。",
+      "example_meaning": "져서 분합니다."
     }
   ]
 }

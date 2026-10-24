@@ -1328,7 +1328,7 @@
       "meaning": "이(치아)",
       "example": "<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。",
       "example_meaning": "이를 닦습니다.",
-      "used_date": null
+      "used_date": "2026-10-25"
     },
     {
       "id": 134,
@@ -2848,7 +2848,7 @@
       "meaning": "청소하다",
       "example": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>します。",
       "example_meaning": "방을 청소합니다.",
-      "used_date": null
+      "used_date": "2026-10-25"
     },
     {
       "id": 286,
@@ -7758,7 +7758,7 @@
       "meaning": "분하다, 억울하다",
       "example": "<ruby>負<rt>ま</rt></ruby>けて<ruby>悔<rt>くや</rt></ruby>しいです。",
       "example_meaning": "져서 분합니다.",
-      "used_date": null
+      "used_date": "2026-10-25"
     },
     {
       "id": 777,
