@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "words": [
     {
-      "id": 133,
+      "id": 90,
       "level": "N5",
-      "word": "歯",
-      "reading": "は",
-      "meaning": "이(치아)",
-      "example": "<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。",
-      "example_meaning": "이를 닦습니다."
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "이번 달",
+      "example": "<ruby>今月<rt>こんげつ</rt></ruby>は<ruby>四月<rt>しがつ</rt></ruby>です。",
+      "example_meaning": "이번 달은 4월입니다."
     },
     {
-      "id": 285,
+      "id": 251,
       "level": "N5",
-      "word": "掃除する",
-      "reading": "そうじする",
-      "meaning": "청소하다",
-      "example": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>します。",
-      "example_meaning": "방을 청소합니다."
+      "word": "洗う",
+      "reading": "あらう",
+      "meaning": "씻다",
+      "example": "<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
+      "example_meaning": "손을 씻습니다."
     },
     {
-      "id": 776,
+      "id": 725,
       "level": "N4",
-      "word": "悔しい",
-      "reading": "くやしい",
-      "meaning": "분하다, 억울하다",
-      "example": "<ruby>負<rt>ま</rt></ruby>けて<ruby>悔<rt>くや</rt></ruby>しいです。",
-      "example_meaning": "져서 분합니다."
+      "word": "木",
+      "reading": "き",
+      "meaning": "나무",
+      "example": "<ruby>木<rt>き</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。",
+      "example_meaning": "나무가 큽니다."
     }
   ]
 }

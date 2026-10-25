@@ -898,7 +898,7 @@
       "meaning": "이번 달",
       "example": "<ruby>今月<rt>こんげつ</rt></ruby>は<ruby>四月<rt>しがつ</rt></ruby>です。",
       "example_meaning": "이번 달은 4월입니다.",
-      "used_date": null
+      "used_date": "2026-10-26"
     },
     {
       "id": 91,
@@ -2508,7 +2508,7 @@
       "meaning": "씻다",
       "example": "<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
       "example_meaning": "손을 씻습니다.",
-      "used_date": null
+      "used_date": "2026-10-26"
     },
     {
       "id": 252,
@@ -7248,7 +7248,7 @@
       "meaning": "나무",
       "example": "<ruby>木<rt>き</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。",
       "example_meaning": "나무가 큽니다.",
-      "used_date": null
+      "used_date": "2026-10-26"
     },
     {
       "id": 726,
