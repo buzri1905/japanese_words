@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "words": [
     {
-      "id": 90,
+      "id": 323,
       "level": "N5",
-      "word": "今月",
-      "reading": "こんげつ",
-      "meaning": "이번 달",
-      "example": "<ruby>今月<rt>こんげつ</rt></ruby>は<ruby>四月<rt>しがつ</rt></ruby>です。",
-      "example_meaning": "이번 달은 4월입니다."
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "은행",
+      "example": "<ruby>銀行<rt>ぎんこう</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろします。",
+      "example_meaning": "은행에서 돈을 찾습니다."
     },
     {
-      "id": 251,
+      "id": 373,
       "level": "N5",
-      "word": "洗う",
-      "reading": "あらう",
-      "meaning": "씻다",
-      "example": "<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
-      "example_meaning": "손을 씻습니다."
+      "word": "パソコン",
+      "reading": "パソコン",
+      "meaning": "컴퓨터",
+      "example": "パソコンで<ruby>仕事<rt>しごと</rt></ruby>します。",
+      "example_meaning": "컴퓨터로 일합니다."
     },
     {
-      "id": 725,
+      "id": 509,
       "level": "N4",
-      "word": "木",
-      "reading": "き",
-      "meaning": "나무",
-      "example": "<ruby>木<rt>き</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。",
-      "example_meaning": "나무가 큽니다."
+      "word": "報告する",
+      "reading": "ほうこくする",
+      "meaning": "보고하다",
+      "example": "<ruby>結果<rt>けっか</rt></ruby>を<ruby>報告<rt>ほうこく</rt></ruby>します。",
+      "example_meaning": "결과를 보고합니다."
     }
   ]
 }
