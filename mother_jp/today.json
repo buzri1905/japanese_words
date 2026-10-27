@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "words": [
     {
-      "id": 323,
+      "id": 286,
       "level": "N5",
-      "word": "銀行",
-      "reading": "ぎんこう",
-      "meaning": "은행",
-      "example": "<ruby>銀行<rt>ぎんこう</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろします。",
-      "example_meaning": "은행에서 돈을 찾습니다."
+      "word": "洗濯する",
+      "reading": "せんたくする",
+      "meaning": "빨래하다",
+      "example": "<ruby>服<rt>ふく</rt></ruby>を<ruby>洗濯<rt>せんたく</rt></ruby>します。",
+      "example_meaning": "옷을 빨래합니다."
     },
     {
-      "id": 373,
+      "id": 136,
       "level": "N5",
-      "word": "パソコン",
-      "reading": "パソコン",
-      "meaning": "컴퓨터",
-      "example": "パソコンで<ruby>仕事<rt>しごと</rt></ruby>します。",
-      "example_meaning": "컴퓨터로 일합니다."
+      "word": "体",
+      "reading": "からだ",
+      "meaning": "몸",
+      "example": "<ruby>体<rt>からだ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてください。",
+      "example_meaning": "몸 조심하세요."
     },
     {
-      "id": 509,
+      "id": 735,
       "level": "N4",
-      "word": "報告する",
-      "reading": "ほうこくする",
-      "meaning": "보고하다",
-      "example": "<ruby>結果<rt>けっか</rt></ruby>を<ruby>報告<rt>ほうこく</rt></ruby>します。",
-      "example_meaning": "결과를 보고합니다."
+      "word": "用事",
+      "reading": "ようじ",
+      "meaning": "볼일, 용무",
+      "example": "<ruby>用事<rt>ようじ</rt></ruby>があります。",
+      "example_meaning": "볼일이 있습니다."
     }
   ]
 }
