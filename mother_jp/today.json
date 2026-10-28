@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "words": [
     {
-      "id": 286,
+      "id": 244,
       "level": "N5",
-      "word": "洗濯する",
-      "reading": "せんたくする",
-      "meaning": "빨래하다",
-      "example": "<ruby>服<rt>ふく</rt></ruby>を<ruby>洗濯<rt>せんたく</rt></ruby>します。",
-      "example_meaning": "옷을 빨래합니다."
+      "word": "作る",
+      "reading": "つくる",
+      "meaning": "만들다",
+      "example": "<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。",
+      "example_meaning": "요리를 만듭니다."
     },
     {
-      "id": 136,
+      "id": 301,
       "level": "N5",
-      "word": "体",
-      "reading": "からだ",
-      "meaning": "몸",
-      "example": "<ruby>体<rt>からだ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてください。",
-      "example_meaning": "몸 조심하세요."
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "고기",
+      "example": "<ruby>肉<rt>にく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
+      "example_meaning": "고기를 먹습니다."
     },
     {
-      "id": 735,
+      "id": 497,
       "level": "N4",
-      "word": "用事",
-      "reading": "ようじ",
-      "meaning": "볼일, 용무",
-      "example": "<ruby>用事<rt>ようじ</rt></ruby>があります。",
-      "example_meaning": "볼일이 있습니다."
+      "word": "減る",
+      "reading": "へる",
+      "meaning": "줄다",
+      "example": "お<ruby>金<rt>かね</rt></ruby>が<ruby>減<rt>へ</rt></ruby>りました。",
+      "example_meaning": "돈이 줄었습니다."
     }
   ]
 }
