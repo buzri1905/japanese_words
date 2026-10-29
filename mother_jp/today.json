@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "words": [
     {
-      "id": 244,
+      "id": 211,
       "level": "N5",
-      "word": "作る",
-      "reading": "つくる",
-      "meaning": "만들다",
-      "example": "<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。",
-      "example_meaning": "요리를 만듭니다."
+      "word": "暖かい",
+      "reading": "あたたかい",
+      "meaning": "따뜻하다",
+      "example": "<ruby>春<rt>はる</rt></ruby>は<ruby>暖<rt>あたた</rt></ruby>かいです。",
+      "example_meaning": "봄은 따뜻합니다."
     },
     {
-      "id": 301,
+      "id": 319,
       "level": "N5",
-      "word": "肉",
-      "reading": "にく",
-      "meaning": "고기",
-      "example": "<ruby>肉<rt>にく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
-      "example_meaning": "고기를 먹습니다."
+      "word": "鶏肉",
+      "reading": "とりにく",
+      "meaning": "닭고기",
+      "example": "<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>料理<rt>りょうり</rt></ruby>します。",
+      "example_meaning": "닭고기를 요리합니다."
     },
     {
-      "id": 497,
+      "id": 498,
       "level": "N4",
-      "word": "減る",
-      "reading": "へる",
-      "meaning": "줄다",
-      "example": "お<ruby>金<rt>かね</rt></ruby>が<ruby>減<rt>へ</rt></ruby>りました。",
-      "example_meaning": "돈이 줄었습니다."
+      "word": "上がる",
+      "reading": "あがる",
+      "meaning": "오르다, 올라가다",
+      "example": "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
+      "example_meaning": "가격이 올랐습니다."
     }
   ]
 }
