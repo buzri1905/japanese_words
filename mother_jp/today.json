@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "words": [
     {
-      "id": 211,
+      "id": 68,
       "level": "N5",
-      "word": "暖かい",
-      "reading": "あたたかい",
-      "meaning": "따뜻하다",
-      "example": "<ruby>春<rt>はる</rt></ruby>は<ruby>暖<rt>あたた</rt></ruby>かいです。",
-      "example_meaning": "봄은 따뜻합니다."
+      "word": "八",
+      "reading": "はち",
+      "meaning": "8, 여덟",
+      "example": "<ruby>八<rt>はち</rt></ruby><ruby>月<rt>がつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いです。",
+      "example_meaning": "8월은 덥습니다."
     },
     {
-      "id": 319,
+      "id": 218,
       "level": "N5",
-      "word": "鶏肉",
-      "reading": "とりにく",
-      "meaning": "닭고기",
-      "example": "<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>料理<rt>りょうり</rt></ruby>します。",
-      "example_meaning": "닭고기를 요리합니다."
+      "word": "危ない",
+      "reading": "あぶない",
+      "meaning": "위험하다",
+      "example": "<ruby>危<rt>あぶ</rt></ruby>ないですよ。",
+      "example_meaning": "위험해요."
     },
     {
-      "id": 498,
+      "id": 429,
       "level": "N4",
-      "word": "上がる",
-      "reading": "あがる",
-      "meaning": "오르다, 올라가다",
-      "example": "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
-      "example_meaning": "가격이 올랐습니다."
+      "word": "止まる",
+      "reading": "とまる",
+      "meaning": "멈추다",
+      "example": "<ruby>時計<rt>とけい</rt></ruby>が<ruby>止<rt>と</rt></ruby>まりました。",
+      "example_meaning": "시계가 멈췄습니다."
     }
   ]
 }
