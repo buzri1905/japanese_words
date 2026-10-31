@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "words": [
     {
-      "id": 68,
+      "id": 161,
       "level": "N5",
-      "word": "八",
-      "reading": "はち",
-      "meaning": "8, 여덟",
-      "example": "<ruby>八<rt>はち</rt></ruby><ruby>月<rt>がつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いです。",
-      "example_meaning": "8월은 덥습니다."
+      "word": "あれ",
+      "reading": "あれ",
+      "meaning": "저것",
+      "example": "あれは<ruby>何<rt>なん</rt></ruby>ですか。",
+      "example_meaning": "저것은 무엇입니까?"
     },
     {
-      "id": 218,
+      "id": 282,
       "level": "N5",
-      "word": "危ない",
-      "reading": "あぶない",
-      "meaning": "위험하다",
-      "example": "<ruby>危<rt>あぶ</rt></ruby>ないですよ。",
-      "example_meaning": "위험해요."
+      "word": "旅行する",
+      "reading": "りょこうする",
+      "meaning": "여행하다",
+      "example": "<ruby>夏<rt>なつ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>します。",
+      "example_meaning": "여름에 여행합니다."
     },
     {
-      "id": 429,
+      "id": 435,
       "level": "N4",
-      "word": "止まる",
-      "reading": "とまる",
-      "meaning": "멈추다",
-      "example": "<ruby>時計<rt>とけい</rt></ruby>が<ruby>止<rt>と</rt></ruby>まりました。",
-      "example_meaning": "시계가 멈췄습니다."
+      "word": "直る",
+      "reading": "なおる",
+      "meaning": "고쳐지다",
+      "example": "<ruby>機械<rt>きかい</rt></ruby>が<ruby>直<rt>なお</rt></ruby>りました。",
+      "example_meaning": "기계가 고쳐졌습니다."
     }
   ]
 }

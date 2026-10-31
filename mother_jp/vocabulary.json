@@ -1608,7 +1608,7 @@
       "meaning": "저것",
       "example": "あれは<ruby>何<rt>なん</rt></ruby>ですか。",
       "example_meaning": "저것은 무엇입니까?",
-      "used_date": null
+      "used_date": "2026-11-01"
     },
     {
       "id": 162,
@@ -2818,7 +2818,7 @@
       "meaning": "여행하다",
       "example": "<ruby>夏<rt>なつ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>します。",
       "example_meaning": "여름에 여행합니다.",
-      "used_date": null
+      "used_date": "2026-11-01"
     },
     {
       "id": 283,
@@ -4348,7 +4348,7 @@
       "meaning": "고쳐지다",
       "example": "<ruby>機械<rt>きかい</rt></ruby>が<ruby>直<rt>なお</rt></ruby>りました。",
       "example_meaning": "기계가 고쳐졌습니다.",
-      "used_date": null
+      "used_date": "2026-11-01"
     },
     {
       "id": 436,
