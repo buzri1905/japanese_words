@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "words": [
     {
-      "id": 161,
+      "id": 289,
       "level": "N5",
-      "word": "あれ",
-      "reading": "あれ",
-      "meaning": "저것",
-      "example": "あれは<ruby>何<rt>なん</rt></ruby>ですか。",
-      "example_meaning": "저것은 무엇입니까?"
+      "word": "練習する",
+      "reading": "れんしゅうする",
+      "meaning": "연습하다",
+      "example": "ピアノを<ruby>練習<rt>れんしゅう</rt></ruby>します。",
+      "example_meaning": "피아노를 연습합니다."
     },
     {
-      "id": 282,
+      "id": 387,
       "level": "N5",
-      "word": "旅行する",
-      "reading": "りょこうする",
-      "meaning": "여행하다",
-      "example": "<ruby>夏<rt>なつ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>します。",
-      "example_meaning": "여름에 여행합니다."
+      "word": "字",
+      "reading": "じ",
+      "meaning": "글자",
+      "example": "<ruby>字<rt>じ</rt></ruby>がきれいですね。",
+      "example_meaning": "글씨가 예쁘네요."
     },
     {
-      "id": 435,
+      "id": 465,
       "level": "N4",
-      "word": "直る",
-      "reading": "なおる",
-      "meaning": "고쳐지다",
-      "example": "<ruby>機械<rt>きかい</rt></ruby>が<ruby>直<rt>なお</rt></ruby>りました。",
-      "example_meaning": "기계가 고쳐졌습니다."
+      "word": "受け取る",
+      "reading": "うけとる",
+      "meaning": "받다, 수취하다",
+      "example": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
+      "example_meaning": "짐을 받았습니다."
     }
   ]
 }
