@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "words": [
     {
-      "id": 289,
+      "id": 371,
       "level": "N5",
-      "word": "練習する",
-      "reading": "れんしゅうする",
-      "meaning": "연습하다",
-      "example": "ピアノを<ruby>練習<rt>れんしゅう</rt></ruby>します。",
-      "example_meaning": "피아노를 연습합니다."
+      "word": "コート",
+      "reading": "コート",
+      "meaning": "코트",
+      "example": "<ruby>冬<rt>ふゆ</rt></ruby>はコートを<ruby>着<rt>き</rt></ruby>ます。",
+      "example_meaning": "겨울에는 코트를 입습니다."
     },
     {
-      "id": 387,
+      "id": 194,
       "level": "N5",
-      "word": "字",
-      "reading": "じ",
-      "meaning": "글자",
-      "example": "<ruby>字<rt>じ</rt></ruby>がきれいですね。",
-      "example_meaning": "글씨가 예쁘네요."
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaning": "어렵다",
+      "example": "<ruby>漢字<rt>かんじ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいです。",
+      "example_meaning": "한자는 어렵습니다."
     },
     {
-      "id": 465,
+      "id": 600,
       "level": "N4",
-      "word": "受け取る",
-      "reading": "うけとる",
-      "meaning": "받다, 수취하다",
-      "example": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
-      "example_meaning": "짐을 받았습니다."
+      "word": "味噌",
+      "reading": "みそ",
+      "meaning": "된장",
+      "example": "<ruby>味噌<rt>みそ</rt></ruby>スープです。",
+      "example_meaning": "된장국입니다."
     }
   ]
 }
