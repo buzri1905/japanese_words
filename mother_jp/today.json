@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "words": [
     {
-      "id": 371,
+      "id": 273,
       "level": "N5",
-      "word": "コート",
-      "reading": "コート",
-      "meaning": "코트",
-      "example": "<ruby>冬<rt>ふゆ</rt></ruby>はコートを<ruby>着<rt>き</rt></ruby>ます。",
-      "example_meaning": "겨울에는 코트를 입습니다."
+      "word": "乗る",
+      "reading": "のる",
+      "meaning": "타다",
+      "example": "バスに<ruby>乗<rt>の</rt></ruby>ります。",
+      "example_meaning": "버스를 탑니다."
     },
     {
-      "id": 194,
+      "id": 63,
       "level": "N5",
-      "word": "難しい",
-      "reading": "むずかしい",
-      "meaning": "어렵다",
-      "example": "<ruby>漢字<rt>かんじ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいです。",
-      "example_meaning": "한자는 어렵습니다."
+      "word": "三",
+      "reading": "さん",
+      "meaning": "3, 셋",
+      "example": "<ruby>三<rt>さん</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "세 명이서 갑니다."
     },
     {
-      "id": 600,
+      "id": 893,
       "level": "N4",
-      "word": "味噌",
-      "reading": "みそ",
-      "meaning": "된장",
-      "example": "<ruby>味噌<rt>みそ</rt></ruby>スープです。",
-      "example_meaning": "된장국입니다."
+      "word": "全て",
+      "reading": "すべて",
+      "meaning": "모두, 전부",
+      "example": "<ruby>全<rt>すべ</rt></ruby>てが<ruby>順調<rt>じゅんちょう</rt></ruby>です。",
+      "example_meaning": "모든 것이 순조롭습니다."
     }
   ]
 }
