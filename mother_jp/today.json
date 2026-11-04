@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "words": [
     {
-      "id": 273,
+      "id": 344,
       "level": "N5",
-      "word": "乗る",
-      "reading": "のる",
-      "meaning": "타다",
-      "example": "バスに<ruby>乗<rt>の</rt></ruby>ります。",
-      "example_meaning": "버스를 탑니다."
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "전철",
+      "example": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "전철로 회사에 갑니다."
     },
     {
-      "id": 63,
+      "id": 141,
       "level": "N5",
-      "word": "三",
-      "reading": "さん",
-      "meaning": "3, 셋",
-      "example": "<ruby>三<rt>さん</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "세 명이서 갑니다."
+      "word": "黄色",
+      "reading": "きいろ",
+      "meaning": "노랑",
+      "example": "<ruby>黄色<rt>きいろ</rt></ruby>い<ruby>花<rt>はな</rt></ruby>です。",
+      "example_meaning": "노란 꽃입니다."
     },
     {
-      "id": 893,
+      "id": 866,
       "level": "N4",
-      "word": "全て",
-      "reading": "すべて",
-      "meaning": "모두, 전부",
-      "example": "<ruby>全<rt>すべ</rt></ruby>てが<ruby>順調<rt>じゅんちょう</rt></ruby>です。",
-      "example_meaning": "모든 것이 순조롭습니다."
+      "word": "ニュース",
+      "reading": "ニュース",
+      "meaning": "뉴스",
+      "example": "ニュースを<ruby>見<rt>み</rt></ruby>ます。",
+      "example_meaning": "뉴스를 봅니다."
     }
   ]
 }
