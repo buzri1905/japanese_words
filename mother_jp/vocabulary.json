@@ -708,7 +708,7 @@
       "meaning": "100",
       "example": "<ruby>百<rt>ひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>です。",
       "example_meaning": "100엔입니다.",
-      "used_date": null
+      "used_date": "2026-11-06"
     },
     {
       "id": 72,
@@ -2988,7 +2988,7 @@
       "meaning": "공부",
       "example": "<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>です。",
       "example_meaning": "공부가 힘듭니다.",
-      "used_date": null
+      "used_date": "2026-11-06"
     },
     {
       "id": 300,
@@ -4878,7 +4878,7 @@
       "meaning": "찌다",
       "example": "<ruby>肉<rt>にく</rt></ruby>まんを<ruby>蒸<rt>む</rt></ruby>します。",
       "example_meaning": "고기만두를 찝니다.",
-      "used_date": null
+      "used_date": "2026-11-06"
     },
     {
       "id": 489,
