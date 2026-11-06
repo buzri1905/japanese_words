@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "words": [
     {
-      "id": 71,
+      "id": 391,
       "level": "N5",
-      "word": "百",
-      "reading": "ひゃく",
-      "meaning": "100",
-      "example": "<ruby>百<rt>ひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>です。",
-      "example_meaning": "100엔입니다."
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "학생",
+      "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。",
+      "example_meaning": "저는 학생입니다."
     },
     {
-      "id": 299,
+      "id": 157,
       "level": "N5",
-      "word": "勉強",
-      "reading": "べんきょう",
-      "meaning": "공부",
-      "example": "<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>です。",
-      "example_meaning": "공부가 힘듭니다."
+      "word": "彼",
+      "reading": "かれ",
+      "meaning": "그",
+      "example": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。",
+      "example_meaning": "그는 학생입니다."
     },
     {
-      "id": 488,
+      "id": 667,
       "level": "N4",
-      "word": "蒸す",
-      "reading": "むす",
-      "meaning": "찌다",
-      "example": "<ruby>肉<rt>にく</rt></ruby>まんを<ruby>蒸<rt>む</rt></ruby>します。",
-      "example_meaning": "고기만두를 찝니다."
+      "word": "税金",
+      "reading": "ぜいきん",
+      "meaning": "세금",
+      "example": "<ruby>税金<rt>ぜいきん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>います。",
+      "example_meaning": "세금을 냅니다."
     }
   ]
 }
