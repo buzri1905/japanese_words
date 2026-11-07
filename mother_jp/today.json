@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "words": [
     {
-      "id": 391,
+      "id": 184,
       "level": "N5",
-      "word": "学生",
-      "reading": "がくせい",
-      "meaning": "학생",
-      "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。",
-      "example_meaning": "저는 학생입니다."
+      "word": "多い",
+      "reading": "おおい",
+      "meaning": "많다",
+      "example": "<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
+      "example_meaning": "사람이 많습니다."
     },
     {
-      "id": 157,
+      "id": 381,
       "level": "N5",
-      "word": "彼",
-      "reading": "かれ",
-      "meaning": "그",
-      "example": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。",
-      "example_meaning": "그는 학생입니다."
+      "word": "紙",
+      "reading": "かみ",
+      "meaning": "종이",
+      "example": "<ruby>紙<rt>かみ</rt></ruby>に<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。",
+      "example_meaning": "종이에 이름을 씁니다."
     },
     {
-      "id": 667,
+      "id": 880,
       "level": "N4",
-      "word": "税金",
-      "reading": "ぜいきん",
-      "meaning": "세금",
-      "example": "<ruby>税金<rt>ぜいきん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>います。",
-      "example_meaning": "세금을 냅니다."
+      "word": "お見舞い",
+      "reading": "おみまい",
+      "meaning": "병문안",
+      "example": "<ruby>病院<rt>びょういん</rt></ruby>へお<ruby>見舞<rt>みま</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "병원에 병문안 갑니다."
     }
   ]
 }
