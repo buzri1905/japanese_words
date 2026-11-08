@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "words": [
     {
-      "id": 184,
+      "id": 112,
       "level": "N5",
-      "word": "多い",
-      "reading": "おおい",
-      "meaning": "많다",
-      "example": "<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
-      "example_meaning": "사람이 많습니다."
+      "word": "空",
+      "reading": "そら",
+      "meaning": "하늘",
+      "example": "<ruby>空<rt>そら</rt></ruby>が<ruby>青<rt>あお</rt></ruby>いです。",
+      "example_meaning": "하늘이 파랗습니다."
     },
     {
-      "id": 381,
+      "id": 123,
       "level": "N5",
-      "word": "紙",
-      "reading": "かみ",
-      "meaning": "종이",
-      "example": "<ruby>紙<rt>かみ</rt></ruby>に<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。",
-      "example_meaning": "종이에 이름을 씁니다."
+      "word": "お父さん",
+      "reading": "おとうさん",
+      "meaning": "아버지(존칭)",
+      "example": "<ruby>お父<rt>とう</rt></ruby>さんはお<ruby>元気<rt>げんき</rt></ruby>ですか。",
+      "example_meaning": "아버님은 잘 지내세요?"
     },
     {
-      "id": 880,
+      "id": 561,
       "level": "N4",
-      "word": "お見舞い",
-      "reading": "おみまい",
-      "meaning": "병문안",
-      "example": "<ruby>病院<rt>びょういん</rt></ruby>へお<ruby>見舞<rt>みま</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "병원에 병문안 갑니다."
+      "word": "招く",
+      "reading": "まねく",
+      "meaning": "초대하다, 초래하다",
+      "example": "<ruby>友達<rt>ともだち</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>に<ruby>招<rt>まね</rt></ruby>きました。",
+      "example_meaning": "친구를 집에 초대했습니다."
     }
   ]
 }
