@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "words": [
     {
-      "id": 393,
+      "id": 132,
       "level": "N5",
-      "word": "おはよう",
-      "reading": "おはよう",
-      "meaning": "안녕(아침 인사)",
-      "example": "おはようございます。",
-      "example_meaning": "안녕하세요(아침)."
+      "word": "鼻",
+      "reading": "はな",
+      "meaning": "코",
+      "example": "<ruby>鼻<rt>はな</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。",
+      "example_meaning": "코가 높습니다."
     },
     {
-      "id": 288,
+      "id": 149,
       "level": "N5",
-      "word": "買い物する",
-      "reading": "かいものする",
-      "meaning": "쇼핑하다, 장보다",
-      "example": "デパートで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>します。",
-      "example_meaning": "백화점에서 쇼핑합니다."
+      "word": "どう",
+      "reading": "どう",
+      "meaning": "어떻게",
+      "example": "<ruby>味<rt>あじ</rt></ruby>はどうですか。",
+      "example_meaning": "맛은 어때요?"
     },
     {
-      "id": 800,
+      "id": 537,
       "level": "N4",
-      "word": "もちろん",
-      "reading": "もちろん",
-      "meaning": "물론",
-      "example": "もちろん<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "물론 갑니다."
+      "word": "通る",
+      "reading": "とおる",
+      "meaning": "지나가다",
+      "example": "<ruby>大通<rt>おおどお</rt></ruby>りを<ruby>通<rt>とお</rt></ruby>ります。",
+      "example_meaning": "큰길을 지나갑니다."
     }
   ]
 }
