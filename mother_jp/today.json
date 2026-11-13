@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "words": [
     {
-      "id": 132,
+      "id": 140,
       "level": "N5",
-      "word": "鼻",
-      "reading": "はな",
-      "meaning": "코",
-      "example": "<ruby>鼻<rt>はな</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。",
-      "example_meaning": "코가 높습니다."
+      "word": "黒",
+      "reading": "くろ",
+      "meaning": "검정",
+      "example": "<ruby>黒<rt>くろ</rt></ruby>い<ruby>猫<rt>ねこ</rt></ruby>がいます。",
+      "example_meaning": "검은 고양이가 있습니다."
     },
     {
-      "id": 149,
+      "id": 354,
       "level": "N5",
-      "word": "どう",
-      "reading": "どう",
-      "meaning": "어떻게",
-      "example": "<ruby>味<rt>あじ</rt></ruby>はどうですか。",
-      "example_meaning": "맛은 어때요?"
+      "word": "テーブル",
+      "reading": "テーブル",
+      "meaning": "테이블, 식탁",
+      "example": "テーブルにご<ruby>飯<rt>はん</rt></ruby>を<ruby>並<rt>なら</rt></ruby>べます。",
+      "example_meaning": "식탁에 밥을 차립니다."
     },
     {
-      "id": 537,
+      "id": 428,
       "level": "N4",
-      "word": "通る",
-      "reading": "とおる",
-      "meaning": "지나가다",
-      "example": "<ruby>大通<rt>おおどお</rt></ruby>りを<ruby>通<rt>とお</rt></ruby>ります。",
-      "example_meaning": "큰길을 지나갑니다."
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "멈추다, 세우다",
+      "example": "<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めてください。",
+      "example_meaning": "차를 세워 주세요."
     }
   ]
 }
