@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "words": [
     {
-      "id": 140,
+      "id": 317,
       "level": "N5",
-      "word": "黒",
-      "reading": "くろ",
-      "meaning": "검정",
-      "example": "<ruby>黒<rt>くろ</rt></ruby>い<ruby>猫<rt>ねこ</rt></ruby>がいます。",
-      "example_meaning": "검은 고양이가 있습니다."
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "돼지고기",
+      "example": "<ruby>豚肉<rt>ぶたにく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+      "example_meaning": "돼지고기를 샀습니다."
     },
     {
-      "id": 354,
+      "id": 66,
       "level": "N5",
-      "word": "テーブル",
-      "reading": "テーブル",
-      "meaning": "테이블, 식탁",
-      "example": "テーブルにご<ruby>飯<rt>はん</rt></ruby>を<ruby>並<rt>なら</rt></ruby>べます。",
-      "example_meaning": "식탁에 밥을 차립니다."
+      "word": "六",
+      "reading": "ろく",
+      "meaning": "6, 여섯",
+      "example": "<ruby>六<rt>ろく</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。",
+      "example_meaning": "6시에 일어납니다."
     },
     {
-      "id": 428,
+      "id": 640,
       "level": "N4",
-      "word": "止める",
-      "reading": "とめる",
-      "meaning": "멈추다, 세우다",
-      "example": "<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めてください。",
-      "example_meaning": "차를 세워 주세요."
+      "word": "公務員",
+      "reading": "こうむいん",
+      "meaning": "공무원",
+      "example": "<ruby>父<rt>ちち</rt></ruby>は<ruby>公務員<rt>こうむいん</rt></ruby>です。",
+      "example_meaning": "아버지는 공무원입니다."
     }
   ]
 }
