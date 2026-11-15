@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "words": [
     {
-      "id": 317,
+      "id": 384,
       "level": "N5",
-      "word": "豚肉",
-      "reading": "ぶたにく",
-      "meaning": "돼지고기",
-      "example": "<ruby>豚肉<rt>ぶたにく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
-      "example_meaning": "돼지고기를 샀습니다."
+      "word": "葉書",
+      "reading": "はがき",
+      "meaning": "엽서",
+      "example": "<ruby>葉書<rt>はがき</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。",
+      "example_meaning": "엽서를 보냅니다."
     },
     {
-      "id": 66,
+      "id": 268,
       "level": "N5",
-      "word": "六",
-      "reading": "ろく",
-      "meaning": "6, 여섯",
-      "example": "<ruby>六<rt>ろく</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。",
-      "example_meaning": "6시에 일어납니다."
+      "word": "言う",
+      "reading": "いう",
+      "meaning": "말하다",
+      "example": "<ruby>名前<rt>なまえ</rt></ruby>を<ruby>言<rt>い</rt></ruby>ってください。",
+      "example_meaning": "이름을 말해 주세요."
     },
     {
-      "id": 640,
+      "id": 845,
       "level": "N4",
-      "word": "公務員",
-      "reading": "こうむいん",
-      "meaning": "공무원",
-      "example": "<ruby>父<rt>ちち</rt></ruby>は<ruby>公務員<rt>こうむいん</rt></ruby>です。",
-      "example_meaning": "아버지는 공무원입니다."
+      "word": "思い出す",
+      "reading": "おもいだす",
+      "meaning": "떠올리다, 생각해내다",
+      "example": "<ruby>名前<rt>なまえ</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しました。",
+      "example_meaning": "이름을 떠올렸습니다."
     }
   ]
 }
