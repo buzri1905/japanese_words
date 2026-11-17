@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "words": [
     {
-      "id": 411,
+      "id": 339,
       "level": "N5",
-      "word": "いつも",
-      "reading": "いつも",
-      "meaning": "항상",
-      "example": "いつも<ruby>同<rt>おな</rt></ruby>じ<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "example_meaning": "항상 같은 가게에 갑니다."
+      "word": "階段",
+      "reading": "かいだん",
+      "meaning": "계단",
+      "example": "<ruby>階段<rt>かいだん</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>ります。",
+      "example_meaning": "계단을 올라갑니다."
     },
     {
-      "id": 223,
+      "id": 167,
       "level": "N5",
-      "word": "静か",
-      "reading": "しずか",
-      "meaning": "조용하다",
-      "example": "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かです。",
-      "example_meaning": "도서관은 조용합니다."
+      "word": "前",
+      "reading": "まえ",
+      "meaning": "앞, 전",
+      "example": "<ruby>家<rt>いえ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>があります。",
+      "example_meaning": "집 앞에 차가 있습니다."
     },
     {
-      "id": 869,
+      "id": 675,
       "level": "N4",
-      "word": "送る",
-      "reading": "おくる",
-      "meaning": "보내다",
-      "example": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。",
-      "example_meaning": "짐을 보냅니다."
+      "word": "石鹸",
+      "reading": "せっけん",
+      "meaning": "비누",
+      "example": "<ruby>石鹸<rt>せっけん</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
+      "example_meaning": "비누로 손을 씻습니다."
     }
   ]
 }
