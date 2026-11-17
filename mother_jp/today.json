@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "words": [
     {
-      "id": 384,
+      "id": 411,
       "level": "N5",
-      "word": "葉書",
-      "reading": "はがき",
-      "meaning": "엽서",
-      "example": "<ruby>葉書<rt>はがき</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。",
-      "example_meaning": "엽서를 보냅니다."
+      "word": "いつも",
+      "reading": "いつも",
+      "meaning": "항상",
+      "example": "いつも<ruby>同<rt>おな</rt></ruby>じ<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "example_meaning": "항상 같은 가게에 갑니다."
     },
     {
-      "id": 268,
+      "id": 223,
       "level": "N5",
-      "word": "言う",
-      "reading": "いう",
-      "meaning": "말하다",
-      "example": "<ruby>名前<rt>なまえ</rt></ruby>を<ruby>言<rt>い</rt></ruby>ってください。",
-      "example_meaning": "이름을 말해 주세요."
+      "word": "静か",
+      "reading": "しずか",
+      "meaning": "조용하다",
+      "example": "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かです。",
+      "example_meaning": "도서관은 조용합니다."
     },
     {
-      "id": 845,
+      "id": 869,
       "level": "N4",
-      "word": "思い出す",
-      "reading": "おもいだす",
-      "meaning": "떠올리다, 생각해내다",
-      "example": "<ruby>名前<rt>なまえ</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しました。",
-      "example_meaning": "이름을 떠올렸습니다."
+      "word": "送る",
+      "reading": "おくる",
+      "meaning": "보내다",
+      "example": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。",
+      "example_meaning": "짐을 보냅니다."
     }
   ]
 }
