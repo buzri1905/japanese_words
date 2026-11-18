@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "words": [
     {
-      "id": 339,
+      "id": 332,
       "level": "N5",
-      "word": "階段",
-      "reading": "かいだん",
-      "meaning": "계단",
-      "example": "<ruby>階段<rt>かいだん</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>ります。",
-      "example_meaning": "계단을 올라갑니다."
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "교실",
+      "example": "<ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+      "example_meaning": "교실에서 공부합니다."
     },
     {
-      "id": 167,
+      "id": 327,
       "level": "N5",
-      "word": "前",
-      "reading": "まえ",
-      "meaning": "앞, 전",
-      "example": "<ruby>家<rt>いえ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>があります。",
-      "example_meaning": "집 앞에 차가 있습니다."
+      "word": "レストラン",
+      "reading": "レストラン",
+      "meaning": "레스토랑, 식당",
+      "example": "レストランで<ruby>食事<rt>しょくじ</rt></ruby>します。",
+      "example_meaning": "레스토랑에서 식사합니다."
     },
     {
-      "id": 675,
+      "id": 689,
       "level": "N4",
-      "word": "石鹸",
-      "reading": "せっけん",
-      "meaning": "비누",
-      "example": "<ruby>石鹸<rt>せっけん</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
-      "example_meaning": "비누로 손을 씻습니다."
+      "word": "経験",
+      "reading": "けいけん",
+      "meaning": "경험",
+      "example": "いい<ruby>経験<rt>けいけん</rt></ruby>でした。",
+      "example_meaning": "좋은 경험이었습니다."
     }
   ]
 }
