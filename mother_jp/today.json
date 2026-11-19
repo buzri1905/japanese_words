@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "words": [
     {
-      "id": 332,
+      "id": 175,
       "level": "N5",
-      "word": "教室",
-      "reading": "きょうしつ",
-      "meaning": "교실",
-      "example": "<ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。",
-      "example_meaning": "교실에서 공부합니다."
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "이름",
+      "example": "お<ruby>名前<rt>なまえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
+      "example_meaning": "이름이 무엇입니까?"
     },
     {
-      "id": 327,
+      "id": 25,
       "level": "N5",
-      "word": "レストラン",
-      "reading": "レストラン",
-      "meaning": "레스토랑, 식당",
-      "example": "レストランで<ruby>食事<rt>しょくじ</rt></ruby>します。",
-      "example_meaning": "레스토랑에서 식사합니다."
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "선생님",
+      "example": "<ruby>先生<rt>せんせい</rt></ruby>はやさしいです。",
+      "example_meaning": "선생님은 자상하십니다."
     },
     {
-      "id": 689,
+      "id": 867,
       "level": "N4",
-      "word": "経験",
-      "reading": "けいけん",
-      "meaning": "경험",
-      "example": "いい<ruby>経験<rt>けいけん</rt></ruby>でした。",
-      "example_meaning": "좋은 경험이었습니다."
+      "word": "天気予報",
+      "reading": "てんきよほう",
+      "meaning": "일기예보",
+      "example": "<ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "example_meaning": "일기예보를 확인합니다."
     }
   ]
 }

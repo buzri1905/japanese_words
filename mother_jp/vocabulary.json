@@ -248,7 +248,7 @@
       "meaning": "선생님",
       "example": "<ruby>先生<rt>せんせい</rt></ruby>はやさしいです。",
       "example_meaning": "선생님은 자상하십니다.",
-      "used_date": null
+      "used_date": "2026-11-20"
     },
     {
       "id": 26,
@@ -1748,7 +1748,7 @@
       "meaning": "이름",
       "example": "お<ruby>名前<rt>なまえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
       "example_meaning": "이름이 무엇입니까?",
-      "used_date": null
+      "used_date": "2026-11-20"
     },
     {
       "id": 176,
@@ -8648,7 +8648,7 @@
       "meaning": "일기예보",
       "example": "<ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
       "example_meaning": "일기예보를 확인합니다.",
-      "used_date": null
+      "used_date": "2026-11-20"
     },
     {
       "id": 868,
