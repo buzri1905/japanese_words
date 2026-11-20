@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "words": [
     {
-      "id": 175,
+      "id": 270,
       "level": "N5",
-      "word": "名前",
-      "reading": "なまえ",
-      "meaning": "이름",
-      "example": "お<ruby>名前<rt>なまえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
-      "example_meaning": "이름이 무엇입니까?"
+      "word": "入る",
+      "reading": "はいる",
+      "meaning": "들어가다",
+      "example": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。",
+      "example_meaning": "방에 들어갑니다."
     },
     {
-      "id": 25,
+      "id": 295,
       "level": "N5",
-      "word": "先生",
-      "reading": "せんせい",
-      "meaning": "선생님",
-      "example": "<ruby>先生<rt>せんせい</rt></ruby>はやさしいです。",
-      "example_meaning": "선생님은 자상하십니다."
+      "word": "歌",
+      "reading": "うた",
+      "meaning": "노래",
+      "example": "<ruby>好<rt>す</rt></ruby>きな<ruby>歌<rt>うた</rt></ruby>があります。",
+      "example_meaning": "좋아하는 노래가 있습니다."
     },
     {
-      "id": 867,
+      "id": 490,
       "level": "N4",
-      "word": "天気予報",
-      "reading": "てんきよほう",
-      "meaning": "일기예보",
-      "example": "<ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
-      "example_meaning": "일기예보를 확인합니다."
+      "word": "炒める",
+      "reading": "いためる",
+      "meaning": "볶다",
+      "example": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>炒<rt>いた</rt></ruby>めます。",
+      "example_meaning": "채소를 볶습니다."
     }
   ]
 }

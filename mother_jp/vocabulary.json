@@ -2698,7 +2698,7 @@
       "meaning": "들어가다",
       "example": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。",
       "example_meaning": "방에 들어갑니다.",
-      "used_date": null
+      "used_date": "2026-11-21"
     },
     {
       "id": 271,
@@ -2948,7 +2948,7 @@
       "meaning": "노래",
       "example": "<ruby>好<rt>す</rt></ruby>きな<ruby>歌<rt>うた</rt></ruby>があります。",
       "example_meaning": "좋아하는 노래가 있습니다.",
-      "used_date": null
+      "used_date": "2026-11-21"
     },
     {
       "id": 296,
@@ -4898,7 +4898,7 @@
       "meaning": "볶다",
       "example": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>炒<rt>いた</rt></ruby>めます。",
       "example_meaning": "채소를 볶습니다.",
-      "used_date": null
+      "used_date": "2026-11-21"
     },
     {
       "id": 491,
