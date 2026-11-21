@@ -748,7 +748,7 @@
       "meaning": "지금",
       "example": "<ruby>今<rt>いま</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>ですか。",
       "example_meaning": "지금 몇 시예요?",
-      "used_date": null
+      "used_date": "2026-11-22"
     },
     {
       "id": 76,
@@ -1048,7 +1048,7 @@
       "meaning": "여름",
       "example": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いです。",
       "example_meaning": "여름은 덥습니다.",
-      "used_date": null
+      "used_date": "2026-11-22"
     },
     {
       "id": 106,
@@ -7108,7 +7108,7 @@
       "meaning": "경기, 시합",
       "example": "サッカーの<ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
       "example_meaning": "축구 경기를 봅니다.",
-      "used_date": null
+      "used_date": "2026-11-22"
     },
     {
       "id": 712,

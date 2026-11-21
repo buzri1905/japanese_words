@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "words": [
     {
-      "id": 270,
+      "id": 75,
       "level": "N5",
-      "word": "入る",
-      "reading": "はいる",
-      "meaning": "들어가다",
-      "example": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。",
-      "example_meaning": "방에 들어갑니다."
+      "word": "今",
+      "reading": "いま",
+      "meaning": "지금",
+      "example": "<ruby>今<rt>いま</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>ですか。",
+      "example_meaning": "지금 몇 시예요?"
     },
     {
-      "id": 295,
+      "id": 105,
       "level": "N5",
-      "word": "歌",
-      "reading": "うた",
-      "meaning": "노래",
-      "example": "<ruby>好<rt>す</rt></ruby>きな<ruby>歌<rt>うた</rt></ruby>があります。",
-      "example_meaning": "좋아하는 노래가 있습니다."
+      "word": "夏",
+      "reading": "なつ",
+      "meaning": "여름",
+      "example": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いです。",
+      "example_meaning": "여름은 덥습니다."
     },
     {
-      "id": 490,
+      "id": 711,
       "level": "N4",
-      "word": "炒める",
-      "reading": "いためる",
-      "meaning": "볶다",
-      "example": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>炒<rt>いた</rt></ruby>めます。",
-      "example_meaning": "채소를 볶습니다."
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "경기, 시합",
+      "example": "サッカーの<ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
+      "example_meaning": "축구 경기를 봅니다."
     }
   ]
 }
