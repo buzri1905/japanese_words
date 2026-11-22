@@ -798,7 +798,7 @@
       "meaning": "오늘",
       "example": "<ruby>今日<rt>きょう</rt></ruby>はいい<ruby>天気<rt>てんき</rt></ruby>です。",
       "example_meaning": "오늘은 날씨가 좋습니다.",
-      "used_date": null
+      "used_date": "2026-11-23"
     },
     {
       "id": 81,
@@ -3358,7 +3358,7 @@
       "meaning": "정원, 마당",
       "example": "<ruby>庭<rt>にわ</rt></ruby>に<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いています。",
       "example_meaning": "마당에 꽃이 피어 있습니다.",
-      "used_date": null
+      "used_date": "2026-11-23"
     },
     {
       "id": 337,
@@ -8298,7 +8298,7 @@
       "meaning": "사실은",
       "example": "<ruby>実<rt>じつ</rt></ruby>は<ruby>困<rt>こま</rt></ruby>っています。",
       "example_meaning": "사실은 곤란합니다.",
-      "used_date": null
+      "used_date": "2026-11-23"
     },
     {
       "id": 831,

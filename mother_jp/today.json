@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "words": [
     {
-      "id": 75,
+      "id": 80,
       "level": "N5",
-      "word": "今",
-      "reading": "いま",
-      "meaning": "지금",
-      "example": "<ruby>今<rt>いま</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>ですか。",
-      "example_meaning": "지금 몇 시예요?"
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "오늘",
+      "example": "<ruby>今日<rt>きょう</rt></ruby>はいい<ruby>天気<rt>てんき</rt></ruby>です。",
+      "example_meaning": "오늘은 날씨가 좋습니다."
     },
     {
-      "id": 105,
+      "id": 336,
       "level": "N5",
-      "word": "夏",
-      "reading": "なつ",
-      "meaning": "여름",
-      "example": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いです。",
-      "example_meaning": "여름은 덥습니다."
+      "word": "庭",
+      "reading": "にわ",
+      "meaning": "정원, 마당",
+      "example": "<ruby>庭<rt>にわ</rt></ruby>に<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いています。",
+      "example_meaning": "마당에 꽃이 피어 있습니다."
     },
     {
-      "id": 711,
+      "id": 830,
       "level": "N4",
-      "word": "試合",
-      "reading": "しあい",
-      "meaning": "경기, 시합",
-      "example": "サッカーの<ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
-      "example_meaning": "축구 경기를 봅니다."
+      "word": "実は",
+      "reading": "じつは",
+      "meaning": "사실은",
+      "example": "<ruby>実<rt>じつ</rt></ruby>は<ruby>困<rt>こま</rt></ruby>っています。",
+      "example_meaning": "사실은 곤란합니다."
     }
   ]
 }
