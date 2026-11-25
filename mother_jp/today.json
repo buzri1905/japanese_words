@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "words": [
     {
-      "id": 93,
+      "id": 153,
       "level": "N5",
-      "word": "今年",
-      "reading": "ことし",
-      "meaning": "올해",
-      "example": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いです。",
-      "example_meaning": "올해는 덥습니다."
+      "word": "いくら",
+      "reading": "いくら",
+      "meaning": "얼마",
+      "example": "これはいくらですか。",
+      "example_meaning": "이것은 얼마예요?"
     },
     {
-      "id": 245,
+      "id": 409,
       "level": "N5",
-      "word": "貸す",
-      "reading": "かす",
-      "meaning": "빌려주다",
-      "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してください。",
-      "example_meaning": "책을 빌려 주세요."
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "조금",
+      "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>休<rt>やす</rt></ruby>みます。",
+      "example_meaning": "조금 쉽니다."
     },
     {
-      "id": 500,
+      "id": 761,
       "level": "N4",
-      "word": "上げる",
-      "reading": "あげる",
-      "meaning": "올리다, 들다",
-      "example": "<ruby>手<rt>て</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げてください。",
-      "example_meaning": "손을 들어 주세요."
+      "word": "酸っぱい",
+      "reading": "すっぱい",
+      "meaning": "시다, 시큼하다",
+      "example": "レモンは<ruby>酸<rt>す</rt></ruby>っぱいです。",
+      "example_meaning": "레몬은 십니다."
     }
   ]
 }

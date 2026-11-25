@@ -1528,7 +1528,7 @@
       "meaning": "얼마",
       "example": "これはいくらですか。",
       "example_meaning": "이것은 얼마예요?",
-      "used_date": null
+      "used_date": "2026-11-25"
     },
     {
       "id": 154,
@@ -4088,7 +4088,7 @@
       "meaning": "조금",
       "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>休<rt>やす</rt></ruby>みます。",
       "example_meaning": "조금 쉽니다.",
-      "used_date": null
+      "used_date": "2026-11-25"
     },
     {
       "id": 410,
@@ -7608,7 +7608,7 @@
       "meaning": "시다, 시큼하다",
       "example": "レモンは<ruby>酸<rt>す</rt></ruby>っぱいです。",
       "example_meaning": "레몬은 십니다.",
-      "used_date": null
+      "used_date": "2026-11-25"
     },
     {
       "id": 762,
