@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "words": [
     {
-      "id": 153,
+      "id": 216,
       "level": "N5",
-      "word": "いくら",
-      "reading": "いくら",
-      "meaning": "얼마",
-      "example": "これはいくらですか。",
-      "example_meaning": "이것은 얼마예요?"
+      "word": "汚い",
+      "reading": "きたない",
+      "meaning": "더럽다",
+      "example": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>いです。",
+      "example_meaning": "방이 더럽습니다."
     },
     {
-      "id": 409,
+      "id": 81,
       "level": "N5",
-      "word": "少し",
-      "reading": "すこし",
-      "meaning": "조금",
-      "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>休<rt>やす</rt></ruby>みます。",
-      "example_meaning": "조금 쉽니다."
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "내일",
+      "example": "<ruby>明日<rt>あした</rt></ruby><ruby>会<rt>あ</rt></ruby>いましょう。",
+      "example_meaning": "내일 만나요."
     },
     {
-      "id": 761,
+      "id": 710,
       "level": "N4",
-      "word": "酸っぱい",
-      "reading": "すっぱい",
-      "meaning": "시다, 시큼하다",
-      "example": "レモンは<ruby>酸<rt>す</rt></ruby>っぱいです。",
-      "example_meaning": "레몬은 십니다."
+      "word": "自分",
+      "reading": "じぶん",
+      "meaning": "자기, 자신",
+      "example": "<ruby>自分<rt>じぶん</rt></ruby>でやります。",
+      "example_meaning": "스스로 합니다."
     }
   ]
 }
