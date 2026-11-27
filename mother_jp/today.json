@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "words": [
     {
-      "id": 216,
+      "id": 368,
       "level": "N5",
-      "word": "汚い",
-      "reading": "きたない",
-      "meaning": "더럽다",
-      "example": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>いです。",
-      "example_meaning": "방이 더럽습니다."
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "모자",
+      "example": "<ruby>帽子<rt>ぼうし</rt></ruby>をかぶります。",
+      "example_meaning": "모자를 씁니다."
     },
     {
-      "id": 81,
+      "id": 27,
       "level": "N5",
-      "word": "明日",
-      "reading": "あした",
-      "meaning": "내일",
-      "example": "<ruby>明日<rt>あした</rt></ruby><ruby>会<rt>あ</rt></ruby>いましょう。",
-      "example_meaning": "내일 만나요."
+      "word": "母",
+      "reading": "はは",
+      "meaning": "어머니",
+      "example": "<ruby>母<rt>はは</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>です。",
+      "example_meaning": "어머니는 건강하십니다."
     },
     {
-      "id": 710,
+      "id": 850,
       "level": "N4",
-      "word": "自分",
-      "reading": "じぶん",
-      "meaning": "자기, 자신",
-      "example": "<ruby>自分<rt>じぶん</rt></ruby>でやります。",
-      "example_meaning": "스스로 합니다."
+      "word": "お疲れ様",
+      "reading": "おつかれさま",
+      "meaning": "수고하셨습니다",
+      "example": "お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。",
+      "example_meaning": "수고하셨습니다."
     }
   ]
 }
